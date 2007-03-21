@@ -1,5 +1,6 @@
 = Scrapers being worked on =
 
   * South Oxfordshire (Duncan)
+  * West Oxfordshire (Duncan)
   * Cherwell (Duncan)
   * Islington (Richard)
