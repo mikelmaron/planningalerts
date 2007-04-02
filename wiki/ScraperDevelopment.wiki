@@ -8,8 +8,13 @@
   * Bristol (Duncan)
   * Buckinghamshire (Duncan)
   * Cherwell (Duncan)
+  * Chiltern (Duncan) - uses https
   * East Devon (Duncan)
+  * Edinburgh (Duncan) - not working yet
+  * Fenland (Duncan) - not working yet
+  * Hambleton (Duncan) not working yet
   * Hart (Duncan)
+  * Hinckley-Bosworth (Duncan) - uses https
   * Huntingdonshire (Duncan)
   * Islington (Richard)
   * Isle of Man (Dan)
@@ -17,8 +22,10 @@
   * Luton (Duncan)
   * Mid Devon (Duncan)
   * Oadby and Wigston (Duncan)
+  * Perthshire (Duncan) - not werking yet
   * Portsmouth (Duncan)
   * Rushmoor (Duncan)
+  * Scarborough (Duncan) - not working yet
   * Sevenoaks (Duncan)
   * Spelthorne (Duncan)
   * Stevenage (Duncan)
@@ -28,7 +35,7 @@
   * Sunderland (Duncan)
   * Test Valley (Duncan)
   * Tonbridge (Duncan)
-  * West Oxfordshire (Duncan)
+  * West Oxfordshire (Duncan) - not working yet
   * West Norfolk (Duncan)
   * Woking (Duncan)
   * York (Duncan)
