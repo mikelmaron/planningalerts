@@ -10,8 +10,8 @@
   * Cherwell (Duncan)
   * Chiltern (Duncan) - uses https
   * East Devon (Duncan)
-  * Edinburgh (Duncan) - not working yet
-  * Fenland (Duncan) - not working yet
+  * Edinburgh (Duncan)
+  * Fenland (Duncan)
   * Hambleton (Duncan) - not working yet
   * Hart (Duncan)
   * Hinckley-Bosworth (Duncan) - uses https
@@ -25,7 +25,7 @@
   * Perthshire (Duncan) - not working yet
   * Portsmouth (Duncan)
   * Rushmoor (Duncan)
-  * Scarborough (Duncan) - not working yet
+  * Scarborough (Duncan)
   * Sevenoaks (Duncan)
   * Spelthorne (Duncan)
   * Stevenage (Duncan)
