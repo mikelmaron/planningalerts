@@ -9,6 +9,7 @@
   * Buckinghamshire (Duncan)
   * Cherwell (Duncan)
   * Chiltern (Duncan) - uses https
+  * Doncaster (Duncan)
   * East Devon (Duncan)
   * Edinburgh (Duncan)
   * Fenland (Duncan)
