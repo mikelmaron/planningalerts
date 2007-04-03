@@ -40,6 +40,7 @@
   * Sunderland (Duncan)
   * Test Valley (Duncan)
   * Tonbridge (Duncan)
+  * Waveney (Duncan)
   * West Oxfordshire (Duncan) - not working yet
   * West Norfolk (Duncan)
   * Woking (Duncan)
