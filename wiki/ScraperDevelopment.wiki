@@ -13,11 +13,13 @@
   * Edinburgh (Duncan)
   * Fenland (Duncan)
   * Hambleton (Duncan) - not working yet
+  * Harrogate (Duncan)
   * Hart (Duncan)
   * Hinckley-Bosworth (Duncan) - uses https
   * Huntingdonshire (Duncan)
   * Islington (Richard)
   * Isle of Man (Dan)
+  * Kerrier (Duncan)
   * Lancaster (Duncan)
   * Luton (Duncan)
   * Mid Devon (Duncan)
