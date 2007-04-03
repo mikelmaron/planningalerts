@@ -24,6 +24,7 @@
   * Luton (Duncan)
   * Mid Devon (Duncan)
   * Oadby and Wigston (Duncan)
+  * Oswestry (Duncan)
   * Perthshire (Duncan) - not working yet
   * Portsmouth (Duncan)
   * Rushmoor (Duncan)
@@ -31,6 +32,7 @@
   * Sevenoaks (Duncan)
   * Spelthorne (Duncan)
   * Stevenage (Duncan)
+  * Stockton-On-Tees (Duncan)
   * Southampton (Duncan)
   * South Oxfordshire (Duncan)
   * South Staffs (Duncan)
