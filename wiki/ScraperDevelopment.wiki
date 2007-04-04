@@ -7,6 +7,8 @@
   * Bexley (Duncan)
   * Blaby (Duncan)
   * Bristol (Duncan)
+  * Bromley (Duncan) - publicaccess site refuses access unless IE (not fooled by setting browser string in Konqueror)
+  * Bracknell Forest (Duncan) - site is broken
   * Buckinghamshire (Duncan)
   * Chelmsford (Duncan)
   * Cherwell (Duncan)
@@ -14,12 +16,14 @@
   * City of London (Duncan)
   * Cornwall (Duncan)
   * Doncaster (Duncan)
+  * Durham (Duncan) - works in browser - empty results for script
   * East Devon (Duncan)
   * Edinburgh (Duncan)
   * Epsom and Ewell (Duncan)
   * Fenland (Duncan)
   * Gedling (Duncan)
-  * Hambleton (Duncan) - not working yet
+  * Gravesham (Duncan) - site is broken
+  * Hambleton (Duncan) - works for browser - empty results for script
   * Hammersmith and Fulham (Duncan)
   * Harrogate (Duncan)
   * Hart (Duncan)
@@ -32,26 +36,36 @@
   * Lancaster (Duncan)
   * Luton (Duncan)
   * Malvern Hills (Duncan)
+  * Manchester (Duncan) - site is missing main menu on left
   * Mid Devon (Duncan)
+  * Newcastle (Duncan) - works in browser - empty results for script
+  * Newham (Duncan) - site is broken
   * North Tyneside(Duncan)
   * Oadby and Wigston (Duncan)
   * Oswestry (Duncan)
   * Perthshire (Duncan) - not working yet
   * Portsmouth (Duncan)
+  * Redditch (Duncan) - site is broken
   * Rushmoor (Duncan)
   * Scarborough (Duncan)
+  * Selby (Duncan) - works in browser - empty results for script
   * Sevenoaks (Duncan)
-  * Spelthorne (Duncan)
-  * Stevenage (Duncan)
-  * Stockton-On-Tees (Duncan)
   * Southampton (Duncan)
   * South Bucks (Duncan)
   * South Oxfordshire (Duncan)
   * South Staffs (Duncan)
+  * Spelthorne (Duncan)
+  * Stevenage (Duncan)
+  * Stirling (Duncan) - site is broken
+  * Stockton-On-Tees (Duncan)
+  * Stratford (Duncan) - site is broken
   * Sunderland (Duncan)
+  * Teignbridge (Duncan) - site is broken
   * Test Valley (Duncan)
   * Tonbridge (Duncan)
+  * Watford (Duncan) - site is broken
   * Waveney (Duncan)
+  * West Berkshire (Duncan) - site has an error
   * West Lancashire (Duncan)
   * West Oxfordshire (Duncan) - not working yet
   * West Norfolk (Duncan)
