@@ -14,9 +14,11 @@
   * Chelmsford (Duncan)
   * Cherwell (Duncan)
   * Chiltern (Duncan) - uses https
+  * Chorley (Duncan) - site is broken
   * City of London (Duncan)
   * Cornwall (Duncan)
   * Doncaster (Duncan)
+  * Dundee (Duncan)
   * Durham (Duncan) - works in browser - empty results for script
   * East Devon (Duncan)
   * Edinburgh (Duncan)
@@ -39,9 +41,12 @@
   * Malvern Hills (Duncan)
   * Manchester (Duncan) - site is missing main menu on left
   * Mid Devon (Duncan)
+  * Milton Keynes (Duncan)
   * Newcastle (Duncan) - works in browser - empty results for script
   * Newham (Duncan) - site is broken
   * North Tyneside(Duncan)
+  * Northumberland (Duncan)
+  * North West Leicestershire (Duncan) - the link to publicaccess is broken
   * Oadby and Wigston (Duncan)
   * Oswestry (Duncan)
   * Perthshire (Duncan) - not working yet
