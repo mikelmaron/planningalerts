@@ -10,6 +10,7 @@
   * Bromley (Duncan) - publicaccess site refuses access unless IE (not fooled by setting browser string in Konqueror)
   * Bracknell Forest (Duncan) - site is broken
   * Buckinghamshire (Duncan)
+  * Caradon (Duncan) - site is missing the main menu on the left
   * Chelmsford (Duncan)
   * Cherwell (Duncan)
   * Chiltern (Duncan) - uses https
