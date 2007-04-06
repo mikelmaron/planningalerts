@@ -30,6 +30,7 @@
   * Hammersmith and Fulham (Duncan)
   * Harrogate (Duncan)
   * Hart (Duncan)
+  * Hartlepool (Duncan)
   * Hinckley-Bosworth (Duncan) - uses https
   * Huntingdonshire (Duncan)
   * Islington (Richard)
