@@ -1,80 +1,26 @@
 = Scrapers being worked on =
 
-  * Angus (Duncan)
-  * Aylesbury Vale (Duncan)
-  * Basildon (Duncan)
-  * Bath (Duncan)
-  * Bexley (Duncan)
-  * Blaby (Duncan)
-  * Bristol (Duncan)
   * Bromley (Duncan) - publicaccess site refuses access unless IE (not fooled by setting browser string in Konqueror)
   * Bracknell Forest (Duncan) - site is broken
-  * Buckinghamshire (Duncan)
   * Caradon (Duncan) - site is missing the main menu on the left
-  * Chelmsford (Duncan)
-  * Cherwell (Duncan)
   * Chiltern (Duncan) - uses https
   * Chorley (Duncan) - site is broken
-  * City of London (Duncan)
-  * Cornwall (Duncan)
-  * Doncaster (Duncan)
-  * Dundee (Duncan)
   * Durham (Duncan) - works in browser - empty results for script
-  * East Devon (Duncan)
-  * Edinburgh (Duncan)
-  * Epsom and Ewell (Duncan)
-  * Fenland (Duncan)
-  * Gedling (Duncan)
   * Gravesham (Duncan) - site is broken
   * Hambleton (Duncan) - works for browser - empty results for script
-  * Hammersmith and Fulham (Duncan)
-  * Harrogate (Duncan)
-  * Hart (Duncan)
   * Hartlepool (Duncan)
   * Hinckley-Bosworth (Duncan) - uses https
-  * Huntingdonshire (Duncan)
-  * Islington (Richard)
-  * Isle of Man (Dan)
-  * Kerrier (Duncan)
-  * Knowsley (Duncan)
-  * Lancaster (Duncan)
-  * Luton (Duncan)
-  * Malvern Hills (Duncan)
   * Manchester (Duncan) - site is missing main menu on left
-  * Mid Devon (Duncan)
-  * Milton Keynes (Duncan)
   * Newcastle (Duncan) - works in browser - empty results for script
   * Newham (Duncan) - site is broken
-  * North Tyneside(Duncan)
-  * Northumberland (Duncan)
   * North West Leicestershire (Duncan) - the link to publicaccess is broken
-  * Oadby and Wigston (Duncan)
-  * Oswestry (Duncan)
+  * Oswestry (Duncan) - will have to have a look at this and see why it isn't working.
   * Perthshire (Duncan) - not working yet
-  * Portsmouth (Duncan)
   * Redditch (Duncan) - site is broken
-  * Rushmoor (Duncan)
-  * Scarborough (Duncan)
   * Selby (Duncan) - works in browser - empty results for script
-  * Sevenoaks (Duncan)
-  * Southampton (Duncan)
-  * South Bucks (Duncan)
-  * South Oxfordshire (Duncan)
-  * South Staffordshire (Duncan)
-  * Spelthorne (Duncan)
-  * Stevenage (Duncan)
   * Stirling (Duncan) - site is broken
-  * Stockton-On-Tees (Duncan)
   * Stratford (Duncan) - site is broken
-  * Sunderland (Duncan)
   * Teignbridge (Duncan) - site is broken
-  * Test Valley (Duncan)
-  * Tonbridge (Duncan)
   * Watford (Duncan) - site is broken
-  * Waveney (Duncan)
   * West Berkshire (Duncan) - site has an error
-  * West Lancashire (Duncan)
   * West Oxfordshire (Duncan) - not working yet
-  * West Norfolk (Duncan)
-  * Woking (Duncan)
-  * York (Duncan)
