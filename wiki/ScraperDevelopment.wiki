@@ -1,5 +1,7 @@
 = Scrapers being worked on =
 
+  * Islington (Richard)
+  * Isle of Man (Dan)
   * Bromley (Duncan) - publicaccess site refuses access unless IE (not fooled by setting browser string in Konqueror)
   * Bracknell Forest (Duncan) - site is broken
   * Caradon (Duncan) - site is missing the main menu on the left
