@@ -7,7 +7,6 @@
   * Caradon (Duncan) - works in browser, but not with my script
   * Chiltern (Duncan) - uses https
   * Durham (Duncan) - works in browser - empty results for script
-  * Gravesham (Duncan) - site is broken
   * Hambleton (Duncan) - works for browser - empty results for script
   * Hinckley-Bosworth (Duncan) - uses https
   * Manchester (Duncan) - site is missing main menu on left
@@ -34,6 +33,7 @@
   * Denbighshire
   * Ealing
   * Easington
+  * Gravesham
   * Haringey
   * Hartlepool
   * High Peak
