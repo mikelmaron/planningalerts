@@ -17,28 +17,9 @@
   * West Oxfordshire (Duncan) - not working yet
 
 = Working and ready to deploy =
-
-  * Allerdale 
-  * Alnwick
-  * Barrow
-  * Chorley
-  * Coventry
-  * Denbighshire
-  * Ealing
-  * Easington
-  * Gravesham
-  * Haringey
-  * Hartlepool
-  * High Peak
-  * Newham
-  * North Warwickshire
   * North West Leicestershire
-  * Oswestry
   * Redditch
-  * St Helens
   * Stirling
   * Stratford
   * Teignbridge
-  * Wear Valley
-  * Wellingborough
   * West Berkshire
