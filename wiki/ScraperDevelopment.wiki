@@ -6,7 +6,6 @@
   * Bracknell Forest (Duncan) - uses https
   * Caradon (Duncan) - works in browser, but not with my script
   * Chiltern (Duncan) - uses https
-  * Chorley (Duncan) - site is broken
   * Durham (Duncan) - works in browser - empty results for script
   * Gravesham (Duncan) - site is broken
   * Hambleton (Duncan) - works for browser - empty results for script
@@ -30,6 +29,7 @@
   * Allerdale 
   * Alnwick
   * Barrow
+  * Chorley
   * Coventry
   * Denbighshire
   * Ealing
