@@ -11,7 +11,6 @@
   * Hinckley-Bosworth (Duncan) - uses https
   * Manchester (Duncan) - site is missing main menu on left
   * Newcastle (Duncan) - works in browser - empty results for script
-  * North West Leicestershire (Duncan) - the link to publicaccess is broken
   * Perthshire (Duncan) - not working yet
   * Redditch (Duncan) - site is broken
   * Selby (Duncan) - works in browser - empty results for script
@@ -38,6 +37,7 @@
   * High Peak
   * Newham
   * North Warwickshire
+  * North West Leicestershire
   * Oswestry
   * St Helens
   * Wear Valley
