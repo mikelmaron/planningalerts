@@ -11,8 +11,7 @@
   * Hinckley-Bosworth (Duncan) - uses https
   * Manchester (Duncan) - site is missing main menu on left
   * Newcastle (Duncan) - works in browser - empty results for script
-  * Perthshire (Duncan) - not working yet
-  * Redditch (Duncan) - site is broken
+  * Perthshire (Duncan) - causes an error in my parser
   * Selby (Duncan) - works in browser - empty results for script
   * Stirling (Duncan) - site is broken
   * Stratford (Duncan) - site is broken
@@ -39,6 +38,7 @@
   * North Warwickshire
   * North West Leicestershire
   * Oswestry
+  * Redditch
   * St Helens
   * Wear Valley
   * Wellingborough
