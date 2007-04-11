@@ -10,13 +10,11 @@
   * Durham (Duncan) - works in browser - empty results for script
   * Gravesham (Duncan) - site is broken
   * Hambleton (Duncan) - works for browser - empty results for script
-  * Hartlepool (Duncan)
   * Hinckley-Bosworth (Duncan) - uses https
   * Manchester (Duncan) - site is missing main menu on left
   * Newcastle (Duncan) - works in browser - empty results for script
   * Newham (Duncan) - site is broken
   * North West Leicestershire (Duncan) - the link to publicaccess is broken
-  * Oswestry (Duncan) - will have to have a look at this and see why it isn't working.
   * Perthshire (Duncan) - not working yet
   * Redditch (Duncan) - site is broken
   * Selby (Duncan) - works in browser - empty results for script
@@ -26,3 +24,21 @@
   * Watford (Duncan) - site is broken
   * West Berkshire (Duncan) - site has an error
   * West Oxfordshire (Duncan) - not working yet
+
+= Working and ready to deploy =
+
+  * Allerdale 
+  * Alnwick
+  * Barrow
+  * Coventry
+  * Denbighshire
+  * Ealing
+  * Easington
+  * Haringey
+  * Hartlepool
+  * High Peak
+  * North Warwickshire
+  * Oswestry
+  * St Helens
+  * Wear Valley
+  * Wellingborough
