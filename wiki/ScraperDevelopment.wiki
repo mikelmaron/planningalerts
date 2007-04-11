@@ -4,7 +4,7 @@
   * Isle of Man (Dan)
   * Bromley (Duncan) - publicaccess site refuses access unless IE (not fooled by setting browser string in Konqueror)
   * Bracknell Forest (Duncan) - uses https
-  * Caradon (Duncan) - site is missing the main menu on the left
+  * Caradon (Duncan) - works in browser, but not with my script
   * Chiltern (Duncan) - uses https
   * Chorley (Duncan) - site is broken
   * Durham (Duncan) - works in browser - empty results for script
