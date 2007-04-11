@@ -13,10 +13,7 @@
   * Newcastle (Duncan) - works in browser - empty results for script
   * Perthshire (Duncan) - causes an error in my parser
   * Selby (Duncan) - works in browser - empty results for script
-  * Stratford (Duncan) - site is broken
-  * Teignbridge (Duncan) - site is broken
   * Watford (Duncan) - site is broken
-  * West Berkshire (Duncan) - site has an error
   * West Oxfordshire (Duncan) - not working yet
 
 = Working and ready to deploy =
@@ -40,5 +37,8 @@
   * Redditch
   * St Helens
   * Stirling
+  * Stratford
+  * Teignbridge
   * Wear Valley
   * Wellingborough
+  * West Berkshire
