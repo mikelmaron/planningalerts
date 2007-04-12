@@ -1,6 +1,5 @@
 = Scrapers being worked on =
 
-  * Islington (Richard)
   * Isle of Man (Dan)
   * Bromley (Duncan) - publicaccess site refuses access unless IE (not fooled by setting browser string in Konqueror)
   * Bracknell Forest (Duncan) - uses https
