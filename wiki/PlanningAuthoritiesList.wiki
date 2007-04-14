@@ -29,37 +29,38 @@ The list of authorities I am getting them from is here http://www.theplanningdir
 || Done || Basildon || Basildon District Council || Public Access 7.3.1c || http://planning.basildon.gov.uk/publicaccess/tdc/DcApplication/application_searchresults.aspx?searchtype=SPEC ||
 || || Basingstoke || Basingstoke & Deane Borough Council || Search facility including dates || http://planning.basingstoke.gov.uk/DCOnline2/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 || || Bassetlaw || Bassetlaw District Council || Search facility including dates || http://www.bassetlaw.gov.uk/planning/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
-|| Bath || Bath & North East Somerset Council ||
-|| Bedford || Bedford Borough Council ||
-|| Bedfordshire || Bedfordshire County Council ||
-|| Berwick || Berwick-upon-Tweed Borough Council ||
-|| Bexley || Bexley Borough Council ||
-|| Birmingham ||Birmingham City Council ||
-|| Blaby || Blaby District Council ||
-|| Blackburn || Blackburn with Darwen Borough Council ||
-|| Blaenau Gwent ||Blaenau Gwent County Borough Council ||
-|| Blyth Valley || Blyth Valley Borough Council ||
-|| Bolsover || Bolsover District Council ||
-|| Bolton || Bolton Metropolitan Borough Council ||
-|| Boston || Boston Borough Council ||
-|| Bournmouth || Bournemouth Borough Council ||
-|| Bracknell Forest || Bracknell Forest Borough Council ||
-|| Bradford || City of Bradford Metropolitan District Council ||
-|| Braintree || Braintree District Council ||
-|| Brecon Beacons || Breacon Beacons National Park Authority ||
-|| Breckland || Breckland District Council ||
-|| Brent || Brent Borough Council ||
-|| Brentwood || Brentwood Borough Council ||
-|| Bridgend || Bridgend County Borough Council ||
-|| Bridgnorth || Bridgnorth District Council ||
-|| Brighton || Brighton & Hove Borough Council ||
-|| Bristol || Bristol City Council ||
-|| Broadland || Broadland District Council ||
-|| Broads || Broads Authority ||
-|| Bromsgrove || Bromsgrove District Council ||
-|| Broxbourne || Broxbourne Borough Council ||
-|| Broxtowe || Broxtowe Borough Council ||
-|| Buckinghamshire || Buckinghamshire County Council ||
-|| Burnley || Burnley Borough Council ||
-|| Bury || Bury Metropolitan Borough Council ||
+|| Done || Bath || Bath & North East Somerset Council || Public Access || http://planning.bathnes.gov.uk/publicaccess/ ||
+|| || Bedford || Bedford Borough Council || Public Access ||http://www.publicaccess.bedford.gov.uk/publicaccess/default.aspx ||
+|| || Bedfordshire || Bedfordshire County Council || county council only responsible for a small amount of planning and nothing obvious listed online || ||
+|| || Berwick || Berwick-upon-Tweed Borough Council || weekly lists in html || http://www.berwick-upon-tweed.gov.uk/planning/register.htm ||
+|| Done || Bexley || Bexley Borough Council || Public Access ||http://publicaccess.bexley.gov.uk/publicaccess/tdc/tdc_home.aspx ||
+|| || Birmingham ||Birmingham City Council || searchable by date || http://www.birmingham.gov.uk/GenerateContent?CONTENT_ITEM_ID=67548&CONTENT_ITEM_TYPE=0&MENU_ID=12189 ||
+|| Done || Blaby || Blaby District Council || PublicAccess || http://www.blaby.gov.uk/PublicAccess ||
+|| || Blackburn || Blackburn with Darwen Borough Council || PlanningExplorer - searchable by date || http://195.8.175.6/MVM/Online/PL/GeneralSearch.aspx ||
+|| || Blaenau Gwent ||Blaenau Gwent County Borough Council || All of 2007 in one big list ||http://www.blaenau-gwent.gov.uk/environment/8380.asp ||
+|| || Blyth Valley || Blyth Valley Borough Council || weekly lists as pdf, rather out of date || http://www.blythvalley.gov.uk/Default.aspx?page=10932 ||
+|| Done || Bolsover || Bolsover District Council || Public Access || http://217.158.161.181/publicaccess/tdc/DcApplication/application_searchform.aspx ||
+|| || Bolton || Bolton Metropolitan Borough Council || Page doesn't display in firefox... || http://www.bolton.gov.uk/pls/portal92/docs/PAGE/ENVIRONMENT_DEPARTMENT/PLANNING_DIVISION/PLANNING%20CONTROL/TAB80709/GENERAL%20PAGES/APPLICATION_SEARCH.HTM ||
+|| || Boston || Boston Borough Council || searchable by date. claims to be under construction. || http://www.boston.gov.uk/index.php?option=com_wrapper&Itemid=3433 ||
+|| || Bournmouth || Bournemouth Borough Council || weekly list as pdf || http://www.bournemouth.gov.uk/Residents/Planning_Development/Planning_Applications/Lists/default.asp ||
+|| Being worked on || Bracknell Forest || Bracknell Forest Borough Council || Public Access site using https || https://my.bracknell-forest.gov.uk/publicaccess/tdc/DcApplication/application_searchform.aspx ||
+|| Done || Bradford || City of Bradford Metropolitan District Council || Public Access || http://www.planning4bradford.com/tdc/DcApplication/application_searchform.aspx ||
+|| || Braintree || Braintree District Council || braintree.gov.uk seems to be broken || ||
+|| || Brecon Beacons || Breacon Beacons National Park Authority || weekly lists as pdf or rtf || http://www.breconbeacons.org/planning/planning_apps ||
+|| || Breckland || Breckland District Council || looks like weekly lists, but page not currently responding || ||
+|| || Brent || Brent Borough Council || search by date || http://www.brent.gov.uk/servlet/ep.ext?extId=101149&byPeriod=Y&st=PL&periodUnits=day&periodMultiples=14 ||
+|| || Brentwood || Brentwood Borough Council || weekly lists as pdf || http://www.brentwood-council.gov.uk/index.php?cid=573 ||
+|| || Bridgend || Bridgend County Borough Council || searchable by date, but looks unlikely to work || http://www.bridgend.gov.uk/english/planningportal.asp ||
+|| || Bridgnorth || Bridgnorth District Council || searchable by date || http://www2.bridgnorth-dc.gov.uk/planning/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.PgeApplications ||
+|| || Brighton || Brighton & Hove Borough Council || searchable by date || http://www.brighton-hove.gov.uk/index.cfm?request=c1133441 ||
+|| Done || Bristol || Bristol City Council || Public Access || http://e2eweb.bristol-city.gov.uk/publicaccess/default.aspx ||
+|| || Broadland || Broadland District Council || Planning Explorer - not obviously searchable by date received || http://www.broadland.gov.uk/mvm/Online/PL/GeneralSearch.aspx ||
+|| In progress || Broads || Broads Authority || Public Access || Public Access on https || https://planning.broads-authority.gov.uk/PublicAccess/ ||
+|| || Bromsgrove || Bromsgrove District Council || pdf of year to date || http://bromsgrove.whub.org.uk/home/bdcindex/bdc-planning/bdc-planning-applications/bdc-planning-recent-applications.htm ||
+|| || Broxbourne || Broxbourne Borough Council || searchable by date || http://www.broxbourne.gov.uk/Internet/Applications/Planning%20Applications ||
+|| || Broxtowe || Broxtowe Borough Council || searchable html weekly lists || http://www.broxtowe.gov.uk/index/planning_new/planning_development_control_new/planning_development_control_planning_applications/planning_applications_disclaimer/planning_applications_search_for_planning_application.htm ||
+|| Done || Buckinghamshire || Buckinghamshire County Council || Public Access || http://www.bucksplanning.gov.uk/publicaccess/ ||
+|| || Burnley || Burnley Borough Council || weekly lists || http://www.burnley.gov.uk/site/scripts/planning.php ||
+|| || Bury || Bury Metropolitan Borough Council || acolnetcgi.gov || http://e-planning.bury.gov.uk/eplanning/acolnetcgi.gov ||
+
 
