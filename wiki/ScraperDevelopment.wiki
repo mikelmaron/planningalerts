@@ -16,6 +16,7 @@
   * West Oxfordshire (Duncan) - not working yet
 
 = Working and ready to deploy =
+  * Bolsover
   * North West Leicestershire
   * Redditch
   * Stirling
