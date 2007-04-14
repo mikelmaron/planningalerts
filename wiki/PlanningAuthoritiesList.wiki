@@ -11,5 +11,14 @@ The list of authorities I am getting them from is here http://www.theplanningdir
 || || *Aberdeenshire* || Aberdeenshire Council || search facility which includes date || http://www.aberdeenshire.gov.uk/planning/apps/index.asp#search || 
 || || *Adur* ||Adur District Council || weekly listings as pdf || http://www.adur.gov.uk/planning/applications/planning-apps.htm || 
 || Done || Allerdale || Allerdale Borough Council || ApplicationSearchServlet || http://planning.allerdale.gov.uk/portal/servlets/ApplicationSearchServlet || 
+|| Done || Alnwick || Alnwick District Council || ApplicationSearchServlet || http://services.castlemorpeth.gov.uk:7777/portal/servlets/ApplicationSearchServlet ||
+|| || *Amber Valley* || Amber Valley Borough Council || search facility with dates || http://www.ambervalley.gov.uk/services/environment/landandpremises/planningtownandcountry/planningapplications/PlanningApplicationRegister.htm ||
+|| Done || Angus || Angus Council || Public Access 7.3.1c || http://planning.angus.gov.uk/PublicAccess/tdc/tdc_home.aspx ||
+|| Done || Argyll and Bute || Argyll and Bute Council || Public Access 7.3.1c || http://www.argyll-bute.gov.uk/PublicAccess/tdc/DcApplication/application_searchform.aspx ||
+|| || *Arun* || Arun District Council || weekly lists as ps file converted to html || http://www.arun.gov.uk/cgi-bin/buildpage.pl?mysql=448 ||
+|| || *Ashfield* || Ashfield District Council || search facility including date || http://www.ashfield-dc.gov.uk/cfusion/planning/plan_findfile.cfm ||
+|| || *Ashford* || Ashford Borough Council || Whole domain is timing out today... || http://www.ashford.gov.uk/planning/index.asp ||
+|| Done || Aylesbury Vale || Aylesbury Vale District Council || Public Access 7.3.1c || http://eplanning.aylesburyvaledc.gov.uk/dc/DcApplication/application_searchform.aspx ||
+
 
 
