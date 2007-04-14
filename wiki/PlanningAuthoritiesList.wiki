@@ -1,0 +1,12 @@
+#summary A list of planning authorities.
+
+= List of Planning Authorities =
+
+I'm planning on having a list here of all the planning authorities in the UK, and the urls of any application search facility they have (along with a note maybe of what sort of site it is if I recognise it...)
+
+The list of authorities I am getting them from is here
+<a href="http://www.theplanningdirectory.co.uk/auto/index.html">The Planning Directory</a>.
+
+= A =
+
+  * *Aberdeen* - Aberdeen City Council, http://www.aberdeencity.gov.uk/ACCI/web/site/Planning/SL/pla_PlanningApps.asp, Weekly Lists as pdf
