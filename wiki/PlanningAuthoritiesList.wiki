@@ -21,14 +21,14 @@ The list of authorities I am getting them from is here http://www.theplanningdir
 || Done || Aylesbury Vale || Aylesbury Vale District Council || Public Access 7.3.1c || http://eplanning.aylesburyvaledc.gov.uk/dc/DcApplication/application_searchform.aspx ||
 
 == B ==
-|| Babergh || Babergh District Council ||
-|| Barking and Dagenham || Barking & Dagenham Borough Council ||
-|| Barnet || Barnet Borough Council ||
-|| Barnsley || Barnsley Metropolitan Borough Council ||
-|| Barrow ||Barrow-in-Furness Borough Council ||
-|| Basildon || Basildon District Council ||
-|| Basingstoke || Basingstoke & Deane Borough Council ||
-|| Bassetlaw || Bassetlaw District Council ||
+|| || Babergh || Babergh District Council || search page with dates || http://planning.babergh.gov.uk/dataOnlinePlanning/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
+|| || Barking and Dagenham || Barking & Dagenham Borough Council || weekly and monthly lists in html || http://idoxwam.lbbd.gov.uk:8081/WAM/search/pas/index.htm ||
+|| || Barnet || Barnet Borough Council || current applications are searchable by date || http://planning.barnet.gov.uk:7778/pls/portal/PORTAL.wwa_app_module.show?p_sessionid=205173 ||
+|| || Barnsley || Barnsley Metropolitan Borough Council || weekly lists in html. Rather out of date, and nowhere obvious to comment. ||http://applications.barnsley.gov.uk/service/development/weeklylist.asp ||
+|| Done || Barrow ||Barrow-in-Furness Borough Council || ApplicationSearchServlet || http://localportal.barrowbc.gov.uk/portal/servlets/WeeklyListServlet ||
+|| Done || Basildon || Basildon District Council || Public Access 7.3.1c || http://planning.basildon.gov.uk/publicaccess/tdc/DcApplication/application_searchresults.aspx?searchtype=SPEC ||
+|| || Basingstoke || Basingstoke & Deane Borough Council || Search facility including dates || http://planning.basingstoke.gov.uk/DCOnline2/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
+|| || Bassetlaw || Bassetlaw District Council || Search facility including dates || http://www.bassetlaw.gov.uk/planning/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 || Bath || Bath & North East Somerset Council ||
 || Bedford || Bedford Borough Council ||
 || Bedfordshire || Bedfordshire County Council ||
