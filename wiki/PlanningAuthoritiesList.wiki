@@ -4,12 +4,12 @@
 
 I'm planning on having a list here of all the planning authorities in the UK, and the urls of any application search facility they have (along with a note maybe of what sort of site it is if I recognise it...)
 
-The list of authorities I am getting them from is here
-<a href="http://www.theplanningdirectory.co.uk/auto/index.html">The Planning Directory</a>.
+The list of authorities I am getting them from is here http://www.theplanningdirectory.co.uk/auto/index.html.
 
-= A =
+== A ==
+|| || *Aberdeen* || Aberdeen City Council ||  weekly lists as pdf || http://www.aberdeencity.gov.uk/ACCI/web/site/Planning/SL/pla_PlanningApps.asp ||
+|| || *Aberdeenshire* || Aberdeenshire Council || search facility which includes date || http://www.aberdeenshire.gov.uk/planning/apps/index.asp#search || 
+|| || *Adur* ||Adur District Council || weekly listings as pdf || http://www.adur.gov.uk/planning/applications/planning-apps.htm || 
+|| Done || Allerdale || Allerdale Borough Council || ApplicationSearchServlet || http://planning.allerdale.gov.uk/portal/servlets/ApplicationSearchServlet || 
 
-  * *Aberdeen* - Aberdeen City Council, http://www.aberdeencity.gov.uk/ACCI/web/site/Planning/SL/pla_PlanningApps.asp, weekly lists as pdf
-  * *Aberdeenshire* - Aberdeenshire Council, http://www.aberdeenshire.gov.uk/planning/apps/index.asp#search, search facility which includes date.
-  * *Adur* - Adur District Council, http://www.adur.gov.uk/planning/applications/planning-apps.htm, weekly listings as pdf
-  * Allerdale - Allerdale Borough Council, http://planning.allerdale.gov.uk/portal/servlets/ApplicationSearchServlet, ApplicationSearchServlet
+
