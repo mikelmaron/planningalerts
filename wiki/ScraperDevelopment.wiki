@@ -1,6 +1,7 @@
 = Scrapers being worked on =
 
   * Isle of Man (Dan)
+  * Broads Authority - publicaccess on https
   * Bromley (Duncan) - publicaccess site refuses access unless IE (not fooled by setting browser string in Konqueror)
   * Bracknell Forest (Duncan) - uses https
   * Caradon (Duncan) - works in browser, but not with my script
