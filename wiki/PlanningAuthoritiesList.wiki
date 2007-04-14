@@ -20,5 +20,46 @@ The list of authorities I am getting them from is here http://www.theplanningdir
 || || *Ashford* || Ashford Borough Council || Whole domain is timing out today... || http://www.ashford.gov.uk/planning/index.asp ||
 || Done || Aylesbury Vale || Aylesbury Vale District Council || Public Access 7.3.1c || http://eplanning.aylesburyvaledc.gov.uk/dc/DcApplication/application_searchform.aspx ||
 
-
+== B ==
+|| Babergh || Babergh District Council ||
+|| Barking and Dagenham || Barking & Dagenham Borough Council ||
+|| Barnet || Barnet Borough Council ||
+|| Barnsley || Barnsley Metropolitan Borough Council ||
+|| Barrow ||Barrow-in-Furness Borough Council ||
+|| Basildon || Basildon District Council ||
+|| Basingstoke || Basingstoke & Deane Borough Council ||
+|| Bassetlaw || Bassetlaw District Council ||
+|| Bath || Bath & North East Somerset Council ||
+|| Bedford || Bedford Borough Council ||
+|| Bedfordshire || Bedfordshire County Council ||
+|| Berwick || Berwick-upon-Tweed Borough Council ||
+|| Bexley || Bexley Borough Council ||
+|| Birmingham ||Birmingham City Council ||
+|| Blaby || Blaby District Council ||
+|| Blackburn || Blackburn with Darwen Borough Council ||
+|| Blaenau Gwent ||Blaenau Gwent County Borough Council ||
+|| Blyth Valley || Blyth Valley Borough Council ||
+|| Bolsover || Bolsover District Council ||
+|| Bolton || Bolton Metropolitan Borough Council ||
+|| Boston || Boston Borough Council ||
+|| Bournmouth || Bournemouth Borough Council ||
+|| Bracknell Forest || Bracknell Forest Borough Council ||
+|| Bradford || City of Bradford Metropolitan District Council ||
+|| Braintree || Braintree District Council ||
+|| Brecon Beacons || Breacon Beacons National Park Authority ||
+|| Breckland || Breckland District Council ||
+|| Brent || Brent Borough Council ||
+|| Brentwood || Brentwood Borough Council ||
+|| Bridgend || Bridgend County Borough Council ||
+|| Bridgnorth || Bridgnorth District Council ||
+|| Brighton || Brighton & Hove Borough Council ||
+|| Bristol || Bristol City Council ||
+|| Broadland || Broadland District Council ||
+|| Broads || Broads Authority ||
+|| Bromsgrove || Bromsgrove District Council ||
+|| Broxbourne || Broxbourne Borough Council ||
+|| Broxtowe || Broxtowe Borough Council ||
+|| Buckinghamshire || Buckinghamshire County Council ||
+|| Burnley || Burnley Borough Council ||
+|| Bury || Bury Metropolitan Borough Council ||
 
