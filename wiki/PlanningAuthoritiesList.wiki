@@ -66,9 +66,9 @@ The list of authorities I am getting them from is here http://www.theplanningdir
 ==C==
 || || Caerphilly || Caerphilly County Borough Council || weekly lists as PDFs || http://www.caerphilly.gov.uk/yourservices/planning/planningbulletin/index.htm ||
 || || Calderdale ||  Calderdale Metropolitan Borough Council ||search by date || http://www.calderdale.gov.uk/environment/planning/search-applications/index.jsp ||
-|Done| || Cambridge ||  Cambridge City Council ||public access|| http://www.cambridge.gov.uk/publicaccess/tdc/tdc_home.aspx ||
+|| done || Cambridge ||  Cambridge City Council ||public access|| http://www.cambridge.gov.uk/publicaccess/tdc/tdc_home.aspx ||
 || || Cambridgeshire ||  Cambridgeshire County Council ||acolnetcgi|| http://planapps.cambridgeshire.gov.uk/scripts/acolnet/acolnetcgi.exe? ||
-|Done| || Camden ||  London Borough of Camden || || http://www.camden.gov.uk/ccm/navigation/environment/planning-and-built-environment ||
+|| Done || Camden ||  London Borough of Camden || || http://www.camden.gov.uk/ccm/navigation/environment/planning-and-built-environment ||
 || || Cannock ||  Cannock Chase District Council || monthly application lists || http://www.cannockchasedc.gov.uk/site/scripts/documents_info.php?documentID=347&pageNumber=2 ||
 || || Canterbury ||  Canterbury City Council  || acolnetcgi || http://planning.canterbury.gov.uk/scripts/acolnetcgi.exe ||
 || || Caradon ||   Caradon District Council  || acolnetcgi || http://publicaccess.caradon.gov.uk/publicaccess/ ||
@@ -86,19 +86,12 @@ The list of authorities I am getting them from is here http://www.theplanningdir
 ||  ||  Cheshire ||   Cheshire County Council  || PDFs, usefullish urls || http://www.cheshire.gov.uk/Planning/Planning%20Applications.htm ||
 ||  ||  Chester ||   Chester City Council  || UK Planning || http://www.ukplanning.com/chester/search/index.htm ||
 || Done ||  Chester-le-Street ||   Chester-le-Street District Council  || PublicAccess || http://planning.chester-le-street.gov.uk/publicaccess/ ||
-
 ||  ||  Chesterfield ||  Chesterfield Borough Council  || Weekly list || hhttp://www.chesterfield.gov.uk/planning/default.asp?mode=&ShowAll=true ||
-
 ||  ||  Chichester ||   Chichester District Council  || WAM/UKPlanning? || http://wam.chichester.gov.uk/WAM/search/pas/index.htm;jsessionid=5D6D9B7A4C0F07CC472DE776DF9EA75D ||
-
 ||  ||  Chiltern ||  Chiltern District Council  || PublicAccess(https) || https://isa.chiltern.gov.uk/publicaccess/ ||
-
 ||  ||  Chorley ||   Chorley Borough Council  || PublicAccess(broken) || http://planning.chorley.gov.uk/PublicAccess/propdb/property/property_searchform.aspx ||
-
 ||  ||  Christchurch ||   Christchurch Borough Council || DorsetForYou || http://www.dorsetforyou.com/index.jsp?articleid=356063 ||
-
 || Done ||  City ||  Corporation of London || PublicAccess ||  ||
-
 || Done ||  Clackmannanshire ||   Clackmannanshire Council || Searchable by date || http://www.clacksweb.org.uk/property/planningregister/ ||
 
 ==C isn't finished==
