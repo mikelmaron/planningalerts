@@ -9,4 +9,7 @@ The list of authorities I am getting them from is here
 
 = A =
 
-  * *Aberdeen* - Aberdeen City Council, http://www.aberdeencity.gov.uk/ACCI/web/site/Planning/SL/pla_PlanningApps.asp, Weekly Lists as pdf
+  * *Aberdeen* - Aberdeen City Council, http://www.aberdeencity.gov.uk/ACCI/web/site/Planning/SL/pla_PlanningApps.asp, weekly lists as pdf
+  * *Aberdeenshire* - Aberdeenshire Council, http://www.aberdeenshire.gov.uk/planning/apps/index.asp#search, search facility which includes date.
+  * *Adur* - Adur District Council, http://www.adur.gov.uk/planning/applications/planning-apps.htm, weekly listings as pdf
+  * Allerdale - Allerdale Borough Council, http://planning.allerdale.gov.uk/portal/servlets/ApplicationSearchServlet, ApplicationSearchServlet
