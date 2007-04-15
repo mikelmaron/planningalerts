@@ -95,3 +95,25 @@ The list of authorities I am getting them from is here http://www.theplanningdir
 || Done ||  Clackmannanshire ||   Clackmannanshire Council || Searchable by date || http://www.clacksweb.org.uk/property/planningregister/ ||
 
 ==C isn't finished==
+
+==D==
+|| || Dacorum || Dacorum Borough Council || A list for the last week is available. Searching, but not by received date || http://www.dacorum.gov.uk/default.aspx?page=1495 ||
+|| || Darlington || Darlington Borough Council || Applications can be searched by validation date (whatever that is...) Weekly list also available. || http://www.darlington.gov.uk/eServices/PlanApps/PlanAppsViewer.aspx?SearchType=advanced ||
+|| Done || Dartford || Dartford Borough Council || PublicAccess || || 
+|| || Dartmoor || Dartmoor National Park Authority || weekly and monthly lists in html || http://www.dartmoor-npa.gov.uk/index/planning/pl-devcontrol/pl-searchapplicationregister/application_register.htm ||
+|| || Daventry || Daventry District Council || searchable by date ||  http://www.daventrydc.gov.uk/swiftlg/apas/run/wphappcriteria.display ||
+|| Done || Denbighshire || Denbighshire County Council|| ApplicationSearchServlet ||  http://planning.denbighshire.gov.uk/portal/servlets/ApplicationSearchServlet ||
+|| || Derby || Derby City Council || acolnetcgi ||  http://195.224.106.204/scripts/planningpages02/acolnetcgi.gov ||
+|| || Derbyshire || Derbyshire County Council || only responsible for a small amount. all apps online ||  http://www.derbyshire.gov.uk/environment/planning/planning_applications/current_applications/ ||
+|| || Derbyshire Dales || Derbyshire Dales District Council || weekly lists in html. appalling looking search page || http://www.doctec.co.uk/derbyshiredales/aspxpages/WeeklyLists.aspx ||
+|| || Derwentside || Derwentside District Council || searchable by date received || http://www.derwentside.gov.uk/index.cfm?articleid=8427 ||
+|| || Devon || Devon County Council || monthly lists of councils own applications || http://www.devon.gov.uk/index/environment/planning/planning-system/planning_applications-mw/planning_applications.htm ||
+|| Done || Doncaster || Doncaster Metropolitan Borough Council || PublicAccess || http://maps.doncaster.gov.uk/publicaccess/tdc/tdc_home.aspx ||
+|| || Dorset || Dorset County Council || handles very few apps. Searchable by some dates. http://www.dorsetforyou.com/ePlanning/searchPageLoad.do ||
+|| || Dover || Dover District Council || searchable by date received || http://www.dover.gov.uk/planning/Search_net/search.aspx ||
+|| || Dudley || Dudley Metropolitan Borough Council || searchable by some dates, and weekly lists || http://www2.dudley.gov.uk/swiftlg/apas/run/Wphappcriteria.display ||
+|| || Dumfries and Galloway || Dumfries and Galloway Council || weekly pdy lists separated into five areas || http://www.dumgal.gov.uk/dumgal/MiniWeb.aspx?id=91&menuid=1408&openid=1102 ||
+|| Done || Dundee || Dundee City Council || PublicAccess || ||
+|| Done || Durham || Durham City Council || Publicaccess - database appears to be empty || ||
+|| || Durham County || Durham County Council || Online register searchable by month and year || http://gis.durham.gov.uk/website/dcs/SearchMain.asp ||
+
