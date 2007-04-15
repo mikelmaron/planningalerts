@@ -20,6 +20,7 @@
   * Bolsover
   * Doncaster
   * Dundee
+  * Durham (City) - database appears to be empty though...
   * North West Leicestershire
   * Redditch
   * Stirling
