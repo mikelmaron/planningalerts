@@ -18,6 +18,7 @@
 
 = Working and ready to deploy =
   * Bolsover
+  * Doncaster
   * North West Leicestershire
   * Redditch
   * Stirling
