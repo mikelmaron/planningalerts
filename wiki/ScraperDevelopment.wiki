@@ -17,14 +17,11 @@
   * West Oxfordshire (Duncan) - not working yet
 
 = Working and ready to deploy =
-  * Bolsover
-  * Doncaster
-  * Dundee
+  * Doncaster (site down when attempted to test?)
+  * Dundee (site down when attempted to test?)
   * Durham (City) - database appears to be empty though...
-  * North West Leicestershire
-  * Redditch
-  * Stirling
-  * Stratford
-  * Teignbridge
-  * West Berkshire
-  * Broxbourne
+  * North West Leicestershire (site down when attempted to test?)
+  * Stratford (site down when attempted to test?)
+  * Teignbridge (site down when attempted to test?)
+  * West Berkshire (site down when attempted to test?)
+  * Broxbourne (missing perl module on server)
