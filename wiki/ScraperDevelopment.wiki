@@ -15,8 +15,12 @@
   * Selby (Duncan) - works in browser - empty results for script
   * Watford (Duncan) - site is broken
   * West Oxfordshire (Duncan) - not working yet
+  * Edinburgh (sie has data, but scraper doesnt find it)
 
 = Working and ready to deploy =
+  * Broxbourne (missing perl module on server)
+
+= Scrapes done, but sites broken =
   * Doncaster (site down when attempted to test?)
   * Dundee (site down when attempted to test?)
   * Durham (City) - database appears to be empty though...
@@ -24,4 +28,6 @@
   * Stratford (site down when attempted to test?)
   * Teignbridge (site down when attempted to test?)
   * West Berkshire (site down when attempted to test?)
-  * Broxbourne (missing perl module on server)
+  * Fenland (database empty)
+  * East Devon (Db Empty?)
+  * Northumberland (Db Empty)
