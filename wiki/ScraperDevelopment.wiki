@@ -20,6 +20,13 @@
 
 = Working and ready to deploy =
   * Broxbourne (missing perl module on server)
+  * Gelding
+  * East Dorset
+  * Gateshead
+  * Gloucestershire
+  * Newcastle-under-Lyme
+  * Vale Royal
+  * Winchester
 
 = Scrapes done, but sites broken =
   * Doncaster (site down when attempted to test?)
@@ -32,3 +39,4 @@
   * Fenland (database empty)
   * East Devon (Db Empty?)
   * Northumberland (Db Empty)
+  * Wolverhampton (empty database)
