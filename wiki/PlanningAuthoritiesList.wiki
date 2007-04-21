@@ -30,7 +30,7 @@ The list of authorities I am getting them from is here http://www.theplanningdir
 || || Basingstoke || Basingstoke & Deane Borough Council || Search facility including dates || http://planning.basingstoke.gov.uk/DCOnline2/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 || || Bassetlaw || Bassetlaw District Council || Search facility including dates || http://www.bassetlaw.gov.uk/planning/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 || Done || Bath || Bath & North East Somerset Council || Public Access || http://planning.bathnes.gov.uk/publicaccess/ ||
-|| || Bedford || Bedford Borough Council || Public Access ||http://www.publicaccess.bedford.gov.uk/publicaccess/default.aspx ||
+|| Done || Bedford || Bedford Borough Council || Public Access ||http://www.publicaccess.bedford.gov.uk/publicaccess/default.aspx ||
 || || Bedfordshire || Bedfordshire County Council || county council only responsible for a small amount of planning and nothing obvious listed online || ||
 || || Berwick || Berwick-upon-Tweed Borough Council || weekly lists in html || http://www.berwick-upon-tweed.gov.uk/planning/register.htm ||
 || Done || Bexley || Bexley Borough Council || Public Access ||http://publicaccess.bexley.gov.uk/publicaccess/tdc/tdc_home.aspx ||
