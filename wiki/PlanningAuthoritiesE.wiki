@@ -1,0 +1,29 @@
+==Not Finished==
+
+|| done || Ealing (London borough of) || Ealing || ApplicationSearchServlet || http://www.pam.ealing.gov.uk/portal/servlets/ApplicationSearchServlet ||
+|| done || Easington District Council || Easington || ApplicationSearchServlet || http://planning.easington.gov.uk/portal/servlets/ApplicationSearchServlet ||
+||  || East Ayrshire Council || Kilmarnock Lugar || PAL || http://www.east-ayrshire.gov.uk/devser/planandbuild/pal.asp ||
+|| done || East Cambridgeshire District Council || Ely || PublicAccess || http://pa.eastcambs.gov.uk/publicaccess/tdc/tdc_home.aspx||
+|| done but broken || East Devon District Council || Sidmouth || PublicAccess || http://planning.eastdevon.gov.uk/publicaccess/tdc/DcApplication/application_searchform.aspx||
+|| ready || East Dorset District Council || Wimborne Minster || || ||
+||  || East Dunbartonshire Council || Glasgow || searchable by date || http://www.eastdunbarton.gov.uk/web%20site/live/edweblive.nsf/InternetMF?ReadForm&M=DEFAULTC=http://www.eastdunbarton.gov.uk/web%20site/live/edweblive.nsf/QuickLinkPagesWeb/Planning%20Apps?OpenDocument ||  || East Hampshire District Council || Petersfield || last week's apps || http://213.131.177.248/ehdc/planningapplicationsonline.nsf/LastWeek?OpenView&count=1000 ||
+||  || East Hertfordshire District Council || Hertford || searchable by date || http://e-services.eastherts.gov.uk/swiftlg/apas/run/wphappcriteria.display ||
+|| Ready || East Lindsey District Council || Louth || acolnet || http://www.e-lindsey.gov.uk/planning/AcolnetCGI.exe?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
+||  || East Lothian Council || Haddington || WAM - weekly lists|| http://www.planning.eastlothian.gov.uk/WAM/search/pas/index.htm ||
+||  || East Northamptonshire Council || Thrapston || searchable by date || http://www.east-northantsonline.co.uk/planning/searchparam.asp ||
+||  || East Renfrewshire Council || Glasgow || weekly lists as pdf || http://www.eastrenfrewshire.gov.uk/environment/planning/planning_applications/weekly_lists.htm ||
+|| done || East Riding of Yorkshire Council || Beverley || PublicAccess || http://www.eastriding.gov.uk/PublicAccess731c/dc/dc_home.aspx ||
+||  || East Staffordshire Borough Council || Burton upon Trent || Planning Explorer - searchable by date || http://www2.eaststaffsbc.gov.uk/MVM/Online/PL/GeneralSearch.aspx ||
+||  || East Sussex County Council || Lewes || complete list of current applications as pdf or word || http://www.eastsussex.gov.uk/environment/planning/applications/applicationslong/download.htm ||
+||  || Eastbourne Borough Council || Eastbourne || searchable by date || http://www.eastbourne.gov.uk/planningapplications/search.asp ||
+||  || Eastleigh Borough Council || Eastleigh || Fastweb || http://www.eastleigh.gov.uk/FastWEB/search.asp ||
+||  || Eden District Council || Penrith || Fastweb || http://eforms.eden.gov.uk/fastweb/search.asp||
+|| in progress || Edinburgh City Council || Edinburgh || PublicAccess || http://citydev-portal.edinburgh.gov.uk/publicaccess/dc/DcApplication/application_searchform.aspx||
+||  || Ellesmere Port & Neston Borough Council || Ellesmere Port || weekly lists|| http://ocella.epnbc.gov.uk/portal/page?_pageid=33,38205&_dad=portal&_schema=PORTAL||
+||  || Elmbridge Borough Council || Esher || eplanning - searchable by date || http://www2.elmbridge.gov.uk/Planet/ispforms.asp?serviceKey=SysDoc-PlanetApplicationEnquiry ||  || Enfield Borough Council || Enfield || searchable by date || https://forms.enfield.gov.uk/ufs/ufsmain?esessionid=1 ||
+||  || Epping Forest District Council || Epping || searchable by date || http://plan1.eppingforestdc.gov.uk/MVM/Online/PL/GeneralSearch.aspx ||
+|| ready || Epsom & Ewell Borough Council || Epsom || PublicAccess || http://eplanning.epsom-ewell.gov.uk/publicaccess/tdc/DcApplication/application_searchform.aspx ||
+||  || Erewash Borough Council || Nottingham || weekly lists as pdf - latest apps as html || http://www.erewashbc.org.uk/planning/index.asp ||
+||  || Essex County Council || Chelmsford || || ||
+||  || Exeter City Council || Exeter || || ||
+||  || Exmoor National Park Authority || Dulverton || || ||
