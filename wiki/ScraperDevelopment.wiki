@@ -39,6 +39,7 @@
   * Croydon
   * Derby
   * East Lindsey
+  * Fenland
 
 = Scrapes done, but sites broken =
   * Doncaster (site down when attempted to test?)
@@ -48,7 +49,6 @@
   * Stratford (site down when attempted to test?)
   * Teignbridge (site down when attempted to test?)
   * West Berkshire (site down when attempted to test?)
-  * Fenland (database empty)
   * East Devon (Db Empty?)
   * Northumberland (Db Empty)
   * Wolverhampton (empty database)
