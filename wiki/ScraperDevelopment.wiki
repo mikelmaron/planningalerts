@@ -38,6 +38,7 @@
   * Bury
   * Croydon
   * Derby
+  * East Lindsey
 
 = Scrapes done, but sites broken =
   * Doncaster (site down when attempted to test?)
