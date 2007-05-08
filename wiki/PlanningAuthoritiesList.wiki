@@ -74,7 +74,7 @@ The list of authorities I am getting them from is here http://www.theplanningdir
 || Being worked on|| Caradon ||   Caradon District Council  || PublicAccess || http://publicaccess.caradon.gov.uk/publicaccess/ ||
 || || Cardiff ||   Cardiff County Council  || cant find anything ||  ||
 || || Carlisle ||  Carlisle City Council  || acolnetcgi || http://planning.carlisle.gov.uk/acolnet/acolnetcgi.gov ||
-|| || Carmarthenshire ||   Carmarthenshire County Council  || weekly list || http://planning.carlisle.gov.uk/acolnet/acolnetcgi.gov ||
+|| || Carmarthenshire ||   Carmarthenshire County Council  || searchable by date || http://www.carmarthenshire.gov.uk/CCC_APPS/eng/plannaps/ccc_planningapplications.asp ||
 || || Carrick ||    Carrick District Council  || searchable by date || http://www.carrick.gov.uk/index.cfm?articleid=13904 ||
 || || Castle Morpeth ||    Castle Morpeth Borough Council  || searchable by date || http://www.castlemorpeth.gov.uk/addon/planningapps/search.asp ||
 || ||  Castle Point ||   Castle Point Borough Council  || searchable by date || http://planning.castlepoint.gov.uk/servlet/page?_pageid=77&_dad=portal30&_schema=PORTAL30 ||
