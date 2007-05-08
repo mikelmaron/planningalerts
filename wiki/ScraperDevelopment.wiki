@@ -17,6 +17,10 @@
   * Watford (Duncan) - site is broken
   * West Oxfordshire (Duncan) - not working yet
   * Edinburgh (site has data, but scraper doesn't find it)
+  * Bridgenorth (Duncan) - Acolnet. implemented, but returns error 400 when accessed by script
+  * Cambridgeshire (Duncan) - Acolnet. no advanced search page - will need some work
+  * Canterbury (Duncan) - Acolnet. results table is different from usual format
+  * Carlisle (Duncan) - Acolnet. implemented, but returns error 400 when accessed by script
 
 = Working and ready to deploy =
   * Broxbourne (missing perl module on server)
@@ -28,6 +32,11 @@
   * Vale Royal
   * Winchester
   * Epsom and Ewell Borough Council
+  * Babergh
+  * Basingstoke and Deane
+  * Bassetlaw
+  * Bury
+  * Derby
 
 = Scrapes done, but sites broken =
   * Doncaster (site down when attempted to test?)
