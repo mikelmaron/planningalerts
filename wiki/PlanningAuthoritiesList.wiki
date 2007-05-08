@@ -6,7 +6,7 @@ I'm planning on having a list here of all the planning authorities in the UK, an
 
 The list of authorities I am getting them from is here http://www.theplanningdirectory.co.uk/auto/index.html.
 
-|| A || PlanningAuthoritiesA ||
-|| B || PlanningAuthoritiesB ||
-|| C || PlanningAuthoritiesC ||
-|| D || PlanningAuthoritiesD ||
+|| A || [PlanningAuthoritiesA] ||
+|| B || [PlanningAuthoritiesB] ||
+|| C || [PlanningAuthoritiesC] ||
+|| D || [PlanningAuthoritiesD] ||
