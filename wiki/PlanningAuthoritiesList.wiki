@@ -21,14 +21,14 @@ The list of authorities I am getting them from is here http://www.theplanningdir
 || Done || Aylesbury Vale || Aylesbury Vale District Council || Public Access 7.3.1c || http://eplanning.aylesburyvaledc.gov.uk/dc/DcApplication/application_searchform.aspx ||
 
 == B ==
-|| || Babergh || Babergh District Council || search page with dates || http://planning.babergh.gov.uk/dataOnlinePlanning/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
+|| Done || Babergh || Babergh District Council || search page with dates || http://planning.babergh.gov.uk/dataOnlinePlanning/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 || || Barking and Dagenham || Barking & Dagenham Borough Council || weekly and monthly lists in html || http://idoxwam.lbbd.gov.uk:8081/WAM/search/pas/index.htm ||
 || || Barnet || Barnet Borough Council || current applications are searchable by date || http://planning.barnet.gov.uk:7778/pls/portal/PORTAL.wwa_app_module.show?p_sessionid=205173 ||
 || || Barnsley || Barnsley Metropolitan Borough Council || weekly lists in html. Rather out of date, and nowhere obvious to comment. ||http://applications.barnsley.gov.uk/service/development/weeklylist.asp ||
 || Done || Barrow ||Barrow-in-Furness Borough Council || ApplicationSearchServlet || http://localportal.barrowbc.gov.uk/portal/servlets/WeeklyListServlet ||
 || Done || Basildon || Basildon District Council || Public Access 7.3.1c || http://planning.basildon.gov.uk/publicaccess/tdc/DcApplication/application_searchresults.aspx?searchtype=SPEC ||
-|| || Basingstoke || Basingstoke & Deane Borough Council || Search facility including dates || http://planning.basingstoke.gov.uk/DCOnline2/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
-|| || Bassetlaw || Bassetlaw District Council || Search facility including dates || http://www.bassetlaw.gov.uk/planning/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
+|| Done || Basingstoke || Basingstoke & Deane Borough Council || Search facility including dates || http://planning.basingstoke.gov.uk/DCOnline2/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
+|| Done || Bassetlaw || Bassetlaw District Council || Search facility including dates || http://www.bassetlaw.gov.uk/planning/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 || Done || Bath || Bath & North East Somerset Council || Public Access || http://planning.bathnes.gov.uk/publicaccess/ ||
 || Done || Bedford || Bedford Borough Council || Public Access ||http://www.publicaccess.bedford.gov.uk/publicaccess/default.aspx ||
 || || Bedfordshire || Bedfordshire County Council || county council only responsible for a small amount of planning and nothing obvious listed online || ||
@@ -51,7 +51,7 @@ The list of authorities I am getting them from is here http://www.theplanningdir
 || || Brent || Brent Borough Council || search by date || http://www.brent.gov.uk/servlet/ep.ext?extId=101149&byPeriod=Y&st=PL&periodUnits=day&periodMultiples=14 ||
 || || Brentwood || Brentwood Borough Council || weekly lists as pdf || http://www.brentwood-council.gov.uk/index.php?cid=573 ||
 || || Bridgend || Bridgend County Borough Council || searchable by date, but looks unlikely to work || http://www.bridgend.gov.uk/english/planningportal.asp ||
-|| || Bridgnorth || Bridgnorth District Council || searchable by date || http://www2.bridgnorth-dc.gov.uk/planning/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.PgeApplications ||
+|| In progress || Bridgnorth || Bridgnorth District Council || searchable by date || http://www2.bridgnorth-dc.gov.uk/planning/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.PgeApplications ||
 || || Brighton || Brighton & Hove Borough Council || searchable by date || http://www.brighton-hove.gov.uk/index.cfm?request=c1133441 ||
 || Done || Bristol || Bristol City Council || Public Access || http://e2eweb.bristol-city.gov.uk/publicaccess/default.aspx ||
 || || Broadland || Broadland District Council || Planning Explorer - not obviously searchable by date received || http://www.broadland.gov.uk/mvm/Online/PL/GeneralSearch.aspx ||
@@ -61,19 +61,19 @@ The list of authorities I am getting them from is here http://www.theplanningdir
 || || Broxtowe || Broxtowe Borough Council || searchable html weekly lists || http://www.broxtowe.gov.uk/index/planning_new/planning_development_control_new/planning_development_control_planning_applications/planning_applications_disclaimer/planning_applications_search_for_planning_application.htm ||
 || Done || Buckinghamshire || Buckinghamshire County Council || Public Access || http://www.bucksplanning.gov.uk/publicaccess/ ||
 || || Burnley || Burnley Borough Council || weekly lists || http://www.burnley.gov.uk/site/scripts/planning.php ||
-|| || Bury || Bury Metropolitan Borough Council || acolnetcgi.gov || http://e-planning.bury.gov.uk/eplanning/acolnetcgi.gov ||
+|| Done || Bury || Bury Metropolitan Borough Council || acolnetcgi.gov || http://e-planning.bury.gov.uk/eplanning/acolnetcgi.gov ||
 
 ==C==
 || || Caerphilly || Caerphilly County Borough Council || weekly lists as PDFs || http://www.caerphilly.gov.uk/yourservices/planning/planningbulletin/index.htm ||
 || || Calderdale ||  Calderdale Metropolitan Borough Council ||search by date || http://www.calderdale.gov.uk/environment/planning/search-applications/index.jsp ||
 || done || Cambridge ||  Cambridge City Council ||public access|| http://www.cambridge.gov.uk/publicaccess/tdc/tdc_home.aspx ||
-|| || Cambridgeshire ||  Cambridgeshire County Council ||acolnetcgi|| http://planapps.cambridgeshire.gov.uk/scripts/acolnet/acolnetcgi.exe? ||
+|| In progress || Cambridgeshire ||  Cambridgeshire County Council ||acolnetcgi|| http://planapps.cambridgeshire.gov.uk/scripts/acolnet/acolnetcgi.exe? ||
 || Done || Camden ||  London Borough of Camden || || http://www.camden.gov.uk/ccm/navigation/environment/planning-and-built-environment ||
 || || Cannock ||  Cannock Chase District Council || monthly application lists || http://www.cannockchasedc.gov.uk/site/scripts/documents_info.php?documentID=347&pageNumber=2 ||
-|| || Canterbury ||  Canterbury City Council  || acolnetcgi || http://planning.canterbury.gov.uk/scripts/acolnetcgi.exe ||
+|| In progress || Canterbury ||  Canterbury City Council  || acolnetcgi || http://planning.canterbury.gov.uk/scripts/acolnetcgi.exe ||
 || Being worked on|| Caradon ||   Caradon District Council  || PublicAccess || http://publicaccess.caradon.gov.uk/publicaccess/ ||
 || || Cardiff ||   Cardiff County Council  || cant find anything ||  ||
-|| || Carlisle ||  Carlisle City Council  || acolnetcgi || http://planning.carlisle.gov.uk/acolnet/acolnetcgi.gov ||
+|| In progress || Carlisle ||  Carlisle City Council  || acolnetcgi || http://planning.carlisle.gov.uk/acolnet/acolnetcgi.gov ||
 || || Carmarthenshire ||   Carmarthenshire County Council  || searchable by date || http://www.carmarthenshire.gov.uk/CCC_APPS/eng/plannaps/ccc_planningapplications.asp ||
 || || Carrick ||    Carrick District Council  || searchable by date || http://www.carrick.gov.uk/index.cfm?articleid=13904 ||
 || || Castle Morpeth ||    Castle Morpeth Borough Council  || searchable by date || http://www.castlemorpeth.gov.uk/addon/planningapps/search.asp ||
@@ -103,7 +103,7 @@ The list of authorities I am getting them from is here http://www.theplanningdir
 || || Dartmoor || Dartmoor National Park Authority || weekly and monthly lists in html || http://www.dartmoor-npa.gov.uk/index/planning/pl-devcontrol/pl-searchapplicationregister/application_register.htm ||
 || || Daventry || Daventry District Council || searchable by date ||  http://www.daventrydc.gov.uk/swiftlg/apas/run/wphappcriteria.display ||
 || Done || Denbighshire || Denbighshire County Council|| ApplicationSearchServlet ||  http://planning.denbighshire.gov.uk/portal/servlets/ApplicationSearchServlet ||
-|| || Derby || Derby City Council || acolnetcgi ||  http://195.224.106.204/scripts/planningpages02/acolnetcgi.gov ||
+|| Done || Derby || Derby City Council || acolnetcgi ||  http://195.224.106.204/scripts/planningpages02/acolnetcgi.gov ||
 || || Derbyshire || Derbyshire County Council || only responsible for a small amount. all apps online ||  http://www.derbyshire.gov.uk/environment/planning/planning_applications/current_applications/ ||
 || || Derbyshire Dales || Derbyshire Dales District Council || weekly lists in html. appalling looking search page || http://www.doctec.co.uk/derbyshiredales/aspxpages/WeeklyLists.aspx ||
 || || Derwentside || Derwentside District Council || searchable by date received || http://www.derwentside.gov.uk/index.cfm?articleid=8427 ||
