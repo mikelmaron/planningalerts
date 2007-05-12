@@ -12,6 +12,7 @@
   * Durham (Duncan) - works in browser - empty results for script
   * Edinburgh (site has data, but scraper doesn't find it)
   * Hambleton (Duncan) - works for browser - empty results for script
+  * Havant (Duncan) - acolnet - not sure why this doesn't work...
   * Hinckley-Bosworth (Duncan) - uses https
   * Isle of Man (Dan)
   * Manchester (Duncan) - site is missing main menu on left
