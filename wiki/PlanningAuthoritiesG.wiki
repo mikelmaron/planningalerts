@@ -1,0 +1,12 @@
+|| Ready || Gateshead Council || Gateshead || PublicAccess || http://planning.gateshead.gov.uk/publicaccess/ ||
+|| Ready || Gedling Borough Council || Nottingham || PublicAccess || http://publicaccess.gedling.gov.uk/publicaccess/tdc/tdc_home.aspx ||
+||  || Glasgow City Council || Glasgow || weekly lists as pdf || 
+http://www.glasgow.gov.uk/en/Business/Planning_Development/DevelopmentControl/Sitehistorysearches/ ||
+|| Done || Gloucester City Council || Gloucester || PublicAccess || http://www.glcstrplnng11.co.uk/publicaccess/ ||
+|| Ready || Gloucestershire County Council || Gloucester || PublicAccess || http://planning.gloucestershire.gov.uk/publicaccess/ ||
+||  || Gosport Borough Council || Gosport || search by date || http://www.gosport.gov.uk/gbcplanning/ApplicationSearch2.aspx ||
+|| Done || Gravesham Borough Council || Gravesend || 
+||  || Great Yarmouth Borough Council || Great Yarmouth || weekly and monthly pdfs || http://www.great-yarmouth.gov.uk/planning/development_control/planning_applications/archived_applications_2006.htm ||
+||  || Greenwich Borough Council || London || weekly lists in html || http://www.greenwich.gov.uk/Greenwich/YourEnvironment/PlanningAndBuilding/PlanningBuildingConservation/ApplicationsDecisionsAppeals/PlanningApplications/April/ ||
+||  || Guildford Borough Council || Guildford || it's acolnet, but not as we know it. || http://www.guildford.gov.uk/acolnet/ ||
+||  || Gwynedd Council || Caernarfon, Dolgellau, Pwllheli || searchable by date || http://www.gwynedd.gov.uk/swiftlg/apas/run/wphappcriteria.display ||
