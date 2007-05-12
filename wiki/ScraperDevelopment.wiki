@@ -36,8 +36,8 @@
   * Fenland
   * Fylde
   * Gateshead
-  * Gloucestershire
   * Gelding
+  * Gloucestershire
   * Newcastle-under-Lyme
   * Vale Royal
   * Winchester
