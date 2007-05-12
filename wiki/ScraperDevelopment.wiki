@@ -1,14 +1,19 @@
 = Scrapers being worked on =
 
-  * Isle of Man (Dan)
-  * Broads Authority - publicaccess on https
+  * Broads Authority (Duncan) - publicaccess on https
   * Bromley (Duncan) - publicaccess site refuses access unless IE (not fooled by setting browser string in Konqueror)
   * Bracknell Forest (Duncan) - uses https
+  * Bridgenorth (Duncan) - Acolnet. implemented, but returns error 400 when accessed by script
+  * Cambridgeshire (Duncan) - Acolnet. no advanced search page - will need some work
+  * Canterbury (Duncan) - Acolnet. results table is different from usual format
   * Caradon (Duncan) - works in browser, but not with my script
+  * Carlisle (Duncan) - Acolnet. implemented, but returns error 400 when accessed by script
   * Chiltern (Duncan) - uses https
   * Durham (Duncan) - works in browser - empty results for script
+  * Edinburgh (site has data, but scraper doesn't find it)
   * Hambleton (Duncan) - works for browser - empty results for script
   * Hinckley-Bosworth (Duncan) - uses https
+  * Isle of Man (Dan)
   * Manchester (Duncan) - site is missing main menu on left
   * Moray (Duncan) - causes an error in my script
   * Newcastle (Duncan) - works in browser - empty results for script
@@ -16,41 +21,36 @@
   * Selby (Duncan) - works in browser - empty results for script
   * Watford (Duncan) - site is broken
   * West Oxfordshire (Duncan) - not working yet
-  * Edinburgh (site has data, but scraper doesn't find it)
-  * Bridgenorth (Duncan) - Acolnet. implemented, but returns error 400 when accessed by script
-  * Cambridgeshire (Duncan) - Acolnet. no advanced search page - will need some work
-  * Canterbury (Duncan) - Acolnet. results table is different from usual format
-  * Carlisle (Duncan) - Acolnet. implemented, but returns error 400 when accessed by script
 
 = Working and ready to deploy =
-  * Broxbourne (missing perl module on server)
-  * Gelding
-  * East Dorset
-  * Gateshead
-  * Gloucestershire
-  * Newcastle-under-Lyme
-  * Vale Royal
-  * Winchester
-  * Epsom and Ewell Borough Council
   * Babergh
   * Basingstoke and Deane
   * Bassetlaw
+  * Broxbourne (missing perl module on server)
   * Bury
   * Croydon
   * Derby
+  * East Dorset
   * East Lindsey
+  * Epsom and Ewell Borough Council
   * Fenland
   * Fylde
+  * Gateshead
+  * Gloucestershire
+  * Gelding
+  * Newcastle-under-Lyme
+  * Vale Royal
+  * Winchester
 
 = Scrapes done, but sites broken =
+  * Bromley (their site is totally nacked)
   * Doncaster (site down when attempted to test?)
   * Dundee (site down when attempted to test?)
   * Durham (City) - database appears to be empty though...
+  * East Devon (Db Empty?)
   * North West Leicestershire (site down when attempted to test?)
+  * Northumberland (Db Empty)
   * Stratford (site down when attempted to test?)
   * Teignbridge (site down when attempted to test?)
   * West Berkshire (site down when attempted to test?)
-  * East Devon (Db Empty?)
-  * Northumberland (Db Empty)
   * Wolverhampton (empty database)
-  * Bromley (their site is totally nacked)
