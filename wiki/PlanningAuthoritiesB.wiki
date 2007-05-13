@@ -1,4 +1,3 @@
-
 || Done || Babergh || Babergh District Council || search page with dates || http://planning.babergh.gov.uk/dataOnlinePlanning/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 || || Barking and Dagenham || Barking & Dagenham Borough Council || weekly and monthly lists in html || http://idoxwam.lbbd.gov.uk:8081/WAM/search/pas/index.htm ||
 || || Barnet || Barnet Borough Council || current applications are searchable by date || http://planning.barnet.gov.uk:7778/pls/portal/PORTAL.wwa_app_module.show?p_sessionid=205173 ||
@@ -34,6 +33,7 @@
 || Done || Bristol || Bristol City Council || Public Access || http://e2eweb.bristol-city.gov.uk/publicaccess/default.aspx ||
 || || Broadland || Broadland District Council || Planning Explorer - not obviously searchable by date received || http://www.broadland.gov.uk/mvm/Online/PL/GeneralSearch.aspx ||
 || In progress || Broads || Broads Authority || Public Access || Public Access on https || https://planning.broads-authority.gov.uk/PublicAccess/ ||
+|| in progress || Bromley || Bromley || PublicAccess, but broken || ||
 || || Bromsgrove || Bromsgrove District Council || pdf of year to date || http://bromsgrove.whub.org.uk/home/bdcindex/bdc-planning/bdc-planning-applications/bdc-planning-recent-applications.htm ||
 || Tom's scraper || Broxbourne || Broxbourne Borough Council || searchable by date || http://www.broxbourne.gov.uk/Internet/Applications/Planning%20Applications ||
 || || Broxtowe || Broxtowe Borough Council || searchable html weekly lists || http://www.broxtowe.gov.uk/index/planning_new/planning_development_control_new/planning_development_control_planning_applications/planning_applications_disclaimer/planning_applications_search_for_planning_application.htm ||
