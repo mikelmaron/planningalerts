@@ -2,8 +2,7 @@
 ||  || Halton Borough Council || Runcorn || searchable by date || http://www.halton.gov.uk/planningapps/ ||
 || In progress || Hambleton District Council || Northallerton || PublicAccess || http://planning.hambleton.gov.uk/publicaccess/tdc/DcApplication/application_searchform.aspx ||
 || Ready || Hammersmith & Fulham Borough Council || London || PublicAccess || http://www.apps.lbhf.gov.uk/PublicAccess/tdc/DcApplication/application_searchform.aspx ||
-||  || Hampshire County Council || Winchester || online in html, but no date search ||
-http://www3.hants.gov.uk/planning/mineralsandwaste/planning-applications/applications.htm ||
+||  || Hampshire County Council || Winchester || online in html, but no date search || http://www3.hants.gov.uk/planning/mineralsandwaste/planning-applications/applications.htm ||
 ||  || Harborough District Council || Leicester || searchable by date || http://www.harborough.gov.uk/planning/searchparam.asp ||
 || Done || Haringey Borough Council || Tottenham || ApplicationSearchServlet || http://www.planningservices.haringey.gov.uk/portal/servlets/ApplicationSearchServlet ||
 || Ready || Harlow District Council || Harlow || acolnet || http://planning.harlow.gov.uk/PlanningSearch/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.PgeSearch ||
