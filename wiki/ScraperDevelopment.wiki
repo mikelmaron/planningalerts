@@ -42,6 +42,7 @@
   * Hammersmith and Fulham
   * Harlow
   * Hertsmere
+  * Lewisham
   * Newcastle-under-Lyme
   * North Hertfordshire
   * Vale Royal
