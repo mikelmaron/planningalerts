@@ -6,6 +6,7 @@
 ||  || Harborough District Council || Leicester || searchable by date || http://www.harborough.gov.uk/planning/searchparam.asp ||
 || Done || Haringey Borough Council || Tottenham || ApplicationSearchServlet || http://www.planningservices.haringey.gov.uk/portal/servlets/ApplicationSearchServlet ||
 || Ready || Harlow District Council || Harlow || acolnet || http://planning.harlow.gov.uk/PlanningSearch/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.PgeSearch ||
+||  || Harrow || Harrow || suggests planningportal, or ukplanning || http://www.harrow.gov.uk/ccm/content/housing-and-planning/planning/planning-portal.en ||
 || Done || Harrogate Borough Council || Harrogate || PublicAccess || http://publicaccess.harrogate.gov.uk/publicaccess/tdc/tdc_home.aspx ||
 || Done || Hart District Council || Fleet || PublicAccess || http://publicaccess.hart.gov.uk/publicAccess/ ||
 || Done || Hartlepool Borough Council || Hartlepool || ApplicationSearchServlet || http://eforms.hartlepool.gov.uk:7777/portal/servlets/ApplicationSearchServlet ||
