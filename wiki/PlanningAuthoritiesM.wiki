@@ -1,8 +1,8 @@
-|| Macclesfield Borough Council || Macclesfield ||
-|| Maidstone Borough Council || Maidstone ||
-|| Maldon District Council || Maldon ||
-|| Malvern Hills District Council || Malvern ||
-|| Manchester City Council || Manchester ||
+||  || Macclesfield Borough Council || Macclesfield || searchable by date || http://www.planportal.macclesfield.gov.uk/swiftlg/apas/run/wphappcriteria.display ||
+||  || Maidstone Borough Council || Maidstone || eplanning searchable by date || http://www.digitalmaidstone.co.uk/digitalmaidstone/Default.aspx?page=4262 ||
+||  || Maldon District Council || Maldon || searchable by date || http://forms.maldon.gov.uk:8080/PlanApp/jsp/searchPlan.jsp ||
+|| Done || Malvern Hills District Council || Malvern || PublicAccess || ||
+|| Ready || Manchester City Council || Manchester || PublicAccess || http://www.publicaccess.manchester.gov.uk/publicaccess/tdc/tdc_home.aspx ||
 || Mansfield District Council || Mansfield ||
 || Medway Council || Chatham ||
 || Melton Borough Council || Melton Mowbray ||
