@@ -1,0 +1,21 @@
+|| Macclesfield Borough Council || Macclesfield ||
+|| Maidstone Borough Council || Maidstone ||
+|| Maldon District Council || Maldon ||
+|| Malvern Hills District Council || Malvern ||
+|| Manchester City Council || Manchester ||
+|| Mansfield District Council || Mansfield ||
+|| Medway Council || Chatham ||
+|| Melton Borough Council || Melton Mowbray ||
+|| Mendip District Council || Shepton Mallet ||
+|| Merthyr Tydfil County Council || Merthyr Tydfil ||
+|| Merton Borough Council || Morden ||
+|| Mid Bedfordshire District Council || Biggleswade ||
+|| Mid Devon District Council || Tiverton ||
+|| Mid Suffolk District Council || Needham Market ||
+|| Mid Sussex District Council || Haywards Heath ||
+|| Middlesbrough Council || Middlesbrough ||
+|| Midlothian Council || Dalkeith ||
+|| Milton Keynes Council || Milton Keynes ||
+|| Mole Valley District Council || Dorking ||
+|| Monmouthshire County Council || Cwmbran ||
+|| Moray Council || Elgin || 
