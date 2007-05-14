@@ -3,19 +3,19 @@
 ||  || Maldon District Council || Maldon || searchable by date || http://forms.maldon.gov.uk:8080/PlanApp/jsp/searchPlan.jsp ||
 || Done || Malvern Hills District Council || Malvern || PublicAccess || ||
 || Ready || Manchester City Council || Manchester || PublicAccess || http://www.publicaccess.manchester.gov.uk/publicaccess/tdc/tdc_home.aspx ||
-|| Mansfield District Council || Mansfield ||
-|| Medway Council || Chatham ||
-|| Melton Borough Council || Melton Mowbray ||
-|| Mendip District Council || Shepton Mallet ||
-|| Merthyr Tydfil County Council || Merthyr Tydfil ||
-|| Merton Borough Council || Morden ||
-|| Mid Bedfordshire District Council || Biggleswade ||
-|| Mid Devon District Council || Tiverton ||
-|| Mid Suffolk District Council || Needham Market ||
-|| Mid Sussex District Council || Haywards Heath ||
-|| Middlesbrough Council || Middlesbrough ||
-|| Midlothian Council || Dalkeith ||
-|| Milton Keynes Council || Milton Keynes ||
-|| Mole Valley District Council || Dorking ||
-|| Monmouthshire County Council || Cwmbran ||
-|| Moray Council || Elgin || 
+||  || Mansfield District Council || Mansfield || fastweb, searchable by date || http://www.mansfield.gov.uk/Fastweb23/search.asp ||
+||  || Medway Council || Chatham || PlanningOnline, searchable by date || http://www.medway.gov.uk/index/environment/planning/planapp/planonline.htm ||
+||  || Melton Borough Council || Melton Mowbray || searchable by date || http://www.meltononline.co.uk/planning/searchparam.asp ||
+||  || Mendip District Council || Shepton Mallet || searchable by date || http://www.mendip.gov.uk/pods/ApplicationSearch.asp ||
+||  || Merthyr Tydfil County Council || Merthyr Tydfil || weekly lists as pdf || http://www.merthyr.gov.uk/Home/Local+Services/Planning/Development+Control/Weekly+List/April+2007.htm ||
+||  || Merton Borough Council || Morden || site is down || http://planning.merton.gov.uk/MVM/Online/PL/GeneralSearch.aspx ||
+||  || Mid Bedfordshire District Council || Biggleswade || there is an acolnet here, but it is password protected, and only available to invited consultees! Also weekly lists of pdfs ||  http://www.midbeds.gov.uk/services/planning/planning_apps/Weekly_List_of_Planning_Applications.asp ||
+||  || Mid Devon District Council || Tiverton || PublicAccess || http://planning.middevon.gov.uk/publicaccess/ ||
+||  || Mid Suffolk District Council || Needham Market || acolnet, but locations have no postcode || http://www.midsuffolkdc.gov.uk/planning/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.PgeSearch ||
+|| Done || Mid Sussex District Council || Haywards Heath || PublicAccess || http://dc.midsussex.gov.uk/PublicAccess/ ||
+||  || Middlesbrough Council || Middlesbrough || searchable by date || http://planserv.middlesbrough.gov.uk:7778/portal/page?_pageid=35,31689&_dad=portal&_schema=PORTAL ||
+||  || Midlothian Council || Dalkeith || weekly lists as word docs... || http://www.midlothian.gov.uk/%5CArticle.aspx?TopicID=0&ArticleID=17334 ||
+|| Done || Milton Keynes Council || Milton Keynes || PublicAccess || http://publicaccess.milton-keynes.gov.uk/bc/bc_home.aspx ||
+||  || Mole Valley District Council || Dorking || searchable by date || http://www.molevalley.gov.uk/swiftlg/apas/run/wphappcriteria.display ||
+||  || Monmouthshire County Council || Cwmbran || UKplanning || ||
+|| Broken || Moray Council || Elgin || PublicAccess, but broken || ||
