@@ -15,7 +15,6 @@
   * Havant (Duncan) - acolnet - not sure why this doesn't work...
   * Hinckley-Bosworth (Duncan) - uses https
   * Isle of Man (Dan)
-  * Manchester (Duncan) - site is missing main menu on left
   * Moray (Duncan) - causes an error in my script
   * Newcastle (Duncan) - works in browser - empty results for script
   * Perthshire (Duncan) - causes an error in my parser
@@ -43,6 +42,7 @@
   * Harlow
   * Hertsmere
   * Lewisham
+  * Manchester
   * Newcastle-under-Lyme
   * North Hertfordshire
   * Vale Royal
