@@ -15,7 +15,6 @@
   * Hinckley-Bosworth (Duncan) - uses https
   * Isle of Man (Dan)
   * Moray (Duncan) - causes an error in my script
-  * Newcastle (Duncan) - works in browser - empty results for script
   * Perthshire (Duncan) - causes an error in my parser
   * Selby (Duncan) - works in browser - empty results for script
   * Watford (Duncan) - site is broken
@@ -44,6 +43,7 @@
   * Lewisham
   * Manchester
   * New Forest
+  * Newcastle
   * Newcastle-under-Lyme
   * North Hertfordshire
   * Vale Royal
