@@ -1,4 +1,3 @@
-
 || || Caerphilly || Caerphilly County Borough Council || weekly lists as PDFs || http://www.caerphilly.gov.uk/yourservices/planning/planningbulletin/index.htm ||
 || || Calderdale ||  Calderdale Metropolitan Borough Council ||search by date || http://www.calderdale.gov.uk/environment/planning/search-applications/index.jsp ||
 || done || Cambridge ||  Cambridge City Council ||public access|| http://www.cambridge.gov.uk/publicaccess/tdc/tdc_home.aspx ||
@@ -8,7 +7,7 @@
 || In progress || Canterbury ||  Canterbury City Council  || acolnetcgi || http://planning.canterbury.gov.uk/scripts/acolnetcgi.exe ||
 || Being worked on|| Caradon ||   Caradon District Council  || PublicAccess || http://publicaccess.caradon.gov.uk/publicaccess/ ||
 || || Cardiff ||   Cardiff County Council  || cant find anything ||  ||
-|| In progress || Carlisle ||  Carlisle City Council  || acolnetcgi || http://planning.carlisle.gov.uk/acolnet/acolnetcgi.gov ||
+|| Ready || Carlisle ||  Carlisle City Council  || acolnetcgi || http://planning.carlisle.gov.uk/acolnet/acolnetcgi.gov ||
 || || Carmarthenshire ||   Carmarthenshire County Council  || searchable by date || http://www.carmarthenshire.gov.uk/CCC_APPS/eng/plannaps/ccc_planningapplications.asp ||
 || || Carrick ||    Carrick District Council  || searchable by date || http://www.carrick.gov.uk/index.cfm?articleid=13904 ||
 || || Castle Morpeth ||    Castle Morpeth Borough Council  || searchable by date || http://www.castlemorpeth.gov.uk/addon/planningapps/search.asp ||
