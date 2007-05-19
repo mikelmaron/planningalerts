@@ -1,16 +1,16 @@
 ||  || Neath & Port Talbot County Council || Neath || weekly lists as pdf || http://www.neath-porttalbot.gov.uk/planning/dloads.cfm ||
 || Ready || New Forest District Council || Lyndhurst || Acolnet || http://web01.newforestnpa.gov.uk/planningpages/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
-|| || Newark & Sherwood District Council || Newark || || ||
-|| || Newcastle upon Tyne City Council || Newcastle upon Tyne || || ||
-|| || Newcastle-under-Lyme Borough Council || Newcastle-under-Lyme || || ||
-|| || Newham Borough Council || East Ham || || ||
-|| || Newport City Council || Newport || || ||
-|| || Norfolk County Council || Norwich || || ||
-|| || North Ayrshire Council || Irvine || || ||
-|| || North Cornwall District Council || Bodmin, Wadebridge || || ||
-|| || North Devon District Council || Barnstaple || || ||
-|| || North Dorset District Council || Blandford Forum || || ||
-|| || North East Derbyshire District Council || Chesterfield || || ||
+|| || Newark & Sherwood District Council || Newark || eplanning, searchable by date|| http://www.nsdc.info/eplanning/default.aspx?sid=1&sindex=1&id=5 ||
+|| Ready || Newcastle upon Tyne City Council || Newcastle upon Tyne || PublicAccess || ||
+|| Ready || Newcastle-under-Lyme Borough Council || Newcastle-under-Lyme || PublicAccess || ||
+|| Done || Newham Borough Council || East Ham || PublicAccess || ||
+|| || Newport City Council || Newport || weekly lists as pdf || http://www.newport.gov.uk/_dc/index.cfm?fuseaction=planapps.applist ||
+|| || Norfolk County Council || Norwich || currently down || http://ptweb.norfolk.gov.uk/planning_applications/ ||
+|| || North Ayrshire Council || Irvine || weekly lists as pdf || http://www.north-ayrshire.gov.uk/na/Home.nsf/OtherMenuPage?ReadForm&MenuType=Environment-Planning&DocDisplay=NoDoc&CatLevel=2|| ||
+|| || North Cornwall District Council || Bodmin, Wadebridge || searchable by date || http://onlineplanning.ncdc.gov.uk/eaccess/Planning/Planning-application-and-property-Search/Application-Search/Application-Search.asp ||
+|| || North Devon District Council || Barnstaple || searchable by date || http://planning.northdevon.gov.uk/search.asp ||
+|| || North Dorset District Council || Blandford Forum || weekly lists as pdf || http://www.north-dorset.gov.uk/index/living/building_planning/development_control/planning_applications-3/view_application.htm ||
+|| Done || North East Derbyshire District Council || Chesterfield || PublicAccess || ||
 || || North East Lincolnshire Council || Cleethorpes || || ||
 || || North Hertfordshire District Council || Letchworth || || ||
 || || North Kesteven District Council || Sleaford || || ||
