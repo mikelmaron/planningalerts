@@ -3,11 +3,10 @@
   * Broads Authority (Duncan) - publicaccess on https
   * Bromley (Duncan) - publicaccess site refuses access unless IE (not fooled by setting browser string in Konqueror)
   * Bracknell Forest (Duncan) - uses https
-  * Bridgenorth (Duncan) - Acolnet. implemented, but returns error 400 when accessed by script
+  * Bridgnorth (Duncan) - Acolnet. implemented, but returns error 400 when accessed by script
   * Cambridgeshire (Duncan) - Acolnet. no advanced search page - will need some work
   * Canterbury (Duncan) - Acolnet. results table is different from usual format
   * Caradon (Duncan) - works in browser, but not with my script
-  * Carlisle (Duncan) - Acolnet. implemented, but returns error 400 when accessed by script
   * Chiltern (Duncan) - uses https
   * Durham (Duncan) - works in browser - empty results for script
   * Edinburgh (site has data, but scraper doesn't find it)
@@ -27,7 +26,8 @@
   * Basingstoke and Deane
   * Bassetlaw
   * Broxbourne (missing perl module on server)
-  * Bury
+  * Bury  
+  * Carlisle
   * Croydon
   * Derby
   * East Dorset
