@@ -11,24 +11,24 @@
 || || North Devon District Council || Barnstaple || searchable by date || http://planning.northdevon.gov.uk/search.asp ||
 || || North Dorset District Council || Blandford Forum || weekly lists as pdf || http://www.north-dorset.gov.uk/index/living/building_planning/development_control/planning_applications-3/view_application.htm ||
 || Done || North East Derbyshire District Council || Chesterfield || PublicAccess || ||
-|| || North East Lincolnshire Council || Cleethorpes || || ||
-|| || North Hertfordshire District Council || Letchworth || || ||
-|| || North Kesteven District Council || Sleaford || || ||
-|| || North Lanarkshire Council || Cumbernauld || || ||
-|| || North Lincolnshire || Scunthorpe || || ||
-|| || North Norfolk District Council || North Norfolk || ||
-|| || North Shropshire District Council || Wem || || ||
-|| || North Somerset Council || Weston-super-Mare || || ||
-|| || North Tyneside || Newcastle Upon Tyne || || ||
-|| || North Warwickshire Borough Council || Atherstone || || ||
-|| || North West Leicestershire District Council || Coalville || || ||
-|| || North Wiltshire District Council || Chippenham || || ||
-|| || North York Moors National Park Authority || York || || ||
-|| || North Yorkshire County Council || Northallerton || || ||
-|| || Northampton Borough Council || Northampton || || ||
-|| || Northamptonshire County Council || Northampton || || ||
-|| || Northumberland County Council || Morpeth || || ||
-|| || Norwich City Council || Norwich || || ||
-|| || Nottingham City Council || Nottingham || || ||
-|| || Nottinghamshire County Council || Nottingham, West Bridgford || || ||
-|| || Nuneaton & Bedworth Borough Council || Nuneaton || || ||
+|| || North East Lincolnshire Council || Cleethorpes || searchable by date ||http://sun11.nelincs.gov.uk/portal/page?_pageid=256,32885&_dad=portal&_schema=PORTAL  ||
+|| Ready || North Hertfordshire District Council || Letchworth || Acolnet || http://www.north-herts.gov.uk/dcdataonline/Pages/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.PgeSearch||
+|| || North Kesteven District Council || Sleaford || weekly lists as pdf || http://www.n-kesteven.gov.uk/section.asp?docId=3491 ||
+|| || North Lanarkshire Council || Cumbernauld || list for the last week in html || http://www.northlan.gov.uk/business+and+employment/planning/planning+applications/weekly+list+of+planning+applications+week+ending+14th+may+2007.html ||
+|| || North Lincolnshire || Scunthorpe || searchable by date || http://www.planning.northlincs.gov.uk/planet/ispforms.asp?ServiceKey=SysDoc-PlanetApplicationEnquiry ||
+|| || North Norfolk District Council || North Norfolk || no date search || https://www.northnorfolk.org/cgi-bin/publiclivedb.15000.exe/pl/pp7010.ad ||
+|| || North Shropshire District Council || Wem || page is down || http://www.northshropshiredc.gov.uk/static/page861.htm ||
+|| || North Somerset Council || Weston-super-Mare || weekly lists in html || http://212.158.113.30/WAM/search/pas/index.htm ||
+|| Done || North Tyneside || Newcastle Upon Tyne || PublicAccess || http://publicaccess.northtyneside.gov.uk/PublicAccess/tdc/DcApplication/application_searchform.aspx ||
+|| Done || North Warwickshire Borough Council || Atherstone || ApplicationSearchServlet|| http://planning.northwarks.gov.uk/portal/servlets/WeeklyListServlet ||
+|| Ready || North West Leicestershire District Council || Coalville || PublicAccess || http://paccess.nwleics.gov.uk/PublicAccess/tdc/DcApplication/application_searchform.aspx ||
+|| Ready || North Wiltshire District Council || Chippenham || Acolnet || http://planning.northwilts.gov.uk/DCOnline/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
+|| || North York Moors National Park Authority || York || weekly lists in html || http://www.moors.uk.net/content.php?nID=55 ||
+|| || North Yorkshire County Council || Northallerton || searchable by date || http://212.140.128.182/Online%20Register/PlanAppSrch.asp ||
+|| || Northampton Borough Council || Northampton || weekly lists in html - see also WNDC|| http://www.northamptonboroughcouncil.com/planning/defaultNBC.asp ||
+|| || Northamptonshire County Council || Northampton || all apps in html or excel|| http://www.northamptonshire.gov.uk/Environment/DC/pln_apps.htm ||
+|| Ready || Northumberland County Council || Morpeth || PublicAccess || http://planning.northumberland.gov.uk/PublicAccess/tdc/DcApplication/application_searchform.aspx ||
+|| Done || Norwich City Council || Norwich || PublicAccess|| ||
+|| || Nottingham City Council || Nottingham || weekly lists in html || http://www.nottinghamcity.gov.uk/planning/Report/weeksrch.htm ||
+|| || Nottinghamshire County Council || Nottingham, West Bridgford || list of applications open for consultation || http://www.nottinghamshire.gov.uk/home/environment/planningmatters/developmentcontrol/planning-applications/open-applications.htm ||
+|| || Nuneaton & Bedworth Borough Council || Nuneaton || searchable by date || http://www.nuneatonandbedworth.gov.uk/environment-planning/planning/planning-applications/search-planning-applications ||
