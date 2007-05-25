@@ -1,13 +1,13 @@
-|| || Peak District National Park Authority || Bakewell ||
-|| || Pembrokeshire Coast National Park Authority || Haverfordwest ||
-|| || Pembrokeshire County Council || Haverfordwest ||
-|| || Pendle Borough Council || Nelson ||
-|| || Penwith District Council || Penzance ||
-|| || Perth & Kinross Council || Perth ||
-|| || Peterborough City Council || Peterborough ||
-|| || Plymouth City Council || Plymouth ||
-|| || Poole Borough Council || Poole ||
-|| || Portsmouth City Council || Portsmouth ||
-|| || Powys County Council || Brecon, Llandrindod Wells, Welshpool ||
-|| || Preston City Council || Preston ||
-|| || Purbeck District Council || Wareham ||
+|| || Peak District National Park Authority || Bakewell || html results searchable by date || http://217.147.178.232/pam/search.jsp || 
+|| || Pembrokeshire Coast National Park Authority || Haverfordwest || html results searchable by date  || http://www.pcnpa.org.uk/website/default.asp?SID=1097 ||
+|| || Pembrokeshire County Council || Haverfordwest || pdf weekly lists || http://www.pembrokeshire.gov.uk/content.asp?nav=109,140&parent_directory_id=646&id=5074 ||
+|| || Pendle Borough Council || Nelson || interactive planning - searchable by date || http://bopdoccip.pendle.gov.uk/PlanApp/jsp/searchPlan.jsp ||
+|| || Penwith District Council || Penzance || planning applications organised by year (in html) || http://www.penwith.gov.uk/index.cfm?articleid=7088 ||
+|| In progress || Perth & Kinross Council || Perth || PublicAccess - causes an error in my parser... || http://193.63.61.22/publicaccess/ ||
+|| Done || Peterborough City Council || Peterborough || PublicAccess || ||
+|| || Plymouth City Council || Plymouth || searchable by date || http://www.plymouth.gov.uk/planningonline?innoLink=http://www.plymouth.gov.uk/planningapplications2/search.asp ||
+|| || Poole Borough Council || Poole || weekly lists || http://wam.boroughofpoole.com/WAM/search/pas/index.htm ||
+|| Done || Portsmouth City Council || Portsmouth || PublicAccess || 
+|| || Powys County Council || Brecon, Llandrindod Wells, Welshpool || very little of use. || http://www.powys.gov.uk/index.php?id=75 || 
+|| || Preston City Council || Preston || weekly lists as pdf - hard to navigate|| http://www.preston.gov.uk/Category.asp?cat=1555 ||
+|| || Purbeck District Council || Wareham || broken link to online planning apps || http://www.purbeck.gov.uk/default.aspx?page=8714&menupage=7 ||
