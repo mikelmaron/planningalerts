@@ -1,1 +1,22 @@
-Remember to include London Borough of Richmond.
+d|| || Reading Borough Council || Reading ||
+|| || London Borough of Redbridge || Ilford ||
+|| || Redcar & Cleveland Borough Council || Redcar ||
+|| || Redditch Borough Council || Redditch ||
+|| || Reigate & Banstead Borough Council || Reigate ||
+|| || Renfrewshire Council || Paisley ||
+|| || Restormel Borough Council || St. Austell ||
+|| || Rhondda Cynnon Taf County Borough Council || Pontypridd ||
+|| || Ribble Valley Borough Council || Clitheroe ||
+|| || London Borough of Richmond || Richmond ||
+|| || Richmondshire District Council || Richmond ||
+|| || Rochdale Metropolitan Borough Council || Rochdale ||
+|| || Rochford District Council || Rochford ||
+|| || Rossendale Borough Council || Bacup ||
+|| || Rother District Council || Bexhill ||
+|| || Rotherham Borough Council || Rotherham ||
+|| || Rugby Borough Council || Rugby ||
+|| || Runnymede Borough Council || Addlestone ||
+|| || Rushcliffe Borough Council || West Bridgford || 
+|| || Rushmoor Borough Council || Farnborough ||
+|| || Rutland County Council || Oakham ||
+|| || Ryedale District Council || Malton ||
