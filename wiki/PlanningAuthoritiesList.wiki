@@ -22,3 +22,4 @@ The list of authorities I am getting them from is here http://www.theplanningdir
 || N || [PlanningAuthoritiesN] ||
 || O || [PlanningAuthoritiesO] ||
 || P || [PlanningAuthoritiesP] ||
+|| R || [PlanningAuthoritiesR] ||
