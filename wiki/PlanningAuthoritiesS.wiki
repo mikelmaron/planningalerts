@@ -1,0 +1,65 @@
+|| || Salford City Council || Swinton ||
+|| || Salisbury District Council || Salisbury ||
+|| || Sandwell Metropolitan Borough Council || West Bromwich ||
+|| || Scarborough Borough Council || Scarborough, Whitby ||
+|| || Scottish Borders Council || Ancrum, Duns, Galashiels, Hawick, Newtown St Boswells, Peebles ||
+|| || Sedgefield Borough Council || Spennymoor ||
+|| || Sedgemoor District Counhcil || Bridgwater ||
+|| || Sefton Metropolitan Borough Council || Bootle, Southport ||
+|| || Selby District Council || Selby ||
+|| || Sevenoaks District Council || Sevenoaks ||
+|| || Sheffield City Council || Sheffield ||
+|| || Shepway District Council || Folkestone ||
+|| || Shetland Islands Council || Lerwick ||
+|| || Shrewsbury & Atcham Borough Council || Shrewsbury ||
+|| || Shropshire County Council || Shrewsbury ||
+|| || Slough Borough Council || Slough ||
+|| || Snowdonia National Park Authority || Penrhynduedraeth ||
+|| || Solihull Metropolitan Borough Council || Solihull ||
+|| || Somerset County Council || Taunton ||
+|| || South Ayrshire Council || Ayr ||
+|| || South Bedfordshire District Council || Dunstable ||
+|| || South Bucks District Council || Slough ||
+|| || South Cambridgeshire District Council || Cambridge ||
+|| || South Derbyshire District Council || Swadlincote ||
+|| || South Gloucestershire Council || Kingswood, Thornbury ||
+|| || South Hams District Council || Totnes ||
+|| || South Holland District Council || Spalding ||
+|| || South Kesteven District Council || Grantham ||
+|| || South Lakeland District Council || Kendal ||
+|| || South Lanarkshire Council || East Kilbride, Hamilton, Lanark, Rutherglen ||
+|| || South Norfolk Council || Long Stratton ||
+|| || South Northamptonshire || Towcester ||
+|| || South Oxfordshire District Council || Wallingford ||
+|| || South Ribble Borough Council || Leyland ||
+|| || South Shropshire District Council || Ludlow ||
+|| || South Somerset District Council || Chard, Langport, Wincanton, Yeovil ||
+|| || South Staffordshire District Council || Wolverhampton ||
+|| || South Tyneside Borough Council || South Shields ||
+|| || Southampton City Council || Southampton ||
+|| || Southend-on-Sea Borough Council || Southend-on-Sea ||
+|| || Southwark Borough Council || London ||
+|| || Spelthorne Borough Council || Staines ||
+|| || St Edmundsbury Borough Council || Bury St Edmunds ||
+|| || St Helens Council || St Helens ||
+|| || St. Albans District Council || St Albans ||
+|| || Stafford Borough Council || Stafford ||
+|| || Staffordshire County Council || Stafford ||
+|| || Staffordshire Moorlands District Council || Leek ||
+|| || States of Guernsey || St Peter Port ||
+|| || Stevenage Borough Council || Stevenage ||
+|| || Stirling Council || Stirling ||
+|| || Stockport Metropolitan Borough Council || Stockport ||
+|| || Stockton-on-Tees Borough Council || Stockton on Tees ||
+|| || Stoke-on-Trent City Council || Stoke-on-Trent ||
+|| || Stratford-on-Avon District Council || Stratford-upon-Avon ||
+|| || Stroud District Council || Stroud ||
+|| || Suffolk Coastal District Council || Woodbridge ||
+|| || Suffolk County Council || Ipswich ||
+|| || Sunderland City Council || Sunderland ||
+|| || Surrey County Council || Kingston upon Thames ||
+|| || Surrey Heath Borough Council || Camberley ||
+|| || Sutton Borough Council || Carshalton ||
+|| || Swale Borough Council || Sittingbourne ||
+|| || Swansea City & County Council || Swansea ||
+|| || Swindon Borough Council || Swindon ||
