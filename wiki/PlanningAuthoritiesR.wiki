@@ -3,7 +3,7 @@
 || || Redcar & Cleveland Borough Council || Redcar || list of all current apps as html || http://www.redcar-cleveland.gov.uk/Planning.nsf/ViewWebApplicationsByDate?readform ||
 || Done || Redditch Borough Council || Redditch || PublicAccess || http://access.redditchbc.gov.uk/publicaccess/default.aspx ||
 || || Reigate & Banstead Borough Council || Reigate || Planit - searchable by date || http://www.reigate-banstead.gov.uk/planit03.asp ||
-|| || Renfrewshire Council || Paisley || Acolnet || http://planning.renfrewshire.gov.uk/acolnetDCpages/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.PgeSearch ||
+|| Ready || Renfrewshire Council || Paisley || Acolnet || http://planning.renfrewshire.gov.uk/acolnetDCpages/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.PgeSearch ||
 || || Restormel Borough Council || St. Austell ||
 || || Rhondda Cynnon Taf County Borough Council || Pontypridd ||
 || || Ribble Valley Borough Council || Clitheroe ||
