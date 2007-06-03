@@ -1,9 +1,9 @@
-d|| || Reading Borough Council || Reading ||
-|| || London Borough of Redbridge || Ilford ||
-|| || Redcar & Cleveland Borough Council || Redcar ||
-|| || Redditch Borough Council || Redditch ||
-|| || Reigate & Banstead Borough Council || Reigate ||
-|| || Renfrewshire Council || Paisley ||
+|| Done || Reading Borough Council || Reading || PublicAccess || http://planning.reading.gov.uk/publicaccess/default.aspx ||
+|| || London Borough of Redbridge || Ilford || Weekly lists as pdf || http://www.redbridge.gov.uk/planning/Planappsrec.cfm ||
+|| || Redcar & Cleveland Borough Council || Redcar || list of all current apps as html || http://www.redcar-cleveland.gov.uk/Planning.nsf/ViewWebApplicationsByDate?readform ||
+|| Done || Redditch Borough Council || Redditch || PublicAccess || http://access.redditchbc.gov.uk/publicaccess/default.aspx ||
+|| || Reigate & Banstead Borough Council || Reigate || Planit - searchable by date || http://www.reigate-banstead.gov.uk/planit03.asp ||
+|| || Renfrewshire Council || Paisley || Acolnet || http://planning.renfrewshire.gov.uk/acolnetDCpages/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.PgeSearch ||
 || || Restormel Borough Council || St. Austell ||
 || || Rhondda Cynnon Taf County Borough Council || Pontypridd ||
 || || Ribble Valley Borough Council || Clitheroe ||
