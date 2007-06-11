@@ -1,22 +1,22 @@
-|| || Salford City Council || Swinton ||
-|| || Salisbury District Council || Salisbury ||
-|| || Sandwell Metropolitan Borough Council || West Bromwich ||
-|| || Scarborough Borough Council || Scarborough, Whitby ||
-|| || Scottish Borders Council || Ancrum, Duns, Galashiels, Hawick, Newtown St Boswells, Peebles ||
-|| || Sedgefield Borough Council || Spennymoor ||
-|| || Sedgemoor District Counhcil || Bridgwater ||
-|| || Sefton Metropolitan Borough Council || Bootle, Southport ||
-|| || Selby District Council || Selby ||
-|| || Sevenoaks District Council || Sevenoaks ||
-|| || Sheffield City Council || Sheffield ||
-|| || Shepway District Council || Folkestone ||
-|| || Shetland Islands Council || Lerwick ||
-|| || Shrewsbury & Atcham Borough Council || Shrewsbury ||
-|| || Shropshire County Council || Shrewsbury ||
-|| || Slough Borough Council || Slough ||
-|| || Snowdonia National Park Authority || Penrhynduedraeth ||
-|| || Solihull Metropolitan Borough Council || Solihull ||
-|| || Somerset County Council || Taunton ||
+|| Done || Salford City Council || Swinton || PublicAccess || http://publicaccess.salford.gov.uk/publicaccess/ || 
+|| || Salisbury District Council || Salisbury || searchable by date received || http://www.salisbury.gov.uk/planning/development-control/applications/advanced-search ||
+|| Done || Sandwell Metropolitan Borough Council || West Bromwich || PublicAccess || http://webcaps.sandwell.gov.uk/PublicAccess/ ||
+|| Done || Scarborough Borough Council || Scarborough, Whitby || PublicAccess || http://planning.scarborough.gov.uk/publicaccess/ ||
+|| Done || Scottish Borders Council || Ancrum, Duns, Galashiels, Hawick, Newtown St Boswells, Peebles || PublicAccess || http://eplanning.scotborders.gov.uk/publicaccess/ ||
+|| || Sedgefield Borough Council || Spennymoor || searchable by date || http://www2.sedgefield.gov.uk/planning_search/index.php ||
+|| || Sedgemoor District Counhcil || Bridgwater || planning online - searchable by date || http://www.sedgemoor.gov.uk/planning%20online/enl.aspx || 
+|| || Sefton Metropolitan Borough Council || Bootle, Southport || website is mostly dead today... || http://www.sefton.gov.uk/ ||
+|| Ready || Selby District Council || Selby || PublicAccess || http://publicaccess.selby.gov.uk/publicaccess/ ||
+|| Done || Sevenoaks District Council || Sevenoaks || PublicAccess || http://publicaccess.sevenoaks.gov.uk/publicaccess/ ||
+|| Done || Sheffield City Council || Sheffield || PublicAccess || http://planning.sheffield.gov.uk/publicaccess/default.aspx ||
+|| || Shepway District Council || Folkestone || ukplanning - searchable by date. also html weekly list|| http://www.ukplanning.com/ukp/custom/forwards/selectandsearch.jsp?council=Shepway%20District%20Council&fwd=search,   http://www.shepway.gov.uk/webapp/service/query/planning-week.do?go=on ||
+|| || Shetland Islands Council || Lerwick || list as html, can show last 2 weeks, month, etc || http://www.shetland.gov.uk/planningcontrol/apps/ ||
+|| || Shrewsbury & Atcham Borough Council || Shrewsbury || html list, searchable by date || http://www.shrewsbury.gov.uk/planninglist/register.asp ||
+|| || Shropshire County Council || Shrewsbury || searchable by date (minerals and waste only) || http://193.132.103.54/PlanAppSrch.asp ||
+|| || Slough Borough Council || Slough || requires registration! || http://www2.slough.gov.uk/swiftlg/apas/run/wchvarylogin.display ||
+|| || Snowdonia National Park Authority || Penrhynduedraeth || searchable by date || http://www.eryri-npa.co.uk/swiftlg_test/apas_test/run/wphappcriteria.display ||
+|| || Solihull Metropolitan Borough Council || Solihull || weekly lists in html || http://www.solihull.gov.uk/planning/dc/weeklist.asp ||
+|| || Somerset County Council || Taunton || searchable by date || http://webapp1.somerset.gov.uk/ePlanning/searchPageLoad.do ||
 || || South Ayrshire Council || Ayr ||
 || || South Bedfordshire District Council || Dunstable ||
 || || South Bucks District Council || Slough ||
