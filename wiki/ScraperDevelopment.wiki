@@ -16,7 +16,6 @@
   * Isle of Man (Dan)
   * Moray (Duncan) - causes an error in my script
   * Perthshire (Duncan) - causes an error in my parser
-  * Selby (Duncan) - works in browser - empty results for script
   * Watford (Duncan) - site is broken
   * West Oxfordshire (Duncan) - not working yet
 
@@ -49,6 +48,7 @@
   * North West Leicestershire
   * North Wiltshire
   * Northumberland (Not that many applications - minerals, and waste only)
+  * Selby
   * Vale Royal
   * Winchester
 
