@@ -17,9 +17,9 @@
 || || Snowdonia National Park Authority || Penrhynduedraeth || searchable by date || http://www.eryri-npa.co.uk/swiftlg_test/apas_test/run/wphappcriteria.display ||
 || || Solihull Metropolitan Borough Council || Solihull || weekly lists in html || http://www.solihull.gov.uk/planning/dc/weeklist.asp ||
 || || Somerset County Council || Taunton || searchable by date || http://webapp1.somerset.gov.uk/ePlanning/searchPageLoad.do ||
-|| || South Ayrshire Council || Ayr ||
-|| || South Bedfordshire District Council || Dunstable ||
-|| || South Bucks District Council || Slough ||
+|| || South Ayrshire Council || Ayr || searchable by date || http://gis.south-ayrshire.gov.uk/viewerplanning/planningLists.asp ||
+|| Ready || South Bedfordshire District Council || Dunstable || acolnet || http://planning.southbeds.gov.uk/plantech/DCWebPages/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
+|| Done || South Bucks District Council || Slough || PublicAccess || http://sbdc-paweb.southbucks.gov.uk/publicaccess/tdc/DcApplication/application_searchform.aspx ||
 || || South Cambridgeshire District Council || Cambridge ||
 || || South Derbyshire District Council || Swadlincote ||
 || || South Gloucestershire Council || Kingswood, Thornbury ||
