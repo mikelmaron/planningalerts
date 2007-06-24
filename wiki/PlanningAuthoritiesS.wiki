@@ -40,26 +40,26 @@
 || || Southend-on-Sea Borough Council || Southend-on-Sea || searchable by date || http://www.southend.gov.uk/environment/planning/applications.asp ||
 || || Southwark Borough Council || London || acolnet, but not quite as expected || http://194.168.41.26/cgi-bin/acolnetcgi.exe?ACTION=UNWRAP&RIPSESSION=%7B%5B%2A%211D1A020B050304731D3C3D31617C041E28361620222F34223B7660001036350A0C1E372B316B730B033D3916212F332D27013722002F352B6A611715232B122B2E21312D162B260A2E2737691120283F3A3606243629243A06176F747D7A707F7E647777007A76787F63%21%2A%5D%7D ||
 || Done || Spelthorne Borough Council || Staines || PublicAccess || http://phoenix.spelthorne.gov.uk/publicaccess/ ||
-|| || St Edmundsbury Borough Council || Bury St Edmunds ||
-|| || St Helens Council || St Helens ||
-|| || St. Albans District Council || St Albans ||
-|| || Stafford Borough Council || Stafford ||
-|| || Staffordshire County Council || Stafford ||
-|| || Staffordshire Moorlands District Council || Leek ||
-|| || States of Guernsey || St Peter Port ||
-|| || Stevenage Borough Council || Stevenage ||
-|| || Stirling Council || Stirling ||
-|| || Stockport Metropolitan Borough Council || Stockport ||
-|| || Stockton-on-Tees Borough Council || Stockton on Tees ||
-|| || Stoke-on-Trent City Council || Stoke-on-Trent ||
-|| || Stratford-on-Avon District Council || Stratford-upon-Avon ||
-|| || Stroud District Council || Stroud ||
-|| || Suffolk Coastal District Council || Woodbridge ||
-|| || Suffolk County Council || Ipswich ||
-|| || Sunderland City Council || Sunderland ||
-|| || Surrey County Council || Kingston upon Thames ||
-|| || Surrey Heath Borough Council || Camberley ||
-|| || Sutton Borough Council || Carshalton ||
-|| || Swale Borough Council || Sittingbourne ||
-|| || Swansea City & County Council || Swansea ||
-|| || Swindon Borough Council || Swindon ||
+|| || St Edmundsbury Borough Council || Bury St Edmunds || searchable by date || http://www.stedmundsbury.gov.uk/swiftlg/apas/run/wphappcriteria.display ||
+|| Done || St Helens Council || St Helens || ApplicationSearchServlet || http://212.248.225.150:8080/portal/servlets/ApplicationSearchServlet ||
+|| || St. Albans District Council || St Albans || searchable by date || http://www.stalbans.gov.uk/living/planning/search-plans.php ||
+|| Done || Stafford Borough Council || Stafford || PublicAccess || http://www3.staffordbc.gov.uk/publicaccess/default.aspx ||
+|| || Staffordshire County Council || Stafford || searchable by date || http://www.staffordshire.gov.uk/environment/developmentcontrol/planning/applications/ApplicationsRegister/CPLand/search.aspx ||
+|| Done || Staffordshire Moorlands District Council || Leek || PublicAccess || http://publicaccess.staffsmoorlands.gov.uk/publicaccess/ ||
+|| || States of Guernsey || St Peter Port || pdf of latest apps || http://www.gov.gg/ccm/environment/planning-division/development-control/press-lists/planning-application-press-list---150607.en ||
+|| Done || Stevenage Borough Council || Stevenage || PublicAccess || http://publicaccess.stevenage.gov.uk/publicaccess ||
+|| Done || Stirling Council || Stirling || PublicAccess || http://planpub.stirling.gov.uk/publicaccess/ ||
+|| || Stockport Metropolitan Borough Council || Stockport || searchable by date || http://s1.stockport.gov.uk/council/eed/dc/planning/MVM/Online/PL/GeneralSearch.aspx ||
+|| Done || Stockton-on-Tees Borough Council || Stockton on Tees || PublicAccess || http://www.developmentcontrol.stockton.gov.uk/publicaccess/ ||
+|| || Stoke-on-Trent City Council || Stoke-on-Trent || No obvious date search or weekly list || http://www.gisinternet.stoke.gov.uk/evoplanning/search_form.asp ||
+|| Ready || Stratford-on-Avon District Council || Stratford-upon-Avon || PublicAccess || http://217.33.198.119/publicaccess/default.aspx ||
+|| || Stroud District Council || Stroud || searchable by date, or weekly list || http://www.stroud.gov.uk/docs/planning/planning_application_search.asp?did=onlineplanapps ||
+|| Ready || Suffolk Coastal District Council || Woodbridge || acolnet || https://apps3.suffolkcoastal.gov.uk/planningonline/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
+|| || Suffolk County Council || Ipswich || site is down || http://www.eplanning.suffolk.gov.uk/ePlanningOPS/index.jsp ||
+|| Done || Sunderland City Council || Sunderland || PublicAccess || http://www.sunderland.gov.uk/publicaccess/ ||
+|| || Surrey County Council || Kingston upon Thames || can get links to all current applications by searching with blank box || http://www1.surreycc.gov.uk/mwplan/search.cfm ||
+|| In progress || Surrey Heath Borough Council || Camberley || acolnet, but defeats my parser somehow :-( || https://www.public.surreyheath-online.gov.uk/whalecom60b1ef305f59f921/whalecom0/Scripts/PlanningPagesOnline/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
+|| || Sutton Borough Council || Carshalton || fastweb - current apps in html || http://82.43.4.135/FASTWEB/welcome.asp ||
+|| || Swale Borough Council || Sittingbourne || ukplanning and weekly lists as pdf|| http://www.ukplanning.com/ukp/custom/forwards/selectandsearch.jsp?council=Swale%20Borough%20Council&fwd=search , http://www.swale.gov.uk/index.cfm?articleid=4368||
+|| || Swansea City & County Council || Swansea || searchable by date || http://www2.swansea.gov.uk/MVM/online/PL/GeneralSearch.aspx ||
+|| Done || Swindon Borough Council || Swindon || PublicAccess || http://194.73.99.13/publicaccess/propdb/property/property_searchform.aspx ||
