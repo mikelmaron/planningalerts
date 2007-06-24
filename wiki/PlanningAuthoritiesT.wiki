@@ -6,8 +6,7 @@
 ||  || Teignbridge District Council || Newton Abbot ||
 ||  || Telford & Wrekin Council || Telford ||
 ||  || Tendring District Council || Weeley ||
-||  || Test Valley Borough Council || Andover
-||  || Romsey ||
+||  || Test Valley Borough Council || Andover,  Romsey ||
 ||  || Tewkesbury Borough Council || Tewkesbury ||
 ||  || Thanet District Council || Margate ||
 ||  || Three Rivers District Council || Rickmansworth ||
