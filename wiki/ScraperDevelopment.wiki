@@ -52,6 +52,7 @@
   * Selby
   * Stratford
   * Suffolk Coastal
+  * Teignbridge
   * Vale Royal
   * Winchester
 
@@ -61,6 +62,5 @@
   * Dundee (site down when attempted to test?)
   * Durham (City) - database appears to be empty though...
   * East Devon (Db Empty?)
-  * Teignbridge (site down when attempted to test?)
   * West Berkshire (site down when attempted to test?)
   * Wolverhampton (empty database)
