@@ -26,3 +26,4 @@ The list of authorities I am getting them from is here http://www.theplanningdir
 || R || [PlanningAuthoritiesR] ||
 || S || [PlanningAuthoritiesS] ||
 || T || [PlanningAuthoritiesT] ||
+|| U || [PlanningAuthoritiesU] ||
