@@ -54,6 +54,7 @@
   * Suffolk Coastal
   * Teignbridge
   * Vale Royal
+  * West Berkshire
   * Winchester
 
 = Scrapes done, but sites broken =
@@ -62,5 +63,4 @@
   * Dundee (site down when attempted to test?)
   * Durham (City) - database appears to be empty though...
   * East Devon (Db Empty?)
-  * West Berkshire (site down when attempted to test?)
   * Wolverhampton (empty database)
