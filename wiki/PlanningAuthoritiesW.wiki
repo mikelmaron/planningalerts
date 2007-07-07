@@ -26,19 +26,19 @@
 || Done || West Wiltshire District Council || Trowbridge || PublicAccess || http://planning.westwiltshire.gov.uk/publicaccess/ ||
 ||  || Westminster City Council || LONDON || searchable by date registered || http://www3.westminster.gov.uk/planningapplications/currentsearch-form.cfm ||
 ||  || Weymouth & Portland Borough Council || Weymouth || last 28 days planning apps in html || http://www.weymouth.gov.uk/Planning/applications/newapps.asp?svid=212 ||
-||  || Wigan Metropolitan Borough Council || Wigan ||
-||  || Wiltshire County Council || Trowbridge ||
-||  || Winchester City Council || Winchester ||
-||  || Windsor & Maidenhead Borough Council || Maidenhead, Windsor ||
-||  || Wirral Metropolitan Borough Council || Wallasey ||
-||  || Woking Borough Council || Woking ||
-||  || Wokingham District Council || Hurst, Wokingham ||
-||  || Wolverhampton City Council || Wolverhampton ||
-||  || Worcester City Council || Worcester ||
-||  || Worcestershire County Council || Worcester ||
-||  || Worthing Borough Council || Worthing ||
-||  || Wrexham County Borough Council || Wrexham ||
-||  || Wychavon District Council || Pershore ||
-||  || Wycombe District Council || High Wycombe ||
-||  || Wyre Borough Council || Poulton-le-Fylde ||
-||  || Wyre Forest District Council || Kidderminster ||
+||  || Wigan Metropolitan Borough Council || Wigan || searchable by date received || http://kinnear.wigan.gov.uk/planapps/PlanAppsAppSearch.asp ||
+||  || Wiltshire County Council || Trowbridge || plan-IT: searchable by date || http://www.wiltshireplanningapplications.co.uk/planning_search.aspx ||
+|| Ready || Winchester City Council || Winchester || PublicAccess || http://win2padmz.winchester.gov.uk/publicaccess/ ||
+||  || Windsor & Maidenhead Borough Council || Maidenhead, Windsor || PAM - searchable by date || http://www.rbwm.gov.uk/pam/search.jsp ||
+||  || Wirral Metropolitan Borough Council || Wallasey || possible to ignore applications before a date || http://www.wirral.gov.uk/planning/search1.asp ||
+|| Done || Woking Borough Council || Woking || PublicAccess || http://caps.woking.gov.uk/publicaccess/ ||
+||  || Wokingham District Council || Hurst, Wokingham || Apps can be displayed in html by month || http://www.wokingham.gov.uk/environment/planning/planning-applications/planning-applications-search ||
+|| Broken || Wolverhampton City Council || Wolverhampton || PublicAccess, but database empty || http://planningonline.wolverhampton.gov.uk/PublicAccess/tdc/tdc_home.aspx ||
+||  || Worcester City Council || Worcester || searchable by date || http://www.worcester.gov.uk:8080/planet/ispforms.asp?serviceKey=SysDoc-PlanetApplicationEnquiry ||
+||  || Worcestershire County Council || Worcester || list of all current apps in html || http://worcestershire.whub.org.uk/home/textonly/wccindex/wcc-planning/wcc-dev-control/wcc-dev-control-applications-decisions.htm ||
+|| Done || Worthing Borough Council || Worthing || PublicAccess || http://planning.worthing.gov.uk/publicaccess/ ||
+||  || Wrexham County Borough Council || Wrexham || last x weeks planning apps available in html || http://www.wrexham.gov.uk/english/planning_portal/plan_apps/PlansSearch.cfm ||
+||  || Wychavon District Council || Pershore || Acolnet, but not quite like the others || http://www.e-wychavon.org.uk/scripts/plan2005/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.Pages.PgeDC.LnkSearchGeneral.PgeSearchGeneral ||
+|| Done || Wycombe District Council || High Wycombe || PublicAccess || http://planningpa.wycombe.gov.uk/PublicAccess/ ||
+||  || Wyre Borough Council || Poulton-le-Fylde || current applications listed by month and year || http://www.wyrebc.gov.uk/Page.aspx?PvnID=48072&PgeID=48063&BrdCb=1-24-13552-13553-13579-13470-13618 ||
+||  || Wyre Forest District Council || Kidderminster || fastweb: weekly list in html || http://www.wyreforest.gov.uk/fastweb/weeklylistapp.asp ||
