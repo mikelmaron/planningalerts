@@ -18,6 +18,7 @@
   * Surrey Heath (Duncan) - causes an error in my parser
   * Watford (Duncan) - site is broken
   * West Oxfordshire (Duncan) - not working yet
+  * Wychavon (Duncan) - an acolnet site, but slightly odd.
 
 = Working and ready to deploy =
   * Babergh
