@@ -1,0 +1,44 @@
+||  || Wakefield City Council || Wakefield ||
+||  || Walsall Metropolitan Borough Council || Walsall ||
+||  || London Borough of Waltham Forest || Chingford ||
+||  || Wandsworth Borough Council || London ||
+||  || Wansbeck District Council || Bedlington ||
+||  || Warrington Borough Council || Warrington ||
+||  || Warwick District Council || Leamington Spa ||
+||  || Warwickshire County Council || Warwick ||
+||  || Watford Council || Watford ||
+||  || Waveney District Council || Beccles ,Bungay, Halesworth, Lowestoft ||
+||  || Waverley Borough Council || Godalming ||
+||  || Wealden District Council || Crowborough ||
+||  || Wear Valley District Council || Crook ||
+||  || Wellingborough Borough Council || Wellingborough ||
+||  || Welwyn-Hatfield District Council || WELWYN GARDEN CITY ||
+||  || West Berkshire Council || Newbury ||
+||  || West Devon Borough Council || Okehampton, Tavistock ||
+||  || West Dorset District Council || Dorchester ||
+||  || West Dunbartonshire Council || Clydebank, Dumbarton ||
+||  || West Lancashire District Council || Ormskirk ||
+||  || West Lindsey District Council || Gainsborough ||
+||  || West Lothian Council || Linlithgow ||
+||  || West Oxfordshire District Council || Witney ||
+||  || West Somerset District Council || Taunton ||
+||  || West Sussex County Council || Chichester ||
+||  || West Wiltshire District Council || Trowbridge ||
+||  || Westminster City Council || LONDON ||
+||  || Weymouth & Portland Borough Council || Weymouth ||
+||  || Wigan Metropolitan Borough Council || Wigan ||
+||  || Wiltshire County Council || Trowbridge ||
+||  || Winchester City Council || Winchester ||
+||  || Windsor & Maidenhead Borough Council || Maidenhead, Windsor ||
+||  || Wirral Metropolitan Borough Council || Wallasey ||
+||  || Woking Borough Council || Woking ||
+||  || Wokingham District Council || Hurst, Wokingham ||
+||  || Wolverhampton City Council || Wolverhampton ||
+||  || Worcester City Council || Worcester ||
+||  || Worcestershire County Council || Worcester ||
+||  || Worthing Borough Council || Worthing ||
+||  || Wrexham County Borough Council || Wrexham ||
+||  || Wychavon District Council || Pershore ||
+||  || Wycombe District Council || High Wycombe ||
+||  || Wyre Borough Council || Poulton-le-Fylde ||
+||  || Wyre Forest District Council || Kidderminster ||
