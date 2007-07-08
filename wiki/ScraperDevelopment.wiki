@@ -21,47 +21,26 @@
   * Wychavon (Duncan) - an acolnet site, but slightly odd.
 
 = Working and ready to deploy =
-  * Babergh
-  * Basingstoke and Deane
-  * Bassetlaw
-  * Broxbourne (missing perl module on server)
-  * Bury  
-  * Carlisle
-  * Croydon
-  * Derby
-  * East Dorset
-  * East Lindsey
-  * Edinburgh
-  * Epsom and Ewell Borough Council
-  * Fenland
-  * Fylde
-  * Gateshead
-  * Gedling
-  * Gloucestershire
-  * Hammersmith and Fulham
-  * Harlow
-  * Hertsmere
-  * Lewisham
-  * Manchester
-  * New Forest
-  * Newcastle
-  * Newcastle-under-Lyme
-  * North Hertfordshire
-  * North West Leicestershire
-  * North Wiltshire
-  * Northumberland (Not that many applications - minerals, and waste only)
-  * Selby
-  * Stratford
-  * Suffolk Coastal
-  * Teignbridge
-  * Vale Royal
-  * West Berkshire
-  * Winchester
 
-= Scrapes done, but sites broken =
+
+= Scrapes done, but sites/scrapers broken =
+  * Bassetlaw (no postcodes)
+  * Broxbourne (missing perl module on server)
   * Bromley (their site is totally nacked)
+  * Derby (no postcodes)
   * Doncaster (site down when attempted to test?)
   * Dundee (site down when attempted to test?)
   * Durham (City) - database appears to be empty though...
   * East Devon (Db Empty?)
+  * East Dorset (data not comming though)
+  * Fenland (data not comming though)
+  * Gateshead (timing out?)
   * Wolverhampton (empty database)
+  * Hammersmith and Fulham (timing out?)
+  * Newcastle (timing out?)
+  * Newcastle-under-Lyme (timing out?)
+  * North Hertfordshire (Premature end of script headers)
+  * North Wiltshire (timing out?)
+  * Stratford (timing out?)
+  * Teignbridge (timing out?)
+  * Winchester (timing out?)
