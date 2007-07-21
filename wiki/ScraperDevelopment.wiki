@@ -25,7 +25,6 @@
 
 = Scrapes done, but sites/scrapers broken =
   * Bassetlaw (no postcodes)
-  * Broxbourne (missing perl module on server)
   * Bromley (their site is totally nacked)
   * Derby (no postcodes)
   * Doncaster (site down when attempted to test?)
@@ -46,3 +45,4 @@
   * Winchester (timing out?)
   * Dacorum (always returns no applications)
   * Luton (script returns nothing)
+  * Bury (script returns nothing)
