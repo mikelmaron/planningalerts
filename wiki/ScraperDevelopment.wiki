@@ -45,3 +45,4 @@
   * Teignbridge (timing out?)
   * Winchester (timing out?)
   * Dacorum (always returns no applications)
+  * Luton (script returns nothing)
