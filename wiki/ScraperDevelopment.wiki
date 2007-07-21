@@ -46,3 +46,4 @@
   * Dacorum (always returns no applications)
   * Luton (script returns nothing)
   * Bury (script returns nothing)
+  * Gloucestershire (no applications returned)
