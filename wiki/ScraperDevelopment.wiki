@@ -27,6 +27,7 @@
   * Teignbridge (This never times out for me... must investigate what goes wrong on the server)
   * Dundee
   * East Devon (db not empty - see eg 11/7/2007)
+  * Gateshead (not timing out today)
 
 = Scrapes done, but sites/scrapers broken =
   * Bassetlaw (no postcodes)
@@ -36,7 +37,6 @@
   * Durham (City) - database appears to be empty though...
   * East Dorset (data not comming though)
   * Fenland (data not comming though)
-  * Gateshead (timing out?)
   * Wolverhampton (empty database)
   * Hammersmith and Fulham (timing out?)
   * Newcastle (timing out?)
