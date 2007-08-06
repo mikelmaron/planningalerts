@@ -25,13 +25,13 @@
   * New Forest DC
   * North Hertfordshire (oops... I'd commented out the class it all depends on)
   * Teignbridge (This never times out for me... must investigate what goes wrong on the server)
+  * Dundee
 
 = Scrapes done, but sites/scrapers broken =
   * Bassetlaw (no postcodes)
   * Bromley (their site is totally nacked)
   * Derby (no postcodes)
   * Doncaster (site down when attempted to test?)
-  * Dundee (site down when attempted to test?)
   * Durham (City) - database appears to be empty though...
   * East Devon (Db Empty?)
   * East Dorset (data not comming though)
