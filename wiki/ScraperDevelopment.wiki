@@ -23,6 +23,7 @@
 = Working and ready to deploy =
 
   * New Forest DC
+  * North Hertfordshire (oops... I'd commented out the class it all depends on)
 
 = Scrapes done, but sites/scrapers broken =
   * Bassetlaw (no postcodes)
@@ -39,7 +40,6 @@
   * Hammersmith and Fulham (timing out?)
   * Newcastle (timing out?)
   * Newcastle-under-Lyme (timing out?)
-  * North Hertfordshire (Premature end of script headers)
   * North Wiltshire (timing out?)
   * Stratford (timing out?)
   * Teignbridge (timing out?)
