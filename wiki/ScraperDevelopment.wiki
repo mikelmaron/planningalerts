@@ -28,6 +28,7 @@
   * Dundee
   * East Devon (db not empty - see eg 11/7/2007)
   * Gateshead (not timing out today)
+  * Hammersmith and Fulham (not timing out today)
 
 = Scrapes done, but sites/scrapers broken =
   * Bassetlaw (no postcodes)
@@ -38,7 +39,6 @@
   * East Dorset (data not comming though)
   * Fenland (data not comming though)
   * Wolverhampton (empty database)
-  * Hammersmith and Fulham (timing out?)
   * Newcastle (timing out?)
   * Newcastle-under-Lyme (timing out?)
   * North Wiltshire (timing out?)
