@@ -1,0 +1,12 @@
+#summary List of councils using FastWeb
+
+  * Craven
+  * Eastleigh
+  * Eden
+  * Mansfield
+  * South Lakeland
+  * Sutton
+  * Welwyn-Hatfield
+  * Wyre Forest
+
+Redcar is listed as being FastWeb here: http://www.brent.gov.uk/egr.nsf/SCV?ReadForm&View=UseByProductName&Category=FastPLANNING but this doesn't seem to be the case.
