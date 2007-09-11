@@ -3,7 +3,7 @@
 || || Pembrokeshire County Council || Haverfordwest || pdf weekly lists || http://www.pembrokeshire.gov.uk/content.asp?nav=109,140&parent_directory_id=646&id=5074 ||
 || || Pendle Borough Council || Nelson || interactive planning - searchable by date || http://bopdoccip.pendle.gov.uk/PlanApp/jsp/searchPlan.jsp ||
 || || Penwith District Council || Penzance || planning applications organised by year (in html) || http://www.penwith.gov.uk/index.cfm?articleid=7088 ||
-|| In progress || Perth & Kinross Council || Perth || PublicAccess - causes an error in my parser... || http://193.63.61.22/publicaccess/ ||
+|| Ready || Perth & Kinross Council || Perth || PublicAccess || http://193.63.61.22/publicaccess/ ||
 || Done || Peterborough City Council || Peterborough || PublicAccess || ||
 || || Plymouth City Council || Plymouth || searchable by date || http://www.plymouth.gov.uk/planningonline?innoLink=http://www.plymouth.gov.uk/planningapplications2/search.asp ||
 || || Poole Borough Council || Poole || weekly lists || http://wam.boroughofpoole.com/WAM/search/pas/index.htm ||
