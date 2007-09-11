@@ -14,8 +14,8 @@
 ||  || East Staffordshire Borough Council || Burton upon Trent || Planning Explorer - searchable by date || http://www2.eaststaffsbc.gov.uk/MVM/Online/PL/GeneralSearch.aspx ||
 ||  || East Sussex County Council || Lewes || complete list of current applications as pdf or word || http://www.eastsussex.gov.uk/environment/planning/applications/applicationslong/download.htm ||
 ||  || Eastbourne Borough Council || Eastbourne || searchable by date || http://www.eastbourne.gov.uk/planningapplications/search.asp ||
-||  || Eastleigh Borough Council || Eastleigh || Fastweb || http://www.eastleigh.gov.uk/FastWEB/search.asp ||
-||  || Eden District Council || Penrith || Fastweb || http://eforms.eden.gov.uk/fastweb/search.asp||
+|| Ready || Eastleigh Borough Council || Eastleigh || FastWeb || http://www.eastleigh.gov.uk/FastWEB/search.asp ||
+|| Ready || Eden District Council || Penrith || FastWeb || http://eforms.eden.gov.uk/fastweb/search.asp||
 || Ready || Edinburgh City Council || Edinburgh || PublicAccess || http://citydev-portal.edinburgh.gov.uk/publicaccess/dc/DcApplication/application_searchform.aspx||
 ||  || Ellesmere Port & Neston Borough Council || Ellesmere Port || weekly lists|| http://ocella.epnbc.gov.uk/portal/page?_pageid=33,38205&_dad=portal&_schema=PORTAL||
 ||  || Elmbridge Borough Council || Esher || eplanning - searchable by date || http://www2.elmbridge.gov.uk/Planet/ispforms.asp?serviceKey=SysDoc-PlanetApplicationEnquiry ||  || Enfield Borough Council || Enfield || searchable by date || https://forms.enfield.gov.uk/ufs/ufsmain?esessionid=1 ||
