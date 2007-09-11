@@ -8,6 +8,7 @@
   * Canterbury (Duncan) - Acolnet. results table is different from usual format
   * Caradon (Duncan) - works in browser, but not with my script
   * Chiltern (Duncan) - uses https
+  * Doncaster (Duncan) - works in browser - empty results for script
   * Durham (Duncan) - works in browser - empty results for script
   * Hambleton (Duncan) - works for browser - empty results for script
   * Havant (Duncan) - acolnet - not sure why this doesn't work...
@@ -22,14 +23,18 @@
 
 = Working and ready to deploy =
 
+  * Bromley
   * Craven
   * Dundee
   * Eastleigh
   * Eden
   * East Devon (db not empty - see eg 11/7/2007)
+  * East Dorset
+  * Fenland
   * Gateshead (not timing out today)
   * Hammersmith and Fulham (not timing out today)
   * London Borough of Sutton
+  * Luton
   * Mansfield
   * Newcastle (not timing out today)
   * Newcastle-under-Lyme (not timing out today)
@@ -37,22 +42,16 @@
   * North Hertfordshire (oops... I'd commented out the class it all depends on)
   * North Wiltshire (not timing out today)
   * South Lakeland
+  * Stratford
   * Teignbridge (This never times out for me... must investigate what goes wrong on the server)
   * Welwyn Hatfield
+  * Winchester
   * Wyre Forest
 
 = Scrapes done, but sites/scrapers broken =
   * Bassetlaw (no postcodes)
-  * Bromley (their site is totally nacked)
   * Derby (no postcodes)
-  * Doncaster (site down when attempted to test?)
-  * Durham (City) - database appears to be empty though...
-  * East Dorset (data not comming though)
-  * Fenland (data not comming though)
   * Wolverhampton (empty database)
-  * Stratford (timing out?)
-  * Winchester (timing out?)
   * Dacorum (always returns no applications)
-  * Luton (script returns nothing)
   * Bury (script returns nothing)
   * Gloucestershire (no applications returned)
