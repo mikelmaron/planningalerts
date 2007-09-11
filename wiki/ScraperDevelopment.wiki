@@ -1,25 +1,22 @@
 = Scrapers being worked on =
 
-  * Broads Authority (Duncan) - publicaccess on https
-  * Bracknell Forest (Duncan) - uses https
   * Bridgnorth (Duncan) - Acolnet. implemented, but returns error 400 when accessed by script
   * Cambridgeshire (Duncan) - Acolnet. no advanced search page - will need some work
   * Canterbury (Duncan) - Acolnet. results table is different from usual format
-  * Chiltern (Duncan) - uses https
+  * Chiltern (Duncan) - causes an error in my script (https)
   * Doncaster (Duncan) - works in browser - empty results for script
   * Durham (Duncan) - works in browser - empty results for script
   * Hambleton (Duncan) - works for browser - empty results for script
   * Havant (Duncan) - acolnet - not sure why this doesn't work...
-  * Hinckley-Bosworth (Duncan) - uses https
   * Isle of Man (Dan)
-  * Moray (Duncan) - publicaccess - causes an error in my script
-  * Perthshire (Duncan) - publicaccess causes an error in my parser
   * Surrey Heath (Duncan) - acolnet - causes an error in my parser
   * West Oxfordshire (Duncan) - not working yet
   * Wychavon (Duncan) - an acolnet site, but slightly odd.
 
 = Working and ready to deploy =
 
+  * Bracknell Forest
+  * Broads Authority
   * Bromley
   * Caradon
   * Craven
@@ -31,14 +28,17 @@
   * Fenland
   * Gateshead (not timing out today)
   * Gloucestershire (don't be fooled into thinking there are no applications: see eg 20/8/2007)
+  * Hinckley and Bosworth
   * London Borough of Sutton
   * Luton
   * Mansfield
+  * Moray
   * Newcastle (not timing out today)
   * Newcastle-under-Lyme (not timing out today)
   * New Forest DC
   * North Hertfordshire (oops... I'd commented out the class it all depends on)
   * North Wiltshire (not timing out today)
+  * Perthshire
   * South Lakeland
   * Stratford
   * Teignbridge (This never times out for me... must investigate what goes wrong on the server)
