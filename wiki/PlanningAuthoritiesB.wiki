@@ -32,7 +32,7 @@
 || || *Brighton* || Brighton & Hove Borough Council || searchable by date || http://www.brighton-hove.gov.uk/index.cfm?request=c1133441 ||
 || Done || Bristol || Bristol City Council || Public Access || http://e2eweb.bristol-city.gov.uk/publicaccess/default.aspx ||
 || || *Broadland* || Broadland District Council || Planning Explorer - not obviously searchable by date received || http://www.broadland.gov.uk/mvm/Online/PL/GeneralSearch.aspx ||
-|| In progress || *Broads* || Broads Authority || Public Access || Public Access on https || https://planning.broads-authority.gov.uk/PublicAccess/ ||
+|| Ready || *Broads* || Broads Authority || PublicAccess on https || https://planning.broads-authority.gov.uk/PublicAccess/default.aspx || https://planning.broads-authority.gov.uk/PublicAccess/ ||
 || in progress || *Bromley* || Bromley || PublicAccess, but broken || ||
 || || *Bromsgrove* || Bromsgrove District Council || pdf of year to date || http://bromsgrove.whub.org.uk/home/bdcindex/bdc-planning/bdc-planning-applications/bdc-planning-recent-applications.htm ||
 || Tom's scraper || Broxbourne || Broxbourne Borough Council || searchable by date || http://www.broxbourne.gov.uk/Internet/Applications/Planning%20Applications ||
