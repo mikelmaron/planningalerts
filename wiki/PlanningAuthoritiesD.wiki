@@ -1,4 +1,3 @@
-
 || || Dacorum || Dacorum Borough Council || A list for the last week is available. Searching, but not by received date || http://www.dacorum.gov.uk/default.aspx?page=1495 ||
 || || Darlington || Darlington Borough Council || Applications can be searched by validation date (whatever that is...) Weekly list also available. || http://www.darlington.gov.uk/eServices/PlanApps/PlanAppsViewer.aspx?SearchType=advanced ||
 || Done || Dartford || Dartford Borough Council || PublicAccess || || 
@@ -15,6 +14,6 @@
 || || Dover || Dover District Council || searchable by date received || http://www.dover.gov.uk/planning/Search_net/search.aspx ||
 || || Dudley || Dudley Metropolitan Borough Council || searchable by some dates, and weekly lists || http://www2.dudley.gov.uk/swiftlg/apas/run/Wphappcriteria.display ||
 || || Dumfries and Galloway || Dumfries and Galloway Council || weekly pdy lists separated into five areas || http://www.dumgal.gov.uk/dumgal/MiniWeb.aspx?id=91&menuid=1408&openid=1102 ||
-|| Done || Dundee || Dundee City Council || PublicAccess || ||
+|| Ready || Dundee || Dundee City Council || PublicAccess || ||
 || Done || Durham || Durham City Council || Publicaccess - database appears to be empty || ||
 || || Durham County || Durham County Council || Online register searchable by month and year || http://gis.durham.gov.uk/website/dcs/SearchMain.asp ||
