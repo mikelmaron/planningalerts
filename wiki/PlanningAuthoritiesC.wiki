@@ -36,7 +36,7 @@
 || Done || Cornwall County Council || Cornwall || PublicAccess || http://planapps.cornwall.gov.uk/publicaccess/ ||
 || || Costwold District Council || Cotswold || Weekly and monthly lists in html || http://www.cotswold.gov.uk/nqcontent.cfm?a_id=2297&tt=cotswold ||
 || Done || Coventry City Council || Coventry || ApplicationSearchServlet || http://planning.coventry.gov.uk/portal/servlets/ApplicationSearchServlet ||
-|| Ready || Craven District Council || Craven || searchable by date received || http://www.planning.cravendc.gov.uk/fastweb/results.asp ||
+|| Ready || Craven District Council || Craven || FastWeb || http://www.planning.cravendc.gov.uk/fastweb/results.asp ||
 ||  || Crawley Borough Council || Crawley || searchable by date received || http://www.crawley.gov.uk/stellent/idcplg?IdcService=SS_GET_PAGE&nodeId=560 ||
 ||  || Crewe and Nantwich Borough Council || Crewe and Nantwich || searchable by date - PlanningExplorer || http://portal.crewe-nantwich.gov.uk/MVM/Online/PL/GeneralSearch.aspx ||
 || Done || Croydon (London Borough of ) || Croydon || acolnet || http://planning.croydon.gov.uk/DCWebPages/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
