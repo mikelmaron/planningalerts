@@ -22,16 +22,24 @@
 
 = Working and ready to deploy =
 
-  * New Forest DC
-  * North Hertfordshire (oops... I'd commented out the class it all depends on)
-  * Teignbridge (This never times out for me... must investigate what goes wrong on the server)
+  * Craven
   * Dundee
+  * Eastleigh
+  * Eden
   * East Devon (db not empty - see eg 11/7/2007)
   * Gateshead (not timing out today)
   * Hammersmith and Fulham (not timing out today)
+  * London Borough of Sutton
+  * Mansfield
   * Newcastle (not timing out today)
   * Newcastle-under-Lyme (not timing out today)
+  * New Forest DC
+  * North Hertfordshire (oops... I'd commented out the class it all depends on)
   * North Wiltshire (not timing out today)
+  * South Lakeland
+  * Teignbridge (This never times out for me... must investigate what goes wrong on the server)
+  * Welwyn Hatfield
+  * Wyre Forest
 
 = Scrapes done, but sites/scrapers broken =
   * Bassetlaw (no postcodes)
