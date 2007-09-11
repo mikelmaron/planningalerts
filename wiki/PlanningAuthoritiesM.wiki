@@ -18,4 +18,4 @@
 || Done || Milton Keynes Council || Milton Keynes || PublicAccess || http://publicaccess.milton-keynes.gov.uk/bc/bc_home.aspx ||
 ||  || Mole Valley District Council || Dorking || searchable by date || http://www.molevalley.gov.uk/swiftlg/apas/run/wphappcriteria.display ||
 ||  || Monmouthshire County Council || Cwmbran || UKplanning || ||
-|| Broken || Moray Council || Elgin || PublicAccess, but broken || ||
+|| Ready || Moray Council || Elgin || PublicAccess || ||
