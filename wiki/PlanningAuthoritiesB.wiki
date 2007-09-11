@@ -28,12 +28,12 @@
 || || *Brent* || Brent Borough Council || search by date || http://www.brent.gov.uk/servlet/ep.ext?extId=101149&byPeriod=Y&st=PL&periodUnits=day&periodMultiples=14 ||
 || || *Brentwood* || Brentwood Borough Council || weekly lists as pdf || http://www.brentwood-council.gov.uk/index.php?cid=573 ||
 || || *Bridgend* || Bridgend County Borough Council || searchable by date, but looks unlikely to work || http://www.bridgend.gov.uk/english/planningportal.asp ||
-|| In progress || *Bridgnorth* || Bridgnorth District Council || searchable by date || http://www2.bridgnorth-dc.gov.uk/planning/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.PgeApplications ||
+|| In progress || *Bridgnorth* || Bridgnorth District Council || Acolnet || http://www2.bridgnorth-dc.gov.uk/planning/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.PgeApplications ||
 || || *Brighton* || Brighton & Hove Borough Council || searchable by date || http://www.brighton-hove.gov.uk/index.cfm?request=c1133441 ||
 || Done || Bristol || Bristol City Council || Public Access || http://e2eweb.bristol-city.gov.uk/publicaccess/default.aspx ||
 || || *Broadland* || Broadland District Council || Planning Explorer - not obviously searchable by date received || http://www.broadland.gov.uk/mvm/Online/PL/GeneralSearch.aspx ||
-|| Ready || *Broads* || Broads Authority || PublicAccess on https || https://planning.broads-authority.gov.uk/PublicAccess/default.aspx || https://planning.broads-authority.gov.uk/PublicAccess/ ||
-|| in progress || *Bromley* || Bromley || PublicAccess, but broken || ||
+|| Ready || Broads || Broads Authority || PublicAccess on https || https://planning.broads-authority.gov.uk/PublicAccess/default.aspx || https://planning.broads-authority.gov.uk/PublicAccess/ ||
+|| Ready || Bromley || Bromley || PublicAccess || ||
 || || *Bromsgrove* || Bromsgrove District Council || pdf of year to date || http://bromsgrove.whub.org.uk/home/bdcindex/bdc-planning/bdc-planning-applications/bdc-planning-recent-applications.htm ||
 || Tom's scraper || Broxbourne || Broxbourne Borough Council || searchable by date || http://www.broxbourne.gov.uk/Internet/Applications/Planning%20Applications ||
 || || *Broxtowe* || Broxtowe Borough Council || searchable html weekly lists || http://www.broxtowe.gov.uk/index/planning_new/planning_development_control_new/planning_development_control_planning_applications/planning_applications_disclaimer/planning_applications_search_for_planning_application.htm ||
