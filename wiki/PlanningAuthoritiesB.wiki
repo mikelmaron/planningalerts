@@ -20,7 +20,7 @@
 || || *Bolton* || Bolton Metropolitan Borough Council || Page doesn't display in firefox... || http://www.bolton.gov.uk/pls/portal92/docs/PAGE/ENVIRONMENT_DEPARTMENT/PLANNING_DIVISION/PLANNING%20CONTROL/TAB80709/GENERAL%20PAGES/APPLICATION_SEARCH.HTM ||
 || || *Boston* || Boston Borough Council || searchable by date. claims to be under construction. || http://www.boston.gov.uk/index.php?option=com_wrapper&Itemid=3433 ||
 || || *Bournmouth* || Bournemouth Borough Council || weekly list as pdf || http://www.bournemouth.gov.uk/Residents/Planning_Development/Planning_Applications/Lists/default.asp ||
-|| Being worked on || *Bracknell Forest* || Bracknell Forest Borough Council || Public Access site using https || https://my.bracknell-forest.gov.uk/publicaccess/tdc/DcApplication/application_searchform.aspx ||
+|| Ready || *Bracknell Forest* || Bracknell Forest Borough Council || PublicAccess using https || https://my.bracknell-forest.gov.uk/publicaccess/tdc/DcApplication/application_searchform.aspx ||
 || Done || Bradford || City of Bradford Metropolitan District Council || Public Access || http://www.planning4bradford.com/tdc/DcApplication/application_searchform.aspx ||
 || || *Braintree* || Braintree District Council || braintree.gov.uk seems to be broken || ||
 || || *Brecon Beacons* || Breacon Beacons National Park Authority || weekly lists as pdf or rtf || http://www.breconbeacons.org/planning/planning_apps ||
