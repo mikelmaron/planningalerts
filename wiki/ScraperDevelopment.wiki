@@ -1,12 +1,10 @@
 = Scrapers being worked on =
 
   * Broads Authority (Duncan) - publicaccess on https
-  * Bromley (Duncan) - publicaccess site refuses access unless IE (not fooled by setting browser string in Konqueror)
   * Bracknell Forest (Duncan) - uses https
   * Bridgnorth (Duncan) - Acolnet. implemented, but returns error 400 when accessed by script
   * Cambridgeshire (Duncan) - Acolnet. no advanced search page - will need some work
   * Canterbury (Duncan) - Acolnet. results table is different from usual format
-  * Caradon (Duncan) - works in browser, but not with my script
   * Chiltern (Duncan) - uses https
   * Doncaster (Duncan) - works in browser - empty results for script
   * Durham (Duncan) - works in browser - empty results for script
@@ -14,16 +12,16 @@
   * Havant (Duncan) - acolnet - not sure why this doesn't work...
   * Hinckley-Bosworth (Duncan) - uses https
   * Isle of Man (Dan)
-  * Moray (Duncan) - causes an error in my script
-  * Perthshire (Duncan) - causes an error in my parser
-  * Surrey Heath (Duncan) - causes an error in my parser
-  * Watford (Duncan) - site is broken
+  * Moray (Duncan) - publicaccess - causes an error in my script
+  * Perthshire (Duncan) - publicaccess causes an error in my parser
+  * Surrey Heath (Duncan) - acolnet - causes an error in my parser
   * West Oxfordshire (Duncan) - not working yet
   * Wychavon (Duncan) - an acolnet site, but slightly odd.
 
 = Working and ready to deploy =
 
   * Bromley
+  * Caradon
   * Craven
   * Dundee
   * Eastleigh
@@ -32,6 +30,7 @@
   * East Dorset
   * Fenland
   * Gateshead (not timing out today)
+  * Gloucestershire (don't be fooled into thinking there are no applications: see eg 20/8/2007)
   * Hammersmith and Fulham (not timing out today)
   * London Borough of Sutton
   * Luton
@@ -44,6 +43,7 @@
   * South Lakeland
   * Stratford
   * Teignbridge (This never times out for me... must investigate what goes wrong on the server)
+  * Watford
   * Welwyn Hatfield
   * Winchester
   * Wyre Forest
@@ -54,4 +54,3 @@
   * Wolverhampton (empty database)
   * Dacorum (always returns no applications)
   * Bury (script returns nothing)
-  * Gloucestershire (no applications returned)
