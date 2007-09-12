@@ -18,7 +18,7 @@
 || || Solihull Metropolitan Borough Council || Solihull || weekly lists in html || http://www.solihull.gov.uk/planning/dc/weeklist.asp ||
 || || Somerset County Council || Taunton || searchable by date || http://webapp1.somerset.gov.uk/ePlanning/searchPageLoad.do ||
 || || South Ayrshire Council || Ayr || searchable by date || http://gis.south-ayrshire.gov.uk/viewerplanning/planningLists.asp ||
-|| Ready || South Bedfordshire District Council || Dunstable || acolnet || http://planning.southbeds.gov.uk/plantech/DCWebPages/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
+|| Ready || South Bedfordshire District Council || Dunstable || AcolNet || http://planning.southbeds.gov.uk/plantech/DCWebPages/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 || Done || South Bucks District Council || Slough || PublicAccess || http://sbdc-paweb.southbucks.gov.uk/publicaccess/tdc/DcApplication/application_searchform.aspx ||
 || || South Cambridgeshire District Council || Cambridge || searchable by date || http://egov.scambs.gov.uk/planningapps/pa.php ||
 || || South Derbyshire District Council || Swadlincote || searchable by date || http://sddc.planning-proposals.co.uk/ ||
@@ -38,7 +38,7 @@
 || || South Tyneside Borough Council || South Shields || PlanningExplorer || http://poppy.southtyneside.gov.uk/mvm/Online/PL/GeneralSearch.aspx ||
 || Done || Southampton City Council || Southampton || PublicAccess || http://publicaccess.southampton.gov.uk/publicaccess/li/li_home.aspx ||
 || || Southend-on-Sea Borough Council || Southend-on-Sea || searchable by date || http://www.southend.gov.uk/environment/planning/applications.asp ||
-|| || Southwark Borough Council || London || acolnet, but not quite as expected || http://194.168.41.26/cgi-bin/acolnetcgi.exe?ACTION=UNWRAP&RIPSESSION=%7B%5B%2A%211D1A020B050304731D3C3D31617C041E28361620222F34223B7660001036350A0C1E372B316B730B033D3916212F332D27013722002F352B6A611715232B122B2E21312D162B260A2E2737691120283F3A3606243629243A06176F747D7A707F7E647777007A76787F63%21%2A%5D%7D ||
+|| || Southwark Borough Council || London || AcolNet, but not quite as expected || http://194.168.41.26/cgi-bin/acolnetcgi.exe?ACTION=UNWRAP&RIPSESSION=%7B%5B%2A%211D1A020B050304731D3C3D31617C041E28361620222F34223B7660001036350A0C1E372B316B730B033D3916212F332D27013722002F352B6A611715232B122B2E21312D162B260A2E2737691120283F3A3606243629243A06176F747D7A707F7E647777007A76787F63%21%2A%5D%7D ||
 || Done || Spelthorne Borough Council || Staines || PublicAccess || http://phoenix.spelthorne.gov.uk/publicaccess/ ||
 || || St Edmundsbury Borough Council || Bury St Edmunds || searchable by date || http://www.stedmundsbury.gov.uk/swiftlg/apas/run/wphappcriteria.display ||
 || Done || St Helens Council || St Helens || ApplicationSearchServlet || http://212.248.225.150:8080/portal/servlets/ApplicationSearchServlet ||
@@ -54,11 +54,11 @@
 || || Stoke-on-Trent City Council || Stoke-on-Trent || No obvious date search or weekly list || http://www.gisinternet.stoke.gov.uk/evoplanning/search_form.asp ||
 || Ready || Stratford-on-Avon District Council || Stratford-upon-Avon || PublicAccess || http://217.33.198.119/publicaccess/default.aspx ||
 || || Stroud District Council || Stroud || searchable by date, or weekly list || http://www.stroud.gov.uk/docs/planning/planning_application_search.asp?did=onlineplanapps ||
-|| Ready || Suffolk Coastal District Council || Woodbridge || acolnet || https://apps3.suffolkcoastal.gov.uk/planningonline/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
+|| Ready || Suffolk Coastal District Council || Woodbridge || AcolNet || https://apps3.suffolkcoastal.gov.uk/planningonline/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 || || Suffolk County Council || Ipswich || site is down || http://www.eplanning.suffolk.gov.uk/ePlanningOPS/index.jsp ||
 || Done || Sunderland City Council || Sunderland || PublicAccess || http://www.sunderland.gov.uk/publicaccess/ ||
 || || Surrey County Council || Kingston upon Thames || can get links to all current applications by searching with blank box || http://www1.surreycc.gov.uk/mwplan/search.cfm ||
-|| In progress || Surrey Heath Borough Council || Camberley || acolnet, but defeats my parser somehow :-( || https://www.public.surreyheath-online.gov.uk/whalecom60b1ef305f59f921/whalecom0/Scripts/PlanningPagesOnline/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
+|| In progress || Surrey Heath Borough Council || Camberley || AcolNet, but defeats my parser somehow :-( || https://www.public.surreyheath-online.gov.uk/whalecom60b1ef305f59f921/whalecom0/Scripts/PlanningPagesOnline/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 || Ready || Sutton Borough Council || Carshalton || FastWeb || http://82.43.4.135/FASTWEB/welcome.asp ||
 || || Swale Borough Council || Sittingbourne || ukplanning and weekly lists as pdf|| http://www.ukplanning.com/ukp/custom/forwards/selectandsearch.jsp?council=Swale%20Borough%20Council&fwd=search , http://www.swale.gov.uk/index.cfm?articleid=4368||
 || || Swansea City & County Council || Swansea || PlanningExplorer || http://www2.swansea.gov.uk/MVM/online/PL/GeneralSearch.aspx ||
