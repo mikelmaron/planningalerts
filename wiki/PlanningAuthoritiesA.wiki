@@ -10,5 +10,5 @@
 || Done || Argyll and Bute || Argyll and Bute Council || PublicAccess || http://www.argyll-bute.gov.uk/PublicAccess/tdc/DcApplication/application_searchform.aspx ||
 || || *Arun* || Arun District Council || weekly lists as ps file converted to html || http://www.arun.gov.uk/cgi-bin/buildpage.pl?mysql=448 ||
 || || *Ashfield* || Ashfield District Council || search facility including date || http://www.ashfield-dc.gov.uk/cfusion/planning/plan_findfile.cfm ||
-|| || *Ashford* || Ashford Borough Council || Whole domain is timing out today... || http://www.ashford.gov.uk/planning/index.asp ||
+|| || *Ashford* || Ashford Borough Council || Searchable by registration date - also UKPlanning || http://www.ashford.gov.uk/online_planning/DCCore/default.aspx?newsearch=true ||
 || Done || Aylesbury Vale || Aylesbury Vale District Council || PublicAccess || http://eplanning.aylesburyvaledc.gov.uk/dc/DcApplication/application_searchform.aspx ||
