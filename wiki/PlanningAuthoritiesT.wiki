@@ -1,5 +1,5 @@
 ||  || Tameside Metropolitan Borough Council || Ashton-under-Lyne || searchable by date, and weekly lists || http://public.tameside.gov.uk/plan/f422planapp.asp ||
-||  || Tamworth Borough Council || Tamworth || searchable by date || http://80.1.64.77/MVM/Online/PL/GeneralSearch.aspx ||
+||  || Tamworth Borough Council || Tamworth || PlanningExplorer || http://80.1.64.77/MVM/Online/PL/GeneralSearch.aspx ||
 ||  || Tandridge District Council || Oxted || pdf of last week, searchable site currently unavailable || http://www.tandridge.gov.uk/Planenviron/PlanningApplications/planning_weekly_list_of_planning_applications.htm ||
 ||  || Taunton Deane Borough Council || Taunton || weekly lists as pdf. Search with no date || http://www.tauntondeane.gov.uk/tdbcsites/plan/index.asp ||
 ||  || Teesdale District Council || Barnard Castle || searchable by date received || http://teesdale.planning-register.co.uk/ ||
