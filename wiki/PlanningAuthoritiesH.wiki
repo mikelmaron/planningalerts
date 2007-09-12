@@ -24,4 +24,4 @@
 || Done || Horsham District Council || Horsham || PublicAccess || http://publicaccess.horsham.gov.uk/publicaccess/tdc/tdc_home.aspx ||
 ||  || London Borough of Hounslow || Hounslow || searchable by date || http://planning.hounslow.gov.uk/planningv2/planning_search.aspx ||
 || Done || Huntingdonshire District Council || Huntingdon || PublicAccess || http://planning.huntsdc.gov.uk/publicaccess/tdc/tdc_home.aspx ||
-||  || Hyndburn Borough Council || Accrington || site is down || ||
+||  || Hyndburn Borough Council || Accrington || Apps in html, but no search || http://www.hyndburnbc.gov.uk/roundabout/opencms/environment/Planning_and_Transportation/Development_control/applications/applications_deposited/index.html ||
