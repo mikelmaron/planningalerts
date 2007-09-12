@@ -18,7 +18,8 @@
 || Ready || Eden District Council || Penrith || FastWeb || http://eforms.eden.gov.uk/fastweb/search.asp||
 || Ready || Edinburgh City Council || Edinburgh || PublicAccess || http://citydev-portal.edinburgh.gov.uk/publicaccess/dc/DcApplication/application_searchform.aspx||
 ||  || Ellesmere Port & Neston Borough Council || Ellesmere Port || weekly lists|| http://ocella.epnbc.gov.uk/portal/page?_pageid=33,38205&_dad=portal&_schema=PORTAL||
-||  || Elmbridge Borough Council || Esher || eplanning - searchable by date || http://www2.elmbridge.gov.uk/Planet/ispforms.asp?serviceKey=SysDoc-PlanetApplicationEnquiry ||  || Enfield Borough Council || Enfield || searchable by date || https://forms.enfield.gov.uk/ufs/ufsmain?esessionid=1 ||
+||  || Elmbridge Borough Council || Esher || eplanning - searchable by date || http://www2.elmbridge.gov.uk/Planet/ispforms.asp?serviceKey=SysDoc-PlanetApplicationEnquiry  ||
+||  || Enfield Borough Council || Enfield || searchable by date || https://forms.enfield.gov.uk/ufs/ufsmain?esessionid=1 ||
 ||  || Epping Forest District Council || Epping || searchable by date || http://plan1.eppingforestdc.gov.uk/MVM/Online/PL/GeneralSearch.aspx ||
 || ready || Epsom & Ewell Borough Council || Epsom || PublicAccess || http://eplanning.epsom-ewell.gov.uk/publicaccess/tdc/DcApplication/application_searchform.aspx ||
 ||  || Erewash Borough Council || Nottingham || weekly lists as pdf - latest apps as html || http://www.erewashbc.org.uk/planning/index.asp ||
