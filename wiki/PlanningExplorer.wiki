@@ -1,0 +1,7 @@
+#summary A list of local authorities using PlanningExplorer
+
+We have a scraper for some of these.
+
+  * Camden
+  * Hackney
+  * West Oxfordshire
