@@ -15,6 +15,7 @@
   * Broads Authority
   * Bromley
   * Caradon
+  * Chelmsford
   * Chiltern
   * Craven
   * Dundee
