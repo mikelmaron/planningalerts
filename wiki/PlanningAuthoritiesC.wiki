@@ -1,13 +1,13 @@
 || || *Caerphilly* || Caerphilly County Borough Council || weekly lists as PDFs || http://www.caerphilly.gov.uk/yourservices/planning/planningbulletin/index.htm ||
 || || *Calderdale* ||  Calderdale Metropolitan Borough Council ||search by date || http://www.calderdale.gov.uk/environment/planning/search-applications/index.jsp ||
 || done || Cambridge ||  Cambridge City Council || PublicAccess|| http://www.cambridge.gov.uk/publicaccess/tdc/tdc_home.aspx ||
-|| In progress || *Cambridgeshire* ||  Cambridgeshire County Council ||acolnetcgi|| http://planapps.cambridgeshire.gov.uk/scripts/acolnet/acolnetcgi.exe? ||
+|| In progress || *Cambridgeshire* ||  Cambridgeshire County Council || AcolNet || http://planapps.cambridgeshire.gov.uk/scripts/acolnet/acolnetcgi.exe? ||
 || Done || Camden ||  London Borough of Camden || PlanningExplorer || http://www.camden.gov.uk/ccm/navigation/environment/planning-and-built-environment ||
 || || *Cannock* ||  Cannock Chase District Council || monthly application lists || http://www.cannockchasedc.gov.uk/site/scripts/documents_info.php?documentID=347&pageNumber=2 ||
-|| In progress || *Canterbury* ||  Canterbury City Council  || acolnetcgi || http://planning.canterbury.gov.uk/scripts/acolnetcgi.exe ||
+|| In progress || *Canterbury* ||  Canterbury City Council  || AcolNet || http://planning.canterbury.gov.uk/scripts/acolnetcgi.exe ||
 || Ready || Caradon ||   Caradon District Council  || PublicAccess || http://publicaccess.caradon.gov.uk/publicaccess/ ||
 || || *Cardiff* ||   Cardiff County Council  || cant find anything ||  ||
-|| Ready || Carlisle ||  Carlisle City Council  || acolnetcgi || http://planning.carlisle.gov.uk/acolnet/acolnetcgi.gov ||
+|| Ready || Carlisle ||  Carlisle City Council  || AcolNet || http://planning.carlisle.gov.uk/acolnet/acolnetcgi.gov ||
 || || *Carmarthenshire* ||   Carmarthenshire County Council  || searchable by date || http://www.carmarthenshire.gov.uk/CCC_APPS/eng/plannaps/ccc_planningapplications.asp ||
 || || *Carrick* ||    Carrick District Council  || searchable by date || http://www.carrick.gov.uk/index.cfm?articleid=13904 ||
 || || *Castle Morpeth* ||    Castle Morpeth Borough Council  || searchable by date || http://www.castlemorpeth.gov.uk/addon/planningapps/search.asp ||
@@ -39,5 +39,5 @@
 || Ready || Craven District Council || Craven || FastWeb || http://www.planning.cravendc.gov.uk/fastweb/results.asp ||
 ||  || Crawley Borough Council || Crawley || searchable by date received || http://www.crawley.gov.uk/stellent/idcplg?IdcService=SS_GET_PAGE&nodeId=560 ||
 ||  || Crewe and Nantwich Borough Council || Crewe and Nantwich || PlanningExplorer || http://portal.crewe-nantwich.gov.uk/MVM/Online/PL/GeneralSearch.aspx ||
-|| Done || Croydon (London Borough of ) || Croydon || acolnet || http://planning.croydon.gov.uk/DCWebPages/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
+|| Done || Croydon (London Borough of ) || Croydon || AcolNet || http://planning.croydon.gov.uk/DCWebPages/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 ||  || Cumbria County Council || Cumbria || searchable by date || http://217.114.50.149:7778/ePlanning/searchPageLoad.do ||
