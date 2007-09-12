@@ -8,7 +8,6 @@
   * Oldham (Duncan) - AcolNet - causes an error in my parser
   * Renfrewshire (Duncan) - AcolNet - causes an error in my parser
   * Surrey Heath (Duncan) - AcolNet - causes an error in my parser
-  * West Oxfordshire (Duncan) - not working yet
   * Wychavon (Duncan) - an AcolNet site, but slightly odd.
 
 = Working and ready to deploy =
