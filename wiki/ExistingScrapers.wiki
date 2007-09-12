@@ -15,7 +15,7 @@ Others:
   * Broxbourne - Tom's Scraper
   * East Hertfordshire
   * Enfield
-  * Islington
+  * Islington (like East Hertfordshire)
   * South Oxfordshire
   * Walsall - Paul's Scraper
   * York
@@ -32,7 +32,9 @@ Sites that look like East Hertfordshire:
   * Lake District National Park
   * Macclesfield
   * Mole Valley
+  * Pembrokeshire County Council
   * Rochdale
+  * Slough
   * Snowdonia National Park
   * St Edmundsbury
-
+  * Dublin (though this might be a bit outside our remit :-))
