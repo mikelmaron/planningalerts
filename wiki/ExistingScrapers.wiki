@@ -9,3 +9,17 @@ Types of site for which we have scrapers written
   * FastWeb
   * PublicAccess
   * PlanningExplorer
+
+Others:
+
+  * Broxbourne - Tom's Scraper
+  * East Hertfordshire
+  * Enfield
+  * Islington
+  * South Oxfordshire
+  * Walsall - Paul's Scraper
+  * York
+
+Provided directly by the council:
+
+  * Wansbeck
