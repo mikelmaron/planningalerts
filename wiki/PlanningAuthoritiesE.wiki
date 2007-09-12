@@ -3,7 +3,7 @@
 ||  || East Ayrshire Council || Kilmarnock Lugar || PAL || http://www.east-ayrshire.gov.uk/devser/planandbuild/pal.asp ||
 || done || East Cambridgeshire District Council || Ely || PublicAccess || http://pa.eastcambs.gov.uk/publicaccess/tdc/tdc_home.aspx||
 || ready || East Devon District Council || Sidmouth || PublicAccess || http://planning.eastdevon.gov.uk/publicaccess/tdc/DcApplication/application_searchform.aspx||
-|| ready || East Dorset District Council || Wimborne Minster || || ||
+|| ready || East Dorset District Council || Wimborne Minster || PublicAccess || http://193.243.228.16/PublicAccess/tdc/tdc_home.aspx ||
 ||  || East Dunbartonshire Council || Glasgow || searchable by date || http://www.eastdunbarton.gov.uk/web%20site/live/edweblive.nsf/InternetMF?ReadForm&M=DEFAULTC=http://www.eastdunbarton.gov.uk/web%20site/live/edweblive.nsf/QuickLinkPagesWeb/Planning%20Apps?OpenDocument ||  || East Hampshire District Council || Petersfield || last week's apps || http://213.131.177.248/ehdc/planningapplicationsonline.nsf/LastWeek?OpenView&count=1000 ||
 ||  || East Hertfordshire District Council || Hertford || searchable by date || http://e-services.eastherts.gov.uk/swiftlg/apas/run/wphappcriteria.display ||
 || Ready || East Lindsey District Council || Louth || acolnet || http://www.e-lindsey.gov.uk/planning/AcolnetCGI.exe?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
