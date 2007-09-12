@@ -1,10 +1,10 @@
-|| Done || Babergh || Babergh District Council || search page with dates || http://planning.babergh.gov.uk/dataOnlinePlanning/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
+|| Done || Babergh || Babergh District Council || AcolNet || http://planning.babergh.gov.uk/dataOnlinePlanning/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 || || *Barking and Dagenham* || Barking & Dagenham Borough Council || weekly and monthly lists in html || http://idoxwam.lbbd.gov.uk:8081/WAM/search/pas/index.htm ||
 || || *Barnet* || Barnet Borough Council || current applications are searchable by date || http://planning.barnet.gov.uk:7778/pls/portal/PORTAL.wwa_app_module.show?p_sessionid=205173 ||
 || || *Barnsley* || Barnsley Metropolitan Borough Council || weekly lists in html. Rather out of date, and nowhere obvious to comment. ||http://applications.barnsley.gov.uk/service/development/weeklylist.asp ||
 || Done || Barrow ||Barrow-in-Furness Borough Council || ApplicationSearchServlet || http://localportal.barrowbc.gov.uk/portal/servlets/WeeklyListServlet ||
 || Done || Basildon || Basildon District Council || PublicAccess || http://planning.basildon.gov.uk/publicaccess/tdc/DcApplication/application_searchresults.aspx?searchtype=SPEC ||
-|| Done || Basingstoke || Basingstoke & Deane Borough Council || Search facility including dates || http://planning.basingstoke.gov.uk/DCOnline2/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
+|| Done || Basingstoke || Basingstoke & Deane Borough Council || AcolNet || http://planning.basingstoke.gov.uk/DCOnline2/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 || In progress || Bassetlaw || Bassetlaw District Council || AcolNet - no postcodes || http://www.bassetlaw.gov.uk/planning/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 || Done || Bath || Bath & North East Somerset Council || PublicAccess || http://planning.bathnes.gov.uk/publicaccess/ ||
 || Done || Bedford || Bedford Borough Council || PublicAccess ||http://www.publicaccess.bedford.gov.uk/publicaccess/default.aspx ||
@@ -28,7 +28,7 @@
 || || *Brent* || Brent Borough Council || search by date || http://www.brent.gov.uk/servlet/ep.ext?extId=101149&byPeriod=Y&st=PL&periodUnits=day&periodMultiples=14 ||
 || || *Brentwood* || Brentwood Borough Council || weekly lists as pdf || http://www.brentwood-council.gov.uk/index.php?cid=573 ||
 || || *Bridgend* || Bridgend County Borough Council || searchable by date, but looks unlikely to work || http://www.bridgend.gov.uk/english/planningportal.asp ||
-|| In progress || *Bridgnorth* || Bridgnorth District Council || Acolnet || http://www2.bridgnorth-dc.gov.uk/planning/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.PgeApplications ||
+|| In progress || *Bridgnorth* || Bridgnorth District Council || AcolNet || http://www2.bridgnorth-dc.gov.uk/planning/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.PgeApplications ||
 || || *Brighton* || Brighton & Hove Borough Council || searchable by date || http://www.brighton-hove.gov.uk/index.cfm?request=c1133441 ||
 || Done || Bristol || Bristol City Council || PublicAccess || http://e2eweb.bristol-city.gov.uk/publicaccess/default.aspx ||
 || || *Broadland* || Broadland District Council || PlanningExplorer || http://www.broadland.gov.uk/mvm/Online/PL/GeneralSearch.aspx ||
@@ -39,4 +39,4 @@
 || || *Broxtowe* || Broxtowe Borough Council || searchable html weekly lists || http://www.broxtowe.gov.uk/index/planning_new/planning_development_control_new/planning_development_control_planning_applications/planning_applications_disclaimer/planning_applications_search_for_planning_application.htm ||
 || Done || Buckinghamshire || Buckinghamshire County Council || PublicAccess || http://www.bucksplanning.gov.uk/publicaccess/ ||
 || || *Burnley* || Burnley Borough Council || weekly lists || http://www.burnley.gov.uk/site/scripts/planning.php ||
-|| Done || Bury || Bury Metropolitan Borough Council || acolnetcgi.gov || http://e-planning.bury.gov.uk/eplanning/acolnetcgi.gov ||
+|| Done || Bury || Bury Metropolitan Borough Council || AcolNet || http://e-planning.bury.gov.uk/eplanning/acolnetcgi.gov ||
