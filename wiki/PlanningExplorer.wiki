@@ -1,6 +1,6 @@
 #summary A list of local authorities using PlanningExplorer
 
-We have scrapers for a couple of these.
+We have scrapers for a couple of these (Camden and Hackney)
 
   * Blackburn
   * Broadland
