@@ -1,7 +1,27 @@
 #summary A list of local authorities using PlanningExplorer
 
-We have a scraper for some of these.
+We have scrapers for a couple of these.
 
-  * Camden
-  * Hackney
+  * Blackburn
+  * Broadland
+  * Camden - done
+  * Charnwood
+  * Crewe and Nantwich
+  * East Staffordshire
+  * Epping Forest
+  * Forest Heath
+  * Hackney - done
+  * Kennet
+  * Lincoln
+  * Liverpool (not quite like the others)
+  * Merton (site down)
+  * Shrewsbury
+  * South Norfolk
+  * South Shropshire
+  * South Tyneside
+  * Stockport
+  * Swansea
+  * Tamworth
+  * Trafford
+  * Waltham Forest
   * West Oxfordshire
