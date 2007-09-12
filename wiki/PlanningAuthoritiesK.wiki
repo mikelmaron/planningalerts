@@ -1,4 +1,4 @@
-||  || Kennet District Council || Devizes || Planning Explorer || http://mvm-planning.kennet.gov.uk/MVM/Online/PL/NotDecidedSearch.aspx ||
+||  || Kennet District Council || Devizes || PlanningExplorer || http://mvm-planning.kennet.gov.uk/MVM/Online/PL/NotDecidedSearch.aspx ||
 ||  || Kensington & Chelsea Borough Council || London || weekly lists - looks like it could be related to acolnet || http://www.rbkc.gov.uk/Planning/scripts/weeklyform.asp || 
 ||  || Kent County Council || Maidstone || weekly lists as pdf || http://www.kent.gov.uk/publications/environment/weekly-planning-list.htm ||
 || Done || Kerrier District Council || Camborne || The PublicAccess for Kerrier is down. There are also weekly lists as pdf|| ||http://www.kerrier.gov.uk/index.cfm?articleid=3766 ||
@@ -9,4 +9,3 @@
 ||  || Kirklees Metropolitan Council || Huddersfield || searchable by date || 	http://www.kirklees.gov.uk/business/planning/planning.asp ||
 || Done || Knowsley Metropolitan Borough Council || Huyton || PublicAccess || http://publicaccess.knowsley.gov.uk/PublicAccess/tdc/DcApplication/application_searchform.aspx ||
 	
-
