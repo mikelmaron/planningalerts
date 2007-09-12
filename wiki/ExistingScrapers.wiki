@@ -1,0 +1,11 @@
+#summary List of the kinds of scrapers we have already
+
+This page is not yet finished.
+
+Types of site for which we have scrapers written
+
+  * AcolNet
+  * ApplicationSearchServlet
+  * FastWeb
+  * PublicAccess
+  * PlanningExplorer
