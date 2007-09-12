@@ -3,4 +3,4 @@
 ||  || Isle of Anglesey County Council || Llangefni || weekly lists as pdf || http://www.anglesey.gov.uk/doc.asp?cat=3343 ||
 ||  || Isle of Wight Council || Newport || no date search, would have to view all current applications || http://www.iwight.com/council/departments/planning/appsdip/PlanAppSearch.aspx ||
 ||  || Council of the Isles of Scilly || St. Mary's || planning apps in html - searchable by date ||http://www.scilly.gov.uk/environment/planning/applications.htm ||
-|| Done || Islington Borough Council || London ||  || https://www.islington.gov.uk/Environment/Planning/Online/ ||
+|| Done || Islington Borough Council || London ||  || https://www.islington.gov.uk/onlineplanning/apas/run/wphappcriteria.display||
