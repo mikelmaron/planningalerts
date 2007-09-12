@@ -5,18 +5,18 @@
 ||  || Hampshire County Council || Winchester || online in html, but no date search || http://www3.hants.gov.uk/planning/mineralsandwaste/planning-applications/applications.htm ||
 ||  || Harborough District Council || Leicester || searchable by date || http://www.harborough.gov.uk/planning/searchparam.asp ||
 || Done || Haringey Borough Council || Tottenham || ApplicationSearchServlet || http://www.planningservices.haringey.gov.uk/portal/servlets/ApplicationSearchServlet ||
-|| Ready || Harlow District Council || Harlow || acolnet || http://planning.harlow.gov.uk/PlanningSearch/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.PgeSearch ||
+|| Ready || Harlow District Council || Harlow || AcolNet || http://planning.harlow.gov.uk/PlanningSearch/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.PgeSearch ||
 ||  || Harrow || Harrow || suggests planningportal, or ukplanning || http://www.harrow.gov.uk/ccm/content/housing-and-planning/planning/planning-portal.en ||
 || Done || Harrogate Borough Council || Harrogate || PublicAccess || http://publicaccess.harrogate.gov.uk/publicaccess/tdc/tdc_home.aspx ||
 || Done || Hart District Council || Fleet || PublicAccess || http://publicaccess.hart.gov.uk/publicAccess/ ||
 || Done || Hartlepool Borough Council || Hartlepool || ApplicationSearchServlet || http://eforms.hartlepool.gov.uk:7777/portal/servlets/ApplicationSearchServlet ||
 ||  || Hastings Borough Council || St Leonards on Sea || Weekly list as html, and UKPlanning || http://www.hastings.gov.uk/planning/SearchResults.aspx ||
 || 
-|| In progress || Havant Borough Council || Havant || Acolnet - but not yet working || http://www3.havant.gov.uk/scripts/planningpages/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.pgesearch&theme= ||
+|| In progress || Havant Borough Council || Havant || AcolNet - but not yet working || http://www3.havant.gov.uk/scripts/planningpages/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.pgesearch&theme= ||
 ||  || Havering Borough Council || Romford || searchable by date || http://lxop01.havering.gov.uk:7783/portal/page?_pageid=33,30979&_dad=portal&_schema=PORTAL ||
 ||  || Herefordshire Council || Hereford || searchable by date || http://www.herefordshire.gov.uk/gis/planQuery.aspx ||
 ||  || Hertfordshire County Council || Hertford || waste and minerals only, not online || ttp://www.hertsdirect.org/yrccouncil/hcc/env/hdp/ ||
-|| Ready || Hertsmere Borough Council || Borehamwood || acolnet ||  http://www2.hertsmere.gov.uk/ACOLNET/DCOnline//acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
+|| Ready || Hertsmere Borough Council || Borehamwood || AcolNet ||  http://www2.hertsmere.gov.uk/ACOLNET/DCOnline//acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 || Done || High Peak Borough Council || Glossop || ApplicationSearchServlet || http://planning.highpeak.gov.uk/portal/servlets/ApplicationSearchServlet ||
 ||  || Highland Council || Dingwall, Dornoch, etc || weekly lists as pdf || http://www.highland.gov.uk/yourenvironment/planning/planningapplicationsandbuildingwarrants/weekly-planning-bw-lists.htm ||
 ||  || Hillingdon Borough Council || Uxbridge || searchable by date || http://www.hillingdon.gov.uk/environment/planning/search/index.php?portal=as&height=768 ||
