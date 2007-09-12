@@ -3,9 +3,6 @@
   * Bridgnorth (Duncan) - Acolnet. implemented, but returns error 400 when accessed by script
   * Cambridgeshire (Duncan) - Acolnet. no advanced search page - will need some work
   * Canterbury (Duncan) - Acolnet. results table is different from usual format
-  * Doncaster (Duncan) - works in browser - empty results for script
-  * Durham (Duncan) - works in browser - empty results for script
-  * Hambleton (Duncan) - works for browser - empty results for script
   * Havant (Duncan) - acolnet - not sure why this doesn't work...
   * Isle of Man (Dan)
   * Surrey Heath (Duncan) - acolnet - causes an error in my parser
@@ -49,7 +46,10 @@
 
 = Scrapes done, but sites/scrapers broken =
   * Bassetlaw (no postcodes)
-  * Derby (no postcodes)
-  * Wolverhampton (empty database)
-  * Dacorum (always returns no applications)
   * Bury (script returns nothing)
+  * Dacorum (always returns no applications)
+  * Derby (no postcodes)
+  * Doncaster (Duncan) - works in browser - empty results for script
+  * Durham (Duncan) - works in browser - empty results for script
+  * Hambleton (Duncan) - works for browser - empty results for script
+  * Wolverhampton (empty database)
