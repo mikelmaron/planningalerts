@@ -6,7 +6,7 @@
 || || Sedgefield Borough Council || Spennymoor || searchable by date || http://www2.sedgefield.gov.uk/planning_search/index.php ||
 || || Sedgemoor District Counhcil || Bridgwater || planning online - searchable by date || http://www.sedgemoor.gov.uk/planning%20online/enl.aspx || 
 || || Sefton Metropolitan Borough Council || Bootle, Southport || website is mostly dead today... || http://www.sefton.gov.uk/ ||
-|| Ready || Selby District Council || Selby || PublicAccess || http://publicaccess.selby.gov.uk/publicaccess/ ||
+|| Done || Selby District Council || Selby || PublicAccess || http://publicaccess.selby.gov.uk/publicaccess/ ||
 || Done || Sevenoaks District Council || Sevenoaks || PublicAccess || http://publicaccess.sevenoaks.gov.uk/publicaccess/ ||
 || Done || Sheffield City Council || Sheffield || PublicAccess || http://planning.sheffield.gov.uk/publicaccess/default.aspx ||
 || || Shepway District Council || Folkestone || ukplanning - searchable by date. also html weekly list|| http://www.ukplanning.com/ukp/custom/forwards/selectandsearch.jsp?council=Shepway%20District%20Council&fwd=search,   http://www.shepway.gov.uk/webapp/service/query/planning-week.do?go=on ||
