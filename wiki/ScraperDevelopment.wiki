@@ -45,6 +45,9 @@
   * Winchester
   * Wyre Forest
 
+Other things to do:
+  * Balby needs renaming to Blaby.
+
 = Scrapes done, but sites/scrapers broken =
   * Bassetlaw (no postcodes)
   * Bury (script returns nothing)
