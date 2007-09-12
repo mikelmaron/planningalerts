@@ -32,10 +32,10 @@
 || || South Northamptonshire || Towcester || searchable by date || http://snc.planning-register.co.uk/PlanAppSrch.asp ||
 || Done || South Oxfordshire District Council || Wallingford || html list by seven day periods - implemented as a special case. || http://www.southoxon.gov.uk/ccm/planning/ApplicationList.jsp ||
 || Done || South Ribble Borough Council || Leyland || PublicAccess || http://publicaccess.southribble.gov.uk/publicaccess/ ||
-|| || South Shropshire District Council || Ludlow || planning explorer - searchable by date || http://194.201.44.102/MVM/Online/PL/GeneralSearch.aspx ||
+|| || South Shropshire District Council || Ludlow || PlanningExplorer || http://194.201.44.102/MVM/Online/PL/GeneralSearch.aspx ||
 || || South Somerset District Council || Chard, Langport, Wincanton, Yeovil || searchable by date || http://www.southsomerset.gov.uk/index.jsp?articleid=1925 ||
 || Done  || South Staffordshire District Council || Wolverhampton || PublicAccess || https://services.sstaffs.gov.uk/publicaccess/ ||
-|| || South Tyneside Borough Council || South Shields || Planning Explorer - searchable by date || http://poppy.southtyneside.gov.uk/mvm/Online/PL/GeneralSearch.aspx ||
+|| || South Tyneside Borough Council || South Shields || PlanningExplorer || http://poppy.southtyneside.gov.uk/mvm/Online/PL/GeneralSearch.aspx ||
 || Done || Southampton City Council || Southampton || PublicAccess || http://publicaccess.southampton.gov.uk/publicaccess/li/li_home.aspx ||
 || || Southend-on-Sea Borough Council || Southend-on-Sea || searchable by date || http://www.southend.gov.uk/environment/planning/applications.asp ||
 || || Southwark Borough Council || London || acolnet, but not quite as expected || http://194.168.41.26/cgi-bin/acolnetcgi.exe?ACTION=UNWRAP&RIPSESSION=%7B%5B%2A%211D1A020B050304731D3C3D31617C041E28361620222F34223B7660001036350A0C1E372B316B730B033D3916212F332D27013722002F352B6A611715232B122B2E21312D162B260A2E2737691120283F3A3606243629243A06176F747D7A707F7E647777007A76787F63%21%2A%5D%7D ||
