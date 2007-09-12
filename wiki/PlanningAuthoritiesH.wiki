@@ -1,4 +1,4 @@
-|| Done ||  Hackney Borough Council || London || planning explorer || http://www.hackney.gov.uk/servapps/mvm/online/pl/GeneralSearch.aspx ||
+|| Done ||  Hackney Borough Council || London || PlanningExplorer || http://www.hackney.gov.uk/servapps/mvm/online/pl/GeneralSearch.aspx ||
 ||  || Halton Borough Council || Runcorn || searchable by date || http://www.halton.gov.uk/planningapps/ ||
 || In progress || Hambleton District Council || Northallerton || PublicAccess || http://planning.hambleton.gov.uk/publicaccess/tdc/DcApplication/application_searchform.aspx ||
 || Done || Hammersmith & Fulham Borough Council || London || PublicAccess || http://www.apps.lbhf.gov.uk/PublicAccess/tdc/DcApplication/application_searchform.aspx ||
