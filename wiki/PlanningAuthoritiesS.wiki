@@ -49,7 +49,7 @@
 || || States of Guernsey || St Peter Port || pdf of latest apps || http://www.gov.gg/ccm/environment/planning-division/development-control/press-lists/planning-application-press-list---150607.en ||
 || Done || Stevenage Borough Council || Stevenage || PublicAccess || http://publicaccess.stevenage.gov.uk/publicaccess ||
 || Done || Stirling Council || Stirling || PublicAccess || http://planpub.stirling.gov.uk/publicaccess/ ||
-|| || Stockport Metropolitan Borough Council || Stockport || searchable by date || http://s1.stockport.gov.uk/council/eed/dc/planning/MVM/Online/PL/GeneralSearch.aspx ||
+|| || Stockport Metropolitan Borough Council || Stockport || PlanningExplorer || http://s1.stockport.gov.uk/council/eed/dc/planning/MVM/Online/PL/GeneralSearch.aspx ||
 || Done || Stockton-on-Tees Borough Council || Stockton on Tees || PublicAccess || http://www.developmentcontrol.stockton.gov.uk/publicaccess/ ||
 || || Stoke-on-Trent City Council || Stoke-on-Trent || No obvious date search or weekly list || http://www.gisinternet.stoke.gov.uk/evoplanning/search_form.asp ||
 || Ready || Stratford-on-Avon District Council || Stratford-upon-Avon || PublicAccess || http://217.33.198.119/publicaccess/default.aspx ||
@@ -61,5 +61,5 @@
 || In progress || Surrey Heath Borough Council || Camberley || acolnet, but defeats my parser somehow :-( || https://www.public.surreyheath-online.gov.uk/whalecom60b1ef305f59f921/whalecom0/Scripts/PlanningPagesOnline/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 || Ready || Sutton Borough Council || Carshalton || FastWeb || http://82.43.4.135/FASTWEB/welcome.asp ||
 || || Swale Borough Council || Sittingbourne || ukplanning and weekly lists as pdf|| http://www.ukplanning.com/ukp/custom/forwards/selectandsearch.jsp?council=Swale%20Borough%20Council&fwd=search , http://www.swale.gov.uk/index.cfm?articleid=4368||
-|| || Swansea City & County Council || Swansea || searchable by date || http://www2.swansea.gov.uk/MVM/online/PL/GeneralSearch.aspx ||
+|| || Swansea City & County Council || Swansea || PlanningExplorer || http://www2.swansea.gov.uk/MVM/online/PL/GeneralSearch.aspx ||
 || Done || Swindon Borough Council || Swindon || PublicAccess || http://194.73.99.13/publicaccess/propdb/property/property_searchform.aspx ||
