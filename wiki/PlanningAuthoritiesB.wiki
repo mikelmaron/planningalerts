@@ -39,4 +39,4 @@
 || || *Broxtowe* || Broxtowe Borough Council || searchable html weekly lists || http://www.broxtowe.gov.uk/index/planning_new/planning_development_control_new/planning_development_control_planning_applications/planning_applications_disclaimer/planning_applications_search_for_planning_application.htm ||
 || Done || Buckinghamshire || Buckinghamshire County Council || PublicAccess || http://www.bucksplanning.gov.uk/publicaccess/ ||
 || || *Burnley* || Burnley Borough Council || weekly lists || http://www.burnley.gov.uk/site/scripts/planning.php ||
-|| Done || Bury || Bury Metropolitan Borough Council || AcolNet || http://e-planning.bury.gov.uk/eplanning/acolnetcgi.gov ||
+|| In Progress || Bury || Bury Metropolitan Borough Council || AcolNet || http://e-planning.bury.gov.uk/eplanning/acolnetcgi.gov ||
