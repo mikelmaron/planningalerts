@@ -22,7 +22,7 @@
 || Done ||  Chester-le-Street ||   Chester-le-Street District Council  || PublicAccess || http://planning.chester-le-street.gov.uk/publicaccess/ ||
 ||  ||  *Chesterfield* ||  Chesterfield Borough Council  || Weekly list || hhttp://www.chesterfield.gov.uk/planning/default.asp?mode=&ShowAll=true ||
 ||  ||  *Chichester* ||   Chichester District Council  || WAM/UKPlanning? || http://wam.chichester.gov.uk/WAM/search/pas/index.htm;jsessionid=5D6D9B7A4C0F07CC472DE776DF9EA75D ||
-|| In progress ||  *Chiltern* ||  Chiltern District Council  || PublicAccess(https) || https://isa.chiltern.gov.uk/publicaccess/ ||
+|| Ready ||  Chiltern ||  Chiltern District Council  || PublicAccess (https) || https://isa.chiltern.gov.uk/publicaccess/ ||
 || In progress ||  *Chorley* ||   Chorley Borough Council  || PublicAccess(broken) || http://planning.chorley.gov.uk/PublicAccess/propdb/property/property_searchform.aspx ||
 ||  ||  *Christchurch* ||   Christchurch Borough Council || DorsetForYou || http://www.dorsetforyou.com/index.jsp?articleid=356063 ||
 || Done ||  City ||  Corporation of London || PublicAccess ||  ||
