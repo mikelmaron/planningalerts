@@ -3,7 +3,6 @@
   * Bridgnorth (Duncan) - Acolnet. implemented, but returns error 400 when accessed by script
   * Cambridgeshire (Duncan) - Acolnet. no advanced search page - will need some work
   * Canterbury (Duncan) - Acolnet. results table is different from usual format
-  * Chiltern (Duncan) - causes an error in my script (https)
   * Doncaster (Duncan) - works in browser - empty results for script
   * Durham (Duncan) - works in browser - empty results for script
   * Hambleton (Duncan) - works for browser - empty results for script
@@ -19,6 +18,7 @@
   * Broads Authority
   * Bromley
   * Caradon
+  * Chiltern
   * Craven
   * Dundee
   * Eastleigh
