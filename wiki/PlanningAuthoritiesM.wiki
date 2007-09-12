@@ -10,7 +10,7 @@
 ||  || Merthyr Tydfil County Council || Merthyr Tydfil || weekly lists as pdf || http://www.merthyr.gov.uk/Home/Local+Services/Planning/Development+Control/Weekly+List/April+2007.htm ||
 ||  || Merton Borough Council || Morden || PlanningExplorer - site is down || http://planning.merton.gov.uk/MVM/Online/PL/GeneralSearch.aspx ||
 ||  || Mid Bedfordshire District Council || Biggleswade || there is an AcolNet here, but it is password protected, and only available to invited consultees! Also weekly lists of pdfs ||  http://www.midbeds.gov.uk/services/planning/planning_apps/Weekly_List_of_Planning_Applications.asp ||
-||  || Mid Devon District Council || Tiverton || PublicAccess || http://planning.middevon.gov.uk/publicaccess/ ||
+|| Done || Mid Devon District Council || Tiverton || PublicAccess || http://planning.middevon.gov.uk/publicaccess/ ||
 ||  || Mid Suffolk District Council || Needham Market || AcolNet, but locations have no postcode || http://www.midsuffolkdc.gov.uk/planning/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.PgeSearch ||
 || Done || Mid Sussex District Council || Haywards Heath || PublicAccess || http://dc.midsussex.gov.uk/PublicAccess/ ||
 ||  || Middlesbrough Council || Middlesbrough || searchable by date || http://planserv.middlesbrough.gov.uk:7778/portal/page?_pageid=35,31689&_dad=portal&_schema=PORTAL ||
