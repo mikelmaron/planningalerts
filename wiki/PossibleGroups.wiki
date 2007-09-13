@@ -3,8 +3,6 @@
 This page contains some groups of planning authorities for which we don't yet have a scraper (as far as I know), but which might be best handled together.
 
 
-Other Groups for which we don't yet have scrapers:
-
 WAM:
 
   * Barking and Dagenham
