@@ -52,3 +52,4 @@ Sites that look like Tower Hamlets (WAM)
   * Poole
   * Rother
   * South Gloucestershire
+  * South Norfolk (appears to have PlanningExplorer as well)
