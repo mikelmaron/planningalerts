@@ -19,4 +19,4 @@
 || || Rushcliffe Borough Council || West Bridgford || Blueprint - searchable by date || http://www.document1.co.uk/blueprint/AdvSearch.asp ||
 || Done || Rushmoor Borough Council || Farnborough || PublicAccess || http://pa-dc.rushmoor.gov.uk/publicaccess/ ||
 || || Rutland County Council || Oakham || searchable by date || http://www.rutland.gov.uk/wellandplanning/searchparam.asp ||
-|| || Ryedale District Council || Malton || searchable by date || http://www.ryedale.gov.uk/ispforms.asp?serviceKey=SysDoc-PlanetApplicationEnquiry ||
+|| || Ryedale District Council || Malton || PlanetApplicationEnquiry || http://www.ryedale.gov.uk/ispforms.asp?serviceKey=SysDoc-PlanetApplicationEnquiry ||
