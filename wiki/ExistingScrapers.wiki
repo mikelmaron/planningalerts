@@ -17,6 +17,7 @@ Others:
   * Enfield
   * Islington (like East Hertfordshire)
   * South Oxfordshire
+  * Tower Hamlets
   * Walsall - Paul's Scraper
   * York
 
@@ -38,3 +39,15 @@ Sites that look like East Hertfordshire:
   * Snowdonia National Park
   * St Edmundsbury
   * Dublin (though this might be a bit outside our remit :-))
+
+Sites that look like Tower Hamlets (WAM)
+
+  * Barking and Dagenham
+  * Braintree
+  * Chichester
+  * Colchester
+  * East Lothian
+  * North Somerset
+  * Poole
+  * Rother
+  * South Gloucestershire
