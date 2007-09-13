@@ -48,6 +48,7 @@ Sites that look like Tower Hamlets (WAM)
   * Colchester
   * East Lothian
   * North Somerset
+  * Nottingham
   * Poole
   * Rother
   * South Gloucestershire
