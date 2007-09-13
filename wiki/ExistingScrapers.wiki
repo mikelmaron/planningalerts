@@ -38,33 +38,3 @@ Sites that look like East Hertfordshire:
   * Snowdonia National Park
   * St Edmundsbury
   * Dublin (though this might be a bit outside our remit :-))
-
-Other Groups for which we don't yet have scrapers:
-
-WAM:
-
-  * Barking and Dagenham
-  * Braintree
-  * Chichester
-  * Colchester
-  * East Lothian
-  * North Somerset
-  * Poole
-  * Rother
-  * South Gloucestershire
-  * Tower Hamlets
-
-searchparam.asp:
-
-  * East Northamptonshire
-  * Harborough
-  * Melton
-  * Rutland
-
-ePlanning (searchPageLoad.do):
-
-  * Cumbria
-  * Dorset
-  * Lincolnshire
-  * Somerset
-  * West Sussex
