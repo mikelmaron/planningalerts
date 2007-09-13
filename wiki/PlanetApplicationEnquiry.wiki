@@ -1,0 +1,8 @@
+#summary List of authorities using PlanetApplicationEnquiry
+
+We don't yet have a scraper for these. All the URLs end with PlanetApplicationEnquiry.
+
+  * Elmbridge
+  * North Lincolnshire
+  * Ryedale
+  * Worcester
