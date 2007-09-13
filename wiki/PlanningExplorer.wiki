@@ -16,7 +16,7 @@ We have scrapers for a couple of these (Camden and Hackney)
   * Liverpool (not quite like the others)
   * Merton (site down)
   * Shrewsbury
-  * South Norfolk
+  * South Norfolk (appears to have WAM as well)
   * South Shropshire
   * South Tyneside
   * Stockport
