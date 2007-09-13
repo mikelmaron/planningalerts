@@ -39,9 +39,12 @@ Sites that look like East Hertfordshire:
   * St Edmundsbury
   * Dublin (though this might be a bit outside our remit :-))
 
+Other Groups for which we don't yet have scrapers:
+
 WAM:
 
   * Barking and Dagenham
+  * Braintree
   * Chichester
   * Colchester
   * East Lothian
@@ -50,3 +53,10 @@ WAM:
   * Rother
   * South Gloucestershire
   * Tower Hamlets
+
+searchparam.asp:
+
+  * East Northamptonshire
+  * Harborough
+  * Melton
+  * Rutland
