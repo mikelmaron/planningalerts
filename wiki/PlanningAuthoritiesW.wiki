@@ -34,7 +34,7 @@
 || Done || Woking Borough Council || Woking || PublicAccess || http://caps.woking.gov.uk/publicaccess/ ||
 ||  || Wokingham District Council || Hurst, Wokingham || Apps can be displayed in html by month || http://www.wokingham.gov.uk/environment/planning/planning-applications/planning-applications-search ||
 || Broken || Wolverhampton City Council || Wolverhampton || PublicAccess, but database empty || http://planningonline.wolverhampton.gov.uk/PublicAccess/tdc/tdc_home.aspx ||
-||  || Worcester City Council || Worcester || searchable by date || http://www.worcester.gov.uk:8080/planet/ispforms.asp?serviceKey=SysDoc-PlanetApplicationEnquiry ||
+||  || Worcester City Council || Worcester || PlanetApplicationEnquiry || http://www.worcester.gov.uk:8080/planet/ispforms.asp?serviceKey=SysDoc-PlanetApplicationEnquiry ||
 ||  || Worcestershire County Council || Worcester || list of all current apps in html || http://worcestershire.whub.org.uk/home/textonly/wccindex/wcc-planning/wcc-dev-control/wcc-dev-control-applications-decisions.htm ||
 || Done || Worthing Borough Council || Worthing || PublicAccess || http://planning.worthing.gov.uk/publicaccess/ ||
 ||  || Wrexham County Borough Council || Wrexham || last x weeks planning apps available in html || http://www.wrexham.gov.uk/english/planning_portal/plan_apps/PlansSearch.cfm ||
