@@ -22,7 +22,7 @@
 || || *Bournmouth* || Bournemouth Borough Council || weekly list as pdf || http://www.bournemouth.gov.uk/Residents/Planning_Development/Planning_Applications/Lists/default.asp ||
 || Ready || Bracknell Forest || Bracknell Forest Borough Council || PublicAccess - using https || https://my.bracknell-forest.gov.uk/publicaccess/tdc/DcApplication/application_searchform.aspx ||
 || Done || Bradford || City of Bradford Metropolitan District Council || PublicAccess || http://www.planning4bradford.com/tdc/DcApplication/application_searchform.aspx ||
-|| || *Braintree* || Braintree District Council || braintree.gov.uk seems to be broken || ||
+|| || *Braintree* || Braintree District Council || WAM || http://planningapp.braintree.gov.uk/WAM1/searchsubmit/performOption.do?action=search ||
 || || *Brecon Beacons* || Breacon Beacons National Park Authority || weekly lists as pdf or rtf || http://www.breconbeacons.org/planning/planning_apps ||
 || || *Breckland* || Breckland District Council || looks like weekly lists, but page not currently responding || ||
 || || *Brent* || Brent Borough Council || search by date || http://www.brent.gov.uk/servlet/ep.ext?extId=101149&byPeriod=Y&st=PL&periodUnits=day&periodMultiples=14 ||
