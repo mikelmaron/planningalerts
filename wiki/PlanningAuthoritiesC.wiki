@@ -6,7 +6,7 @@
 || || *Cannock* ||  Cannock Chase District Council || monthly application lists || http://www.cannockchasedc.gov.uk/site/scripts/documents_info.php?documentID=347&pageNumber=2 ||
 || In progress || *Canterbury* ||  Canterbury City Council  || AcolNet || http://planning.canterbury.gov.uk/scripts/acolnetcgi.exe ||
 || Ready || Caradon ||   Caradon District Council  || PublicAccess || http://publicaccess.caradon.gov.uk/publicaccess/ ||
-|| || *Cardiff* ||   Cardiff County Council  || cant find anything ||  ||
+|| || *Cardiff* ||   Cardiff County Council  || Weekly lists as pdf || http://www.cardiff.gov.uk/content.asp?Parent_Directory_id=2865&nav=2870,3139,3153,3943 ||
 || Ready || Carlisle ||  Carlisle City Council  || AcolNet || http://planning.carlisle.gov.uk/acolnet/acolnetcgi.gov ||
 || || *Carmarthenshire* ||   Carmarthenshire County Council  || searchable by date || http://www.carmarthenshire.gov.uk/CCC_APPS/eng/plannaps/ccc_planningapplications.asp ||
 || || *Carrick* ||    Carrick District Council  || searchable by date || http://www.carrick.gov.uk/index.cfm?articleid=13904 ||
