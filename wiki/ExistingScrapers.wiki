@@ -60,3 +60,11 @@ searchparam.asp:
   * Harborough
   * Melton
   * Rutland
+
+ePlanning (searchPageLoad.do):
+
+  * Cumbria
+  * Dorset
+  * Lincolnshire
+  * Somerset
+  * West Sussex
