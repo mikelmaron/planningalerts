@@ -18,9 +18,4 @@ ePlanning (searchPageLoad.do):
   * Somerset
   * West Sussex
 
-PlanetApplicationEnquiry:
-
-  * Elmbridge
-  * North Lincolnshire
-  * Ryedale
-  * Worcester
+PlanetApplicationEnquiry
