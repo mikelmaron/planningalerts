@@ -1,0 +1,34 @@
+#summary Groups of authorities that might be handled together
+
+This page contains some groups of planning authorities for which we don't yet have a scraper (as far as I know), but which might be best handled together.
+
+
+Other Groups for which we don't yet have scrapers:
+
+WAM:
+
+  * Barking and Dagenham
+  * Braintree
+  * Chichester
+  * Colchester
+  * East Lothian
+  * North Somerset
+  * Poole
+  * Rother
+  * South Gloucestershire
+  * Tower Hamlets
+
+searchparam.asp:
+
+  * East Northamptonshire
+  * Harborough
+  * Melton
+  * Rutland
+
+ePlanning (searchPageLoad.do):
+
+  * Cumbria
+  * Dorset
+  * Lincolnshire
+  * Somerset
+  * West Sussex
