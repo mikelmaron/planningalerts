@@ -30,7 +30,7 @@
 ||  || *Colchester* ||  Colchester Borough Council || Weekly and Monthly lists - database appears to be empty... || http://www.planning.colchester.gov.uk/WAM/searchsubmit/performOption.do?action=search ||
 ||  ||  *Comhairle nan Eilean Siar* || Stornaway || Weekly lists in html - nice easy looking format || http://www.cne-siar.gov.uk/planapps/april2007.htm ||
 ||  || Congleton Borough Council || Congleton || Weekly lists as pdf || http://www.congleton.gov.uk/?t=589 ||
-||  || Conwy County Borough Council || Conwy || Weekly lists as pdf || http://www.conwy.gov.uk/doc.asp?cat=1865&doc=19243 ||
+||  || Conwy County Borough Council || Conwy || Weekly lists as pdf (password "George" on the pdfs) || http://www.conwy.gov.uk/section.asp?cat=1536 ||
 ||  || Copeland Borough Council || Copeland || Weekly lists as pdf || http://www.copelandbc.gov.uk/main.asp?page=2888 ||
 || Done || Corby Borough Council || Corby || PublicAccess || https://publicaccess.corby.gov.uk/publicaccess/ ||
 || Done || Cornwall County Council || Cornwall || PublicAccess || http://planapps.cornwall.gov.uk/publicaccess/ ||
