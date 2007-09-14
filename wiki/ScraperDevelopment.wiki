@@ -4,7 +4,6 @@
   * Cambridgeshire (Duncan) - AcolNet. no advanced search page - will need some work
   * Canterbury (Duncan) - AcolNet. results table is different from usual format
   * Isle of Man (Dan)
-  * Oldham (Duncan) - AcolNet - causes an error in my parser
   * Renfrewshire (Duncan) - AcolNet - causes an error in my parser
   * Surrey Heath (Duncan) - AcolNet - causes an error in my parser
   * Wychavon (Duncan) - an AcolNet site, but slightly odd.
@@ -37,6 +36,7 @@
   * New Forest DC
   * North Hertfordshire (oops... I'd commented out the class it all depends on)
   * North Wiltshire (not timing out today)
+  * Oldham
   * Perthshire
   * South Lakeland
   * Stratford
@@ -64,4 +64,5 @@ Other things to do:
   * Hambleton (Duncan) - works for browser - empty results for script
   * South Bedfordshire - timing out
   * Wolverhampton (empty database)
+ 
  
