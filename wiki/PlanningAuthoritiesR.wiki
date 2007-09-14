@@ -15,8 +15,9 @@
 || || Rother District Council || Bexhill || weekly lists in html || http://www.planning.rother.gov.uk/WAM/search/pas/index.htm ||
 || || Rotherham Borough Council || Rotherham || weekly lists as pdf || http://www.rotherham.gov.uk/graphics/YourHome/Planning/Development+Control/Weekly+Planning+Applications/ ||
 || || Rugby Borough Council || Rugby || down for maintenance || http://www.rugby.gov.uk/site/scripts/documents_info.php?documentID=1122 ||
-|| || Runnymede Borough Council || Addlestone || link to planning applications search is broken || http://www.runnymede.gov.uk/portal/site/runnymede/menuitem.b4433be235fbfec4723e6e53af8ca028/ ||
+|| || Runnymede Borough Council || Addlestone || weekly lists as html || http://ww2.runnymede.gov.uk/home/latest/wklyplanapps/wklyplanapps.asp ||
 || || Rushcliffe Borough Council || West Bridgford || Blueprint - searchable by date || http://www.document1.co.uk/blueprint/AdvSearch.asp ||
 || Done || Rushmoor Borough Council || Farnborough || PublicAccess || http://pa-dc.rushmoor.gov.uk/publicaccess/ ||
 || || Rutland County Council || Oakham || searchable by date || http://www.rutland.gov.uk/wellandplanning/searchparam.asp ||
 || || Ryedale District Council || Malton || PlanetApplicationEnquiry || http://www.ryedale.gov.uk/ispforms.asp?serviceKey=SysDoc-PlanetApplicationEnquiry ||
+ 
