@@ -28,8 +28,7 @@
 || || South Kesteven District Council || Grantham || site currently down || http://www.southkesteven.gov.uk/Planning/ ||
 || Ready || South Lakeland District Council || Kendal || FastWeb || http://www.southlakeland.gov.uk/fastweb/search.asp ||
 || || South Lanarkshire Council || East Kilbride, Hamilton, Lanark, Rutherglen || pdf file of recent apps || http://www.southlanarkshire.gov.uk/portal/page/portal/EXTERNAL_WEBSITE_DEVELOPMENT/SLC_ONLINE_HOME/SLC_ATOZ/PUBLICATION_ATOZ/RELATED_PUBLICATION/?keyword1=currentplanningappsdoc ||
-|| || South Norfolk Council || Long Stratton || PlanningExplorer and WAM || http://planning.south-norfolk.gov.uk/MVM/Online/PL/GeneralSearch.aspx, 
-http://wam.south-norfolk.gov.uk/WAM/search/pas/index.htm ||
+|| || South Norfolk Council || Long Stratton || PlanningExplorer and WAM || http://planning.south-norfolk.gov.uk/MVM/Online/PL/GeneralSearch.aspx, http://wam.south-norfolk.gov.uk/WAM/search/pas/index.htm ||
 || || South Northamptonshire || Towcester || searchable by date || http://snc.planning-register.co.uk/PlanAppSrch.asp ||
 || Done || South Oxfordshire District Council || Wallingford || html list by seven day periods - implemented as a special case. || http://www.southoxon.gov.uk/ccm/planning/ApplicationList.jsp ||
 || Done || South Ribble Borough Council || Leyland || PublicAccess || http://publicaccess.southribble.gov.uk/publicaccess/ ||
@@ -64,4 +63,5 @@ http://wam.south-norfolk.gov.uk/WAM/search/pas/index.htm ||
 || || Swale Borough Council || Sittingbourne || ukplanning and weekly lists as pdf|| http://www.ukplanning.com/ukp/custom/forwards/selectandsearch.jsp?council=Swale%20Borough%20Council&fwd=search , http://www.swale.gov.uk/index.cfm?articleid=4368||
 || || Swansea City & County Council || Swansea || PlanningExplorer || http://www2.swansea.gov.uk/MVM/online/PL/GeneralSearch.aspx ||
 || Done || Swindon Borough Council || Swindon || PublicAccess || http://194.73.99.13/publicaccess/propdb/property/property_searchform.aspx ||
+ 
  
