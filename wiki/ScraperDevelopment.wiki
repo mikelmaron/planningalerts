@@ -4,7 +4,7 @@
   * Cambridgeshire (Duncan) - AcolNet. no advanced search page - will need some work
   * Canterbury (Duncan) - AcolNet. results table is different from usual format
   * Isle of Man (Dan)
-  * Surrey Heath (Duncan) - AcolNet - causes an error in my parser
+  * Surrey Heath (Duncan) - AcolNet - The problem here looks like it might be cookie and javascript related.
   * Wychavon (Duncan) - an AcolNet site, but slightly odd.
 
 = Working and ready to deploy =
@@ -64,6 +64,7 @@ Other things to do:
   * Hambleton (Duncan) - works for browser - empty results for script
   * South Bedfordshire - timing out
   * Wolverhampton (empty database)
+ 
  
  
  
