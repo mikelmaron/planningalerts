@@ -8,5 +8,6 @@ http://www.glasgow.gov.uk/en/Business/Planning_Development/DevelopmentControl/Si
 || Done || Gravesham Borough Council || Gravesend || PublicAccess || http://plan.gravesham.gov.uk/PublicAccess/ ||
 ||  || Great Yarmouth Borough Council || Great Yarmouth || weekly and monthly pdfs || http://www.great-yarmouth.gov.uk/planning/development_control/planning_applications/archived_applications_2006.htm ||
 ||  || Greenwich Borough Council || London || weekly lists in html || http://www.greenwich.gov.uk/Greenwich/YourEnvironment/PlanningAndBuilding/PlanningBuildingConservation/ApplicationsDecisionsAppeals/PlanningApplications/April/ ||
-||  || Guildford Borough Council || Guildford || it's AcolNet, but not as we know it. || http://www.guildford.gov.uk/acolnet/ ||
+|| In Progress || Guildford Borough Council || Guildford || it's AcolNet, but not as we know it. || http://www.guildford.gov.uk/acolnet/ ||
 ||  || Gwynedd Council || Caernarfon, Dolgellau, Pwllheli || searchable by date || http://www.gwynedd.gov.uk/swiftlg/apas/run/wphappcriteria.display ||
+ 
