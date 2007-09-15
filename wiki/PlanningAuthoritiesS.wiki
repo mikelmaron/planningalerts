@@ -58,10 +58,11 @@
 || || Suffolk County Council || Ipswich || site is down || http://www.eplanning.suffolk.gov.uk/ePlanningOPS/index.jsp ||
 || Done || Sunderland City Council || Sunderland || PublicAccess || http://www.sunderland.gov.uk/publicaccess/ ||
 || || Surrey County Council || Kingston upon Thames || can get links to all current applications by searching with blank box || http://www1.surreycc.gov.uk/mwplan/search.cfm ||
-|| In progress || Surrey Heath Borough Council || Camberley || AcolNet, but defeats my parser somehow :-( || https://www.public.surreyheath-online.gov.uk/whalecom60b1ef305f59f921/whalecom0/Scripts/PlanningPagesOnline/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
+|| In progress || Surrey Heath Borough Council || Camberley || AcolNet, but stuck behind a javascript redirect and cookies || https://www.public.surreyheath-online.gov.uk/whalecom60b1ef305f59f921/whalecom0/Scripts/PlanningPagesOnline/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 || Ready || Sutton Borough Council || Carshalton || FastWeb || http://82.43.4.135/FASTWEB/welcome.asp ||
 || || Swale Borough Council || Sittingbourne || ukplanning and weekly lists as pdf|| http://www.ukplanning.com/ukp/custom/forwards/selectandsearch.jsp?council=Swale%20Borough%20Council&fwd=search , http://www.swale.gov.uk/index.cfm?articleid=4368||
 || || Swansea City & County Council || Swansea || PlanningExplorer || http://www2.swansea.gov.uk/MVM/online/PL/GeneralSearch.aspx ||
 || Done || Swindon Borough Council || Swindon || PublicAccess || http://194.73.99.13/publicaccess/propdb/property/property_searchform.aspx ||
+ 
  
  
