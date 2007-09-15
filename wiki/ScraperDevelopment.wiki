@@ -3,6 +3,7 @@
   * Bridgnorth (Duncan) - AcolNet. implemented, but returns error 400 when accessed by script
   * Cambridgeshire (Duncan) - AcolNet. no advanced search page - will need some work
   * Canterbury (Duncan) - AcolNet. results table is different from usual format
+  * Guildford (Duncan) - AcolNet, but odd.
   * Isle of Man (Dan)
   * Surrey Heath (Duncan) - AcolNet - The problem here looks like it might be cookie and javascript related.
   * Wychavon (Duncan) - an AcolNet site, but slightly odd.
@@ -64,6 +65,7 @@ Other things to do:
   * Hambleton (Duncan) - works for browser - empty results for script
   * South Bedfordshire - timing out
   * Wolverhampton (empty database)
+ 
  
  
  
