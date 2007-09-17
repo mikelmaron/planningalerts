@@ -10,6 +10,7 @@
 
 = Working and ready to deploy =
 
+  * Bassetlaw
   * Bracknell Forest
   * Broads Authority
   * Bromley
@@ -56,7 +57,6 @@ Other things to do:
 
 
 = Scrapes done, but sites/scrapers broken =
-  * Bassetlaw (no postcodes)
   * Bury (script returns nothing)
   * Dacorum (always returns no applications)
   * Derby (no postcodes)
@@ -65,6 +65,7 @@ Other things to do:
   * Hambleton (Duncan) - works for browser - empty results for script
   * South Bedfordshire - timing out
   * Wolverhampton (empty database)
+ 
  
  
  
