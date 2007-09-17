@@ -5,7 +5,7 @@
 || Done || Barrow ||Barrow-in-Furness Borough Council || ApplicationSearchServlet || http://localportal.barrowbc.gov.uk/portal/servlets/WeeklyListServlet ||
 || Done || Basildon || Basildon District Council || PublicAccess || http://planning.basildon.gov.uk/publicaccess/tdc/DcApplication/application_searchresults.aspx?searchtype=SPEC ||
 || Done || Basingstoke || Basingstoke & Deane Borough Council || AcolNet || http://planning.basingstoke.gov.uk/DCOnline2/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
-|| In progress || Bassetlaw || Bassetlaw District Council || AcolNet - no postcodes || http://www.bassetlaw.gov.uk/planning/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
+|| Ready || Bassetlaw || Bassetlaw District Council || AcolNet (not many postcodes) || http://www.bassetlaw.gov.uk/planning/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 || Done || Bath || Bath & North East Somerset Council || PublicAccess || http://planning.bathnes.gov.uk/publicaccess/ ||
 || Done || Bedford || Bedford Borough Council || PublicAccess ||http://www.publicaccess.bedford.gov.uk/publicaccess/default.aspx ||
 || || *Bedfordshire* || Bedfordshire County Council || county council only responsible for a small amount of planning and nothing obvious listed online || ||
@@ -40,3 +40,4 @@
 || Done || Buckinghamshire || Buckinghamshire County Council || PublicAccess || http://www.bucksplanning.gov.uk/publicaccess/ ||
 || || *Burnley* || Burnley Borough Council || weekly lists || http://www.burnley.gov.uk/site/scripts/planning.php ||
 || In Progress || Bury || Bury Metropolitan Borough Council || AcolNet || http://e-planning.bury.gov.uk/eplanning/acolnetcgi.gov ||
+ 
