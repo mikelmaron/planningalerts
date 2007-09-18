@@ -9,7 +9,7 @@
 || || Derbyshire Dales || Derbyshire Dales District Council || weekly lists in html. appalling looking search page || http://www.doctec.co.uk/derbyshiredales/aspxpages/WeeklyLists.aspx ||
 || || Derwentside || Derwentside District Council || searchable by date received || http://www.derwentside.gov.uk/index.cfm?articleid=8427 ||
 || || Devon || Devon County Council || monthly lists of councils own applications || http://www.devon.gov.uk/index/environment/planning/planning-system/planning_applications-mw/planning_applications.htm ||
-|| In Progress || Doncaster || Doncaster Metropolitan Borough Council || PublicAccess || http://maps.doncaster.gov.uk/publicaccess/tdc/tdc_home.aspx ||
+|| Ready || Doncaster || Doncaster Metropolitan Borough Council || PublicAccess || http://local.doncaster.gov.uk/PublicAccess/tdc/ ||
 || || Dorset || Dorset County Council || handles very few apps. Searchable by some dates. http://www.dorsetforyou.com/ePlanning/searchPageLoad.do ||
 || || Dover || Dover District Council || searchable by date received || http://www.dover.gov.uk/planning/Search_net/search.aspx ||
 || || Dudley || Dudley Metropolitan Borough Council || searchable by some dates, and weekly lists || http://www2.dudley.gov.uk/swiftlg/apas/run/Wphappcriteria.display ||
@@ -17,3 +17,4 @@
 || Ready || Dundee || Dundee City Council || PublicAccess || ||
 || In Progress || Durham || Durham City Council || PublicAccess - database appears to be empty || ||
 || || Durham County || Durham County Council || Online register searchable by month and year || http://gis.durham.gov.uk/website/dcs/SearchMain.asp ||
+ 
