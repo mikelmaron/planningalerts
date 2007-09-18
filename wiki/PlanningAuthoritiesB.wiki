@@ -1,4 +1,4 @@
-|| Done || Babergh || Babergh District Council || AcolNet || http://planning.babergh.gov.uk/dataOnlinePlanning/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
+|| Done || Babergh || Babergh District Council || AcolNet (New site from 22/06/2007)|| http://planning.babergh.gov.uk/dcdatav2//acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 || || *Barking and Dagenham* || Barking & Dagenham Borough Council || weekly and monthly lists in html || http://idoxwam.lbbd.gov.uk:8081/WAM/search/pas/index.htm ||
 || || *Barnet* || Barnet Borough Council || current applications are searchable by date || http://planning.barnet.gov.uk:7778/pls/portal/PORTAL.wwa_app_module.show?p_sessionid=205173 ||
 || || *Barnsley* || Barnsley Metropolitan Borough Council || weekly lists in html. Rather out of date, and nowhere obvious to comment. ||http://applications.barnsley.gov.uk/service/development/weeklylist.asp ||
@@ -40,4 +40,5 @@
 || Done || Buckinghamshire || Buckinghamshire County Council || PublicAccess || http://www.bucksplanning.gov.uk/publicaccess/ ||
 || || *Burnley* || Burnley Borough Council || weekly lists || http://www.burnley.gov.uk/site/scripts/planning.php ||
 || In Progress || Bury || Bury Metropolitan Borough Council || AcolNet || http://e-planning.bury.gov.uk/eplanning/acolnetcgi.gov ||
+ 
  
