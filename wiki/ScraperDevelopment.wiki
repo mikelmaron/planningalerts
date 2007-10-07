@@ -8,12 +8,15 @@
   * Surrey Heath (Duncan) - AcolNet - The problem here looks like it might be cookie and javascript related.
   * Wychavon (Duncan) - an AcolNet site, but slightly odd.
 
-= Working and ready to deploy =
+= Deployed by Duncan 07/10/2007
 
   * Bassetlaw
   * Bracknell Forest
   * Broads Authority
-  * Bromley
+  * Bromley (changed this to my python scraper, which seems to be working)
+
+= Working and ready to deploy =
+
   * Caradon
   * Chelmsford
   * Chiltern
