@@ -5,7 +5,7 @@
 || Done || Barrow ||Barrow-in-Furness Borough Council || ApplicationSearchServlet || http://localportal.barrowbc.gov.uk/portal/servlets/WeeklyListServlet ||
 || Done || Basildon || Basildon District Council || PublicAccess || http://planning.basildon.gov.uk/publicaccess/tdc/DcApplication/application_searchresults.aspx?searchtype=SPEC ||
 || Done || Basingstoke || Basingstoke & Deane Borough Council || AcolNet || http://planning.basingstoke.gov.uk/DCOnline2/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
-|| Ready || Bassetlaw || Bassetlaw District Council || AcolNet (not many postcodes) || http://www.bassetlaw.gov.uk/planning/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
+|| Done || Bassetlaw || Bassetlaw District Council || AcolNet (not many postcodes) || http://www.bassetlaw.gov.uk/planning/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 || Done || Bath || Bath & North East Somerset Council || PublicAccess || http://planning.bathnes.gov.uk/publicaccess/ ||
 || Done || Bedford || Bedford Borough Council || PublicAccess ||http://www.publicaccess.bedford.gov.uk/publicaccess/default.aspx ||
 || || *Bedfordshire* || Bedfordshire County Council || county council only responsible for a small amount of planning and nothing obvious listed online || ||
@@ -20,7 +20,7 @@
 || || *Bolton* || Bolton Metropolitan Borough Council || Page doesn't display in firefox... || http://www.bolton.gov.uk/pls/portal92/docs/PAGE/ENVIRONMENT_DEPARTMENT/PLANNING_DIVISION/PLANNING%20CONTROL/TAB80709/GENERAL%20PAGES/APPLICATION_SEARCH.HTM ||
 || || *Boston* || Boston Borough Council || searchable by date. claims to be under construction. || http://www.boston.gov.uk/index.php?option=com_wrapper&Itemid=3433 ||
 || || *Bournmouth* || Bournemouth Borough Council || weekly list as pdf || http://www.bournemouth.gov.uk/Residents/Planning_Development/Planning_Applications/Lists/default.asp ||
-|| Ready || Bracknell Forest || Bracknell Forest Borough Council || PublicAccess - using https || https://my.bracknell-forest.gov.uk/publicaccess/tdc/DcApplication/application_searchform.aspx ||
+|| Done || Bracknell Forest || Bracknell Forest Borough Council || PublicAccess - using https || https://my.bracknell-forest.gov.uk/publicaccess/tdc/DcApplication/application_searchform.aspx ||
 || Done || Bradford || City of Bradford Metropolitan District Council || PublicAccess || http://www.planning4bradford.com/tdc/DcApplication/application_searchform.aspx ||
 || || *Braintree* || Braintree District Council || WAM || http://planningapp.braintree.gov.uk/WAM1/searchsubmit/performOption.do?action=search ||
 || || *Brecon Beacons* || Breacon Beacons National Park Authority || weekly lists as pdf or rtf || http://www.breconbeacons.org/planning/planning_apps ||
@@ -32,8 +32,8 @@
 || || *Brighton* || Brighton & Hove Borough Council || searchable by date || http://www.brighton-hove.gov.uk/index.cfm?request=c1133441 ||
 || Done || Bristol || Bristol City Council || PublicAccess || http://e2eweb.bristol-city.gov.uk/publicaccess/default.aspx ||
 || || *Broadland* || Broadland District Council || PlanningExplorer || http://www.broadland.gov.uk/mvm/Online/PL/GeneralSearch.aspx ||
-|| Ready || Broads || Broads Authority || PublicAccess - using https || https://planning.broads-authority.gov.uk/PublicAccess/default.aspx ||
-|| Ready || Bromley || Bromley || PublicAccess || ||
+|| Done || Broads || Broads Authority || PublicAccess - using https || https://planning.broads-authority.gov.uk/PublicAccess/default.aspx ||
+|| Done || Bromley || Bromley || PublicAccess || ||
 || || *Bromsgrove* || Bromsgrove District Council || pdf of year to date || http://bromsgrove.whub.org.uk/home/bdcindex/bdc-planning/bdc-planning-applications/bdc-planning-recent-applications.htm ||
 || Done || Broxbourne || Broxbourne Borough Council || Tom's Scraper || http://www.broxbourne.gov.uk/Internet/Applications/Planning%20Applications ||
 || || *Broxtowe* || Broxtowe Borough Council || searchable html weekly lists || http://www.broxtowe.gov.uk/index/planning_new/planning_development_control_new/planning_development_control_planning_applications/planning_applications_disclaimer/planning_applications_search_for_planning_application.htm ||
