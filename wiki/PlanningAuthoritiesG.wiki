@@ -2,7 +2,7 @@
 || Done || Gedling Borough Council || Nottingham || PublicAccess || http://publicaccess.gedling.gov.uk/publicaccess/tdc/tdc_home.aspx ||
 ||  || Glasgow City Council || Glasgow || weekly lists as pdf || http://www.glasgow.gov.uk/en/Business/Planning_Development/DevelopmentControl/Sitehistorysearches/ ||
 || Done || Gloucester City Council || Gloucester || PublicAccess || http://www.glcstrplnng11.co.uk/publicaccess/ ||
-|| Ready || Gloucestershire County Council || Gloucester || PublicAccess || http://planning.gloucestershire.gov.uk/publicaccess/ ||
+|| Done || Gloucestershire County Council || Gloucester || PublicAccess || http://planning.gloucestershire.gov.uk/publicaccess/ ||
 ||  || Gosport Borough Council || Gosport || search by date || http://www.gosport.gov.uk/gbcplanning/ApplicationSearch2.aspx ||
 || Done || Gravesham Borough Council || Gravesend || PublicAccess || http://plan.gravesham.gov.uk/PublicAccess/ ||
 ||  || Great Yarmouth Borough Council || Great Yarmouth || weekly and monthly pdfs || http://www.great-yarmouth.gov.uk/planning/development_control/planning_applications/archived_applications_2006.htm ||
