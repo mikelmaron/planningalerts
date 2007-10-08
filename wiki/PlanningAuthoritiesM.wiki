@@ -3,7 +3,7 @@
 ||  || Maldon District Council || Maldon || searchable by date || http://forms.maldon.gov.uk:8080/PlanApp/jsp/searchPlan.jsp ||
 || Done || Malvern Hills District Council || Malvern || PublicAccess || ||
 || Done || Manchester City Council || Manchester || PublicAccess || http://www.publicaccess.manchester.gov.uk/publicaccess/tdc/tdc_home.aspx ||
-|| Ready|| Mansfield District Council || Mansfield || FastWeb || http://www.mansfield.gov.uk/Fastweb23/search.asp ||
+|| Done|| Mansfield District Council || Mansfield || FastWeb || http://www.mansfield.gov.uk/Fastweb23/search.asp ||
 ||  || Medway Council || Chatham || PlanningOnline, searchable by date || http://www.medway.gov.uk/index/environment/planning/planapp/planonline.htm ||
 ||  || Melton Borough Council || Melton Mowbray || searchable by date || http://www.meltononline.co.uk/planning/searchparam.asp ||
 ||  || Mendip District Council || Shepton Mallet || searchable by date || http://www.mendip.gov.uk/pods/ApplicationSearch.asp ||
