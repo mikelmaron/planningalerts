@@ -24,6 +24,7 @@
   * Eden
   * Fenland
   * Gloucestershire (don't be fooled into thinking there are no applications: see eg 20/8/2007)
+  * Havant
   * London Borough of Sutton
   * Mansfield
   * New Forest DC
@@ -41,11 +42,15 @@ Other stuff:
   * Removed duplicate of Hertsmere with name "East Hertsmere".
 
 
-= Working and ready to deploy =
+= Scrapes done, but sites/scrapers broken =
+  * Bury (script returns nothing)
+  * Dacorum (always returns no applications)
+  * Derby (no postcodes)
+  * Durham (Duncan) - works in browser - empty results for script
   * East Devon (db not empty - see eg 11/7/2007) - downloads empty cgi file
   * East Dorset - downloads empty cgi file
   * Gateshead (not timing out today) - downloads empty cgi file
-  * Havant - not in SitesToGenerate.csv
+  * Hambleton (Duncan) - works for browser - empty results for script
   * Hinckley and Bosworth - downloads empty cgi file
   * Luton - downloads empty cgi file
   * Moray - downloads empty cgi file
@@ -57,19 +62,5 @@ Other stuff:
   * Stratford - internal server error
   * Teignbridge (This never times out for me... must investigate what goes wrong on the server) - downloads empty cgi file
   * Winchester - downloads empty cgi file
-
-= Scrapes done, but sites/scrapers broken =
-  * Bury (script returns nothing)
-  * Dacorum (always returns no applications)
-  * Derby (no postcodes)
-  * Durham (Duncan) - works in browser - empty results for script
-  * Hambleton (Duncan) - works for browser - empty results for script
-  * South Bedfordshire - timing out
   * Wolverhampton (empty database)
- 
- 
- 
- 
- 
- 
  
