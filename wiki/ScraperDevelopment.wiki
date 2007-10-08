@@ -13,7 +13,7 @@
   * Bassetlaw
   * Bracknell Forest
   * Broads Authority
-  * Bromley (changed this to my python scraper, which seems to be working)
+  * Bromley (changed this to the python scraper, which seems to be working)
   * Caradon
   * Chelmsford
   * Chiltern
@@ -25,6 +25,19 @@
   * Fenland
   * Gloucestershire (don't be fooled into thinking there are no applications: see eg 20/8/2007)
   * London Borough of Sutton
+  * Mansfield
+  * New Forest DC
+  * North Wiltshire
+  * Oldham
+  * South Lakeland
+  * Watford
+  * Welwyn Hatfield
+  * Wyre Forest
+
+Other stuff:
+  * Renamed "District of Easington" to "Easington District Council"
+  * Renamed "London Borough off Ealing" to "London Borough of Ealing".
+  * Renamed Balby to Blaby.
 
 = Working and ready to deploy =
   * East Devon (db not empty - see eg 11/7/2007) - downloads empty cgi file
@@ -32,30 +45,18 @@
   * Gateshead (not timing out today) - downloads empty cgi file
   * Havant - not in SitesToGenerate.csv
   * Hinckley and Bosworth - downloads empty cgi file
-  * Luton
-  * Mansfield
-  * Moray
-  * Newcastle (not timing out today)
-  * Newcastle-under-Lyme (not timing out today)
-  * New Forest DC
-  * North Hertfordshire (oops... I'd commented out the class it all depends on)
-  * North Wiltshire (not timing out today)
-  * Oldham
-  * Perthshire
-  * Renfrewshire
-  * South Lakeland
-  * Stratford
-  * Suffolk Coastal
-  * Teignbridge (This never times out for me... must investigate what goes wrong on the server)
-  * Watford
-  * Welwyn Hatfield
-  * Winchester
-  * Wyre Forest
+  * Luton - downloads empty cgi file
+  * Moray - downloads empty cgi file
+  * Newcastle (not timing out today) - downloads empty cgi file
+  * Newcastle-under-Lyme (not timing out today) - downloads empty cgi file
+  * Perthshire - downloads empty cgi file
+  * Renfrewshire - downloads empty cgi file
+  * South Bedfordshire - downloads empty cgi file
+  * Stratford - internal server error
+  * Teignbridge (This never times out for me... must investigate what goes wrong on the server) - downloads empty cgi file
+  * Winchester - downloads empty cgi file
 
 Other things to do:
-  * Balby needs renaming to Blaby.
-  * Rename "District of Easington" to "Easington".
-  * Rename "London Borough off Ealing" to "London Borough of Ealing".
   * Why does Hertsmere appear in the list of councils we've done twice?
 
 
