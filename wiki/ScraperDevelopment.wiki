@@ -18,21 +18,20 @@
   * Chelmsford
   * Chiltern
   * Craven
-
-= Working and ready to deploy =
-
-  * Doncaster
+  * Doncaster (now fixed, so enabled again)
   * Dundee
   * Eastleigh
   * Eden
-  * East Devon (db not empty - see eg 11/7/2007)
-  * East Dorset
   * Fenland
-  * Gateshead (not timing out today)
   * Gloucestershire (don't be fooled into thinking there are no applications: see eg 20/8/2007)
-  * Havant
-  * Hinckley and Bosworth
   * London Borough of Sutton
+
+= Working and ready to deploy =
+  * East Devon (db not empty - see eg 11/7/2007) - downloads empty cgi file
+  * East Dorset - downloads empty cgi file
+  * Gateshead (not timing out today) - downloads empty cgi file
+  * Havant - not in SitesToGenerate.csv
+  * Hinckley and Bosworth - downloads empty cgi file
   * Luton
   * Mansfield
   * Moray
