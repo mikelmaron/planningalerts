@@ -8,40 +8,6 @@
   * Surrey Heath (Duncan) - AcolNet - The problem here looks like it might be cookie and javascript related.
   * Wychavon (Duncan) - an AcolNet site, but slightly odd.
 
-= Deployed by Duncan 07-08/10/2007 =
-
-  * Bassetlaw
-  * Bracknell Forest
-  * Broads Authority
-  * Bromley (changed this to the python scraper, which seems to be working)
-  * Caradon
-  * Chelmsford
-  * Chiltern
-  * Craven
-  * Doncaster (now fixed, so enabled again)
-  * Dundee
-  * Eastleigh
-  * Eden
-  * Fenland
-  * Gloucestershire (don't be fooled into thinking there are no applications: see eg 20/8/2007)
-  * Havant
-  * London Borough of Sutton
-  * Mansfield
-  * New Forest DC
-  * North Wiltshire
-  * Oldham
-  * South Lakeland
-  * Watford
-  * Welwyn Hatfield
-  * Wyre Forest
-
-Other stuff:
-  * Renamed "District of Easington" to "Easington District Council"
-  * Renamed "London Borough off Ealing" to "London Borough of Ealing".
-  * Renamed Balby to Blaby.
-  * Removed duplicate of Hertsmere with name "East Hertsmere".
-
-
 = Scrapes done, but sites/scrapers broken =
   * Bury (script returns nothing)
   * Dacorum (always returns no applications)
