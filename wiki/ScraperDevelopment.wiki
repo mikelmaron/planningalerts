@@ -38,6 +38,8 @@ Other stuff:
   * Renamed "District of Easington" to "Easington District Council"
   * Renamed "London Borough off Ealing" to "London Borough of Ealing".
   * Renamed Balby to Blaby.
+  * Removed duplicate of Hertsmere with name "East Hertsmere".
+
 
 = Working and ready to deploy =
   * East Devon (db not empty - see eg 11/7/2007) - downloads empty cgi file
@@ -55,10 +57,6 @@ Other stuff:
   * Stratford - internal server error
   * Teignbridge (This never times out for me... must investigate what goes wrong on the server) - downloads empty cgi file
   * Winchester - downloads empty cgi file
-
-Other things to do:
-  * Why does Hertsmere appear in the list of councils we've done twice?
-
 
 = Scrapes done, but sites/scrapers broken =
   * Bury (script returns nothing)
