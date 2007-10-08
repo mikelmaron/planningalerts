@@ -6,13 +6,13 @@
 ||  || Warrington Borough Council || Warrington || IE only || http://www.warrington.gov.uk/Environmentandplanning/Planning/Searching_Planning_Applications_On-Line.aspx ||
 ||  || Warwick District Council || Leamington Spa || searchable by validated date || http://estates.warwickdc.gov.uk/planningapps/forms/searchStartDate.aspx ||
 ||  || Warwickshire County Council || Warwick || html list of current applications || http://www.warwickshire.gov.uk/Web/corporate/pages.nsf/Pages%20by%20Department/A6E30208F224959D8025724A0034D717 ||
-|| Ready || Watford Council || Watford || PublicAccess || http://ww3.watford.gov.uk/publicaccess/dc/DcApplication/application_searchform.aspx ||
+|| Done || Watford Council || Watford || PublicAccess || http://ww3.watford.gov.uk/publicaccess/dc/DcApplication/application_searchform.aspx ||
 || Done || Waveney District Council || Beccles ,Bungay, Halesworth, Lowestoft || PublicAccess || http://publicaccess.waveney.gov.uk/PublicAccess/tdc/DcApplication/application_searchform.aspx ||
 ||  || Waverley Borough Council || Godalming || No date search, but html list of 100 most recent apps || http://waverweb.waverley.gov.uk/live/wbc/pwl.nsf/webdisplaypubliclist?OpenForm&Seq=2#_RefreshKW_showmeby ||
 ||  || Wealden District Council || Crowborough || searchable by date received || http://www.planning.wealden.gov.uk/aspxpages/Search.aspx ||
 || Done || Wear Valley District Council || Crook || ApplicationSearchServlet || http://planning.wearvalley.gov.uk/portal/servlets/ApplicationSearchServlet ||
 || Done || Wellingborough Borough Council || Wellingborough || ApplicationSearchServlet || http://planning.wellingborough.gov.uk/portal/ ||
-|| Ready || Welwyn-Hatfield District Council || Welwyn Garden City || FastWeb || https://fastweb.welhat.gov.uk/results.asp ||
+|| Done || Welwyn-Hatfield District Council || Welwyn Garden City || FastWeb || https://fastweb.welhat.gov.uk/results.asp ||
 || Done || West Berkshire Council || Newbury || PublicAccess || http://ww2.westberks.gov.uk/publicaccess/tdc/ ||
 ||  || West Devon Borough Council || Okehampton, Tavistock || searchable by date || http://www.westdevon.gov.uk/planningapp/planningsearch.aspx ||
 ||  || West Dorset District Council || Dorchester || searchable by date raised || http://webapps.westdorset-dc.gov.uk/PlanningApplications/Pages/ApplicationSearch.aspx ||
@@ -41,4 +41,4 @@
 ||  || Wychavon District Council || Pershore || AcolNet, but not quite like the others || http://www.e-wychavon.org.uk/scripts/plan2005/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.Pages.PgeDC.LnkSearchGeneral.PgeSearchGeneral ||
 || Done || Wycombe District Council || High Wycombe || PublicAccess || http://planningpa.wycombe.gov.uk/PublicAccess/ ||
 ||  || Wyre Borough Council || Poulton-le-Fylde || current applications listed by month and year || http://www.wyrebc.gov.uk/Page.aspx?PvnID=48072&PgeID=48063&BrdCb=1-24-13552-13553-13579-13470-13618 ||
-|| Ready || Wyre Forest District Council || Kidderminster || FastWeb || http://www.wyreforest.gov.uk/fastweb/weeklylistapp.asp ||
+|| Done || Wyre Forest District Council || Kidderminster || FastWeb || http://www.wyreforest.gov.uk/fastweb/weeklylistapp.asp ||
