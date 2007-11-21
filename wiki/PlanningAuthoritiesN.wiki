@@ -11,7 +11,7 @@
 || || North Cornwall District Council || Bodmin, Wadebridge || searchable by date || http://onlineplanning.ncdc.gov.uk/eaccess/Planning/Planning-application-and-property-Search/Application-Search/Application-Search.asp ||
 || || North Devon District Council || Barnstaple || searchable by date || http://planning.northdevon.gov.uk/search.asp ||
 || || North Dorset District Council || Blandford Forum || weekly lists as pdf || http://www.north-dorset.gov.uk/index/living/building_planning/development_control/planning_applications-3/view_application.htm ||
-|| Done || North East Derbyshire District Council || Chesterfield || PublicAccess || ||
+|| Done || North East Derbyshire District Council || Chesterfield || PublicAccess || http://planapps-online.ne-derbyshire.gov.uk/publicaccess/tdc/ ||
 || || North East Lincolnshire Council || Cleethorpes || searchable by date ||http://sun11.nelincs.gov.uk/portal/page?_pageid=256,32885&_dad=portal&_schema=PORTAL  ||
 || Done || North Hertfordshire District Council || Letchworth || AcolNet || http://www.north-herts.gov.uk/dcdataonline/Pages/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.PgeSearch||
 || || North Kesteven District Council || Sleaford || weekly lists as pdf || http://www.n-kesteven.gov.uk/section.asp?docId=3491 ||
