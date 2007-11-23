@@ -11,7 +11,7 @@
 = Scrapes done, but sites/scrapers broken =
   * Dacorum (always returns no applications)
   * Derby (no postcodes)
-  * Durham (Duncan) - works in browser - empty results for script
+  * Durham (Duncan) - site is broken
   * Hambleton (Duncan) - works for browser - empty results for script
   * Moray - empty database
   * Newcastle (not timing out today) - forbidden.
