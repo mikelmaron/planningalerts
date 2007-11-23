@@ -9,20 +9,12 @@
   * Wychavon (Duncan) - an AcolNet site, but slightly odd.
 
 = Scrapes done, but sites/scrapers broken =
-  * Bury (script returns nothing)
   * Dacorum (always returns no applications)
   * Derby (no postcodes)
   * Durham (Duncan) - works in browser - empty results for script
-  * East Devon (db not empty - see eg 11/7/2007) - downloads empty cgi file
-  * East Dorset - downloads empty cgi file
-  * Gateshead (not timing out today) - downloads empty cgi file
   * Hambleton (Duncan) - works for browser - empty results for script
-  * Hinckley and Bosworth - downloads empty cgi file
-  * Luton - downloads empty cgi file
   * Moray - downloads empty cgi file
   * Newcastle (not timing out today) - downloads empty cgi file
-  * Newcastle-under-Lyme (not timing out today) - downloads empty cgi file
-  * Perthshire - downloads empty cgi file
   * Renfrewshire - downloads empty cgi file
   * South Bedfordshire - downloads empty cgi file
   * Stratford - internal server error
