@@ -8,7 +8,7 @@
 || Done || East Hertfordshire District Council || Hertford || searchable by date || http://e-services.eastherts.gov.uk/swiftlg/apas/run/wphappcriteria.display ||
 || Done || East Lindsey District Council || Louth || AcolNet || http://www.e-lindsey.gov.uk/planning/AcolnetCGI.exe?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 ||  || East Lothian Council || Haddington || WAM - weekly lists|| http://www.planning.eastlothian.gov.uk/WAM/search/pas/index.htm ||
-||  || East Northamptonshire Council || Thrapston || RutlandLike (and PublicAccess) - I think the PublicAccess is more comprehensive and is the latest version. || http://www.east-northantsonline.co.uk/planning/searchparam.asp (also http://publicaccesssrv.east-northamptonshire.gov.uk/PublicAccess/ ) ||
+|| Done || East Northamptonshire Council || Thrapston || RutlandLike (and PublicAccess) - I think the PublicAccess is more comprehensive and is the latest version. || http://www.east-northantsonline.co.uk/planning/searchparam.asp (also http://publicaccesssrv.east-northamptonshire.gov.uk/PublicAccess/ ) ||
 ||  || East Renfrewshire Council || Glasgow || weekly lists as pdf || http://www.eastrenfrewshire.gov.uk/environment/planning/planning_applications/weekly_lists.htm ||
 || done || East Riding of Yorkshire Council || Beverley || PublicAccess || http://www.eastriding.gov.uk/PublicAccess731c/dc/dc_home.aspx ||
 ||  || East Staffordshire Borough Council || Burton upon Trent || PlanningExplorer || http://www2.eaststaffsbc.gov.uk/MVM/Online/PL/GeneralSearch.aspx ||
