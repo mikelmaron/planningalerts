@@ -2,14 +2,6 @@
 
 This page contains some groups of planning authorities for which we don't yet have a scraper (as far as I know), but which might be best handled together.
 
-
-searchparam.asp:
-
-  * East Northamptonshire (also has a PublicAccess, which seems to contain more applications)
-  * Harborough (also has a PublicAccess, which seems a slightly different set of applications...)
-  * Melton
-  * Rutland
-
 ePlanning (searchPageLoad.do):
 
   * Cumbria
