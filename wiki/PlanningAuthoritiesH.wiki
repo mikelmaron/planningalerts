@@ -3,7 +3,7 @@
 || In progress || Hambleton District Council || Northallerton || PublicAccess || http://planning.hambleton.gov.uk/publicaccess/tdc/DcApplication/application_searchform.aspx ||
 || Done || Hammersmith & Fulham Borough Council || London || PublicAccess || http://www.apps.lbhf.gov.uk/PublicAccess/tdc/DcApplication/application_searchform.aspx ||
 ||  || Hampshire County Council || Winchester || online in html, but no date search || http://www3.hants.gov.uk/planning/mineralsandwaste/planning-applications/applications.htm ||
-||  || Harborough District Council || Leicester || searchable by date || http://www.harborough.gov.uk/planning/searchparam.asp ||
+|| Done || Harborough District Council || Leicester || searchable by date (also PublicAccess). The apps are not the same in each, but the PublicAccess is the most recent version (7.4) || http://www.harborough.gov.uk/planning/searchparam.asp and http://pa.harborough.gov.uk/PublicAccess/ ||
 || Done || Haringey Borough Council || Tottenham || ApplicationSearchServlet || http://www.planningservices.haringey.gov.uk/portal/servlets/ApplicationSearchServlet ||
 || Done || Harlow District Council || Harlow || AcolNet || http://planning.harlow.gov.uk/PlanningSearch/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.PgeSearch ||
 ||  || Harrow || Harrow || suggests planningportal, or ukplanning || http://www.harrow.gov.uk/ccm/content/housing-and-planning/planning/planning-portal.en ||
