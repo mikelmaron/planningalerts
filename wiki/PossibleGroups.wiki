@@ -5,7 +5,7 @@ This page contains some groups of planning authorities for which we don't yet ha
 
 searchparam.asp:
 
-  * East Northamptonshire
+  * East Northamptonshire (also has a PublicAccess, which seems to contain more applications)
   * Harborough
   * Melton
   * Rutland
