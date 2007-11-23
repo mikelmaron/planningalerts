@@ -18,7 +18,7 @@
 || || Solihull Metropolitan Borough Council || Solihull || weekly lists in html || http://www.solihull.gov.uk/planning/dc/weeklist.asp ||
 || || Somerset County Council || Taunton || searchable by date || http://webapp1.somerset.gov.uk/ePlanning/searchPageLoad.do ||
 || || South Ayrshire Council || Ayr || searchable by date || http://gis.south-ayrshire.gov.uk/viewerplanning/planningLists.asp ||
-|| Ready || South Bedfordshire District Council || Dunstable || AcolNet || http://planning.southbeds.gov.uk/plantech/DCWebPages/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
+|| Done || South Bedfordshire District Council || Dunstable || AcolNet || http://planning.southbeds.gov.uk/plantech/DCWebPages/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 || Done || South Bucks District Council || Slough || PublicAccess || http://sbdc-paweb.southbucks.gov.uk/publicaccess/tdc/DcApplication/application_searchform.aspx ||
 || || South Cambridgeshire District Council || Cambridge || searchable by date || http://egov.scambs.gov.uk/planningapps/pa.php ||
 || || South Derbyshire District Council || Swadlincote || searchable by date || http://sddc.planning-proposals.co.uk/ ||
