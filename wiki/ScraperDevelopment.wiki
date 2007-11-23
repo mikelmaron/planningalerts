@@ -13,12 +13,9 @@
   * Derby (no postcodes)
   * Durham (Duncan) - works in browser - empty results for script
   * Hambleton (Duncan) - works for browser - empty results for script
-  * Moray - downloads empty cgi file
-  * Newcastle (not timing out today) - downloads empty cgi file
-  * Renfrewshire - downloads empty cgi file
-  * South Bedfordshire - downloads empty cgi file
-  * Stratford - internal server error
-  * Teignbridge (This never times out for me... must investigate what goes wrong on the server) - downloads empty cgi file
-  * Winchester - downloads empty cgi file
+  * Moray - empty database
+  * Newcastle (not timing out today) - forbidden.
+  * Stratford - connection refused
+  * Winchester - site is broken
   * Wolverhampton (empty database)
  
