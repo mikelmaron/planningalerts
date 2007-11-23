@@ -9,6 +9,7 @@ Types of site for which we have scrapers written
   * FastWeb
   * PublicAccess
   * PlanningExplorer
+  * RutlandLike (the ones that look like the Rutland site)
 
 Others:
 
