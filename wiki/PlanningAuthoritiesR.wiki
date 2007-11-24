@@ -18,7 +18,7 @@
 || || Runnymede Borough Council || Addlestone || weekly lists as html || http://ww2.runnymede.gov.uk/home/latest/wklyplanapps/wklyplanapps.asp ||
 || || Rushcliffe Borough Council || West Bridgford || Blueprint - searchable by date || http://www.document1.co.uk/blueprint/AdvSearch.asp ||
 || Done || Rushmoor Borough Council || Farnborough || PublicAccess || http://pa-dc.rushmoor.gov.uk/publicaccess/ ||
-|| || Rutland County Council || Oakham || searchable by date || http://www.rutland.gov.uk/wellandplanning/searchparam.asp ||
+|| Done || Rutland County Council || Oakham || RutlandLike || http://www.rutland.gov.uk/wellandplanning/searchparam.asp ||
 || || Ryedale District Council || Malton || PlanetApplicationEnquiry || http://www.ryedale.gov.uk/ispforms.asp?serviceKey=SysDoc-PlanetApplicationEnquiry ||
  
  
