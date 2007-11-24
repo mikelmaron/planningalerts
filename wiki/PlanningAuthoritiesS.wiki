@@ -16,7 +16,7 @@
 || || Slough Borough Council || Slough || requires registration! || http://www2.slough.gov.uk/swiftlg/apas/run/wphappcriteria.display ||
 || || Snowdonia National Park Authority || Penrhynduedraeth || searchable by date || http://www.eryri-npa.co.uk/swiftlg_test/apas_test/run/wphappcriteria.display ||
 || || Solihull Metropolitan Borough Council || Solihull || weekly lists in html || http://www.solihull.gov.uk/planning/dc/weeklist.asp ||
-|| || Somerset County Council || Taunton || searchable by date || http://webapp1.somerset.gov.uk/ePlanning/searchPageLoad.do ||
+|| Broken || Somerset County Council || Taunton || AtriumePlanning || http://webapp1.somerset.gov.uk/ePlanning/searchPageLoad.do ||
 || || South Ayrshire Council || Ayr || searchable by date || http://gis.south-ayrshire.gov.uk/viewerplanning/planningLists.asp ||
 || Done || South Bedfordshire District Council || Dunstable || AcolNet || http://planning.southbeds.gov.uk/plantech/DCWebPages/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 || Done || South Bucks District Council || Slough || PublicAccess || http://sbdc-paweb.southbucks.gov.uk/publicaccess/tdc/DcApplication/application_searchform.aspx ||
