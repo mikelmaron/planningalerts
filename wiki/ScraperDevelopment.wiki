@@ -1,5 +1,6 @@
 = Scrapers being worked on =
 
+  * Bolton (Duncan) - AcolNet - not looked at yet.
   * Bridgnorth (Duncan) - AcolNet. implemented, but returns error 400 when accessed by script
   * Cambridgeshire (Duncan) - AcolNet. no advanced search page - will need some work
   * Canterbury (Duncan) - AcolNet. results table is different from usual format
