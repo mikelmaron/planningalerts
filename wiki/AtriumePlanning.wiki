@@ -1,0 +1,13 @@
+#summary ePlanning (by Atrium)
+
+We have a scraper for this sort of site, which can be distinguished by the search url ending in searchPageLoad.do.
+
+Known sites of this sort are:
+
+  * Cumbria
+  * Dorset (The site is down as of 24/11/2007)
+  * Lincolnshire
+  * Somerset (I'm not sure this one still exists - 24/11/2007)
+  * West Sussex
+
+All of these are county council sites for councils which are only responsible for things like minerals, waste, and the council's own applications. This means that they tend to have fairly few applications.
