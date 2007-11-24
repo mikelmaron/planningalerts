@@ -14,7 +14,7 @@
 || || *Birmingham* ||Birmingham City Council || searchable by date || http://www.birmingham.gov.uk/GenerateContent?CONTENT_ITEM_ID=67548&CONTENT_ITEM_TYPE=0&MENU_ID=12189 ||
 || Done || Blaby || Blaby District Council || PublicAccess || http://www.blaby.gov.uk/PublicAccess ||
 || || *Blackburn* || Blackburn with Darwen Borough Council || PlanningExplorer || http://195.8.175.6/MVM/Online/PL/GeneralSearch.aspx ||
-|| || *Blaenau Gwent* ||Blaenau Gwent County Borough Council || All of 2007 in one big list ||http://www.blaenau-gwent.gov.uk/environment/8380.asp ||
+|| || *Blaenau Gwent* ||Blaenau Gwent County Borough Council || Apps by year in one big html page ||http://www.blaenau-gwent.gov.uk/environment/8380.asp ||
 || || *Blyth Valley* || Blyth Valley Borough Council || weekly lists as pdf, rather out of date || http://www.blythvalley.gov.uk/Default.aspx?page=10932 ||
 || Done || Bolsover || Bolsover District Council || PublicAccess || http://217.158.161.181/publicaccess/tdc/DcApplication/application_searchform.aspx ||
 || || *Bolton* || Bolton Metropolitan Borough Council || Page doesn't display in firefox... || http://www.bolton.gov.uk/pls/portal92/docs/PAGE/ENVIRONMENT_DEPARTMENT/PLANNING_DIVISION/PLANNING%20CONTROL/TAB80709/GENERAL%20PAGES/APPLICATION_SEARCH.HTM ||
