@@ -18,7 +18,7 @@
 || || *Blyth Valley* || Blyth Valley Borough Council || weekly lists as pdf, rather out of date || http://www.blythvalley.gov.uk/Default.aspx?page=10932 ||
 || Done || Bolsover || Bolsover District Council || PublicAccess || http://217.158.161.181/publicaccess/tdc/DcApplication/application_searchform.aspx ||
 || || *Bolton* || Bolton Metropolitan Borough Council || AcolNet || http://www.planning.bolton.gov.uk/planningsearch/acolnetcgi.gov ||
-|| || *Boston* || Boston Borough Council || searchable by date. claims to be under construction. || http://www.boston.gov.uk/index.php?option=com_wrapper&Itemid=3433 ||
+|| || *Boston* || Boston Borough Council || searchable by date, and weekly lists as html. || http://195.224.121.199/swiftlg/apas/run/wphappcriteria.display ||
 || || *Bournmouth* || Bournemouth Borough Council || weekly list as pdf || http://www.bournemouth.gov.uk/Residents/Planning_Development/Planning_Applications/Lists/default.asp ||
 || Done || Bracknell Forest || Bracknell Forest Borough Council || PublicAccess - using https || https://my.bracknell-forest.gov.uk/publicaccess/tdc/DcApplication/application_searchform.aspx ||
 || Done || Bradford || City of Bradford Metropolitan District Council || PublicAccess || http://www.planning4bradford.com/tdc/DcApplication/application_searchform.aspx ||
