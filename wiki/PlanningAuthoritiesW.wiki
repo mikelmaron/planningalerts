@@ -22,7 +22,7 @@
 ||  || West Lothian Council || Linlithgow || weekly lists as pdf || http://www.wlonline.org.uk/content/housing/planning/94575/1424627/?s=79277 ||
 || In progress || West Oxfordshire District Council || Witney || PlanningExplorer || http://planning.westoxon.gov.uk/MVM/Online/PL/home.aspx ||
 ||  || West Somerset District Council || Taunton || searchable by date || http://www.westsomersetonline.gov.uk/plan_search.asp?pid=622&area=2 ||
-||  || West Sussex County Council || Chichester || searchable by date registered || http://eplanning.westsussex.gov.uk/ePlanningOPS/searchPageLoad.do ||
+|| Done || West Sussex County Council || Chichester || AtriumePlanning || http://eplanning.westsussex.gov.uk/ePlanningOPS/searchPageLoad.do ||
 || Done || West Wiltshire District Council || Trowbridge || PublicAccess || http://planning.westwiltshire.gov.uk/publicaccess/ ||
 ||  || Westminster City Council || LONDON || searchable by date registered, WAM || http://www3.westminster.gov.uk/planningapplications/currentsearch-form.cfm, http://idocs.westminster.gov.uk:8080/WAM/search/pas/index.htm ||
 ||  || Weymouth & Portland Borough Council || Weymouth || last 28 days planning apps in html || http://www.weymouth.gov.uk/Planning/applications/newapps.asp?svid=212 ||
