@@ -1,11 +1,12 @@
 = Scrapers being worked on =
 
-  * Bolton (Duncan) - AcolNet - not looked at yet.
   * Bridgnorth (Duncan) - AcolNet. implemented, but returns error 400 when accessed by script
   * Cambridgeshire (Duncan) - AcolNet. no advanced search page - will need some work
   * Canterbury (Duncan) - AcolNet. results table is different from usual format
+  * Dorset (Duncan) AtriumePlanning, but site is down.
   * Guildford (Duncan) - AcolNet, but odd.
   * Isle of Man (Dan)
+  * Somerset (Duncan) - AtriumePlanning, but site is down.
   * Surrey Heath (Duncan) - AcolNet - The problem here looks like it might be cookie and javascript related.
   * Wychavon (Duncan) - an AcolNet site, but slightly odd.
 
