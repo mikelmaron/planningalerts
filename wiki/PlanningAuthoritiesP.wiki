@@ -5,7 +5,7 @@
 || || Penwith District Council || Penzance || planning applications organised by year (in html) || http://www.penwith.gov.uk/index.cfm?articleid=7088 ||
 || Done || Perth & Kinross Council || Perth || PublicAccess || http://193.63.61.22/publicaccess/ ||
 || Done || Peterborough City Council || Peterborough || PublicAccess || ||
-|| || Plymouth City Council || Plymouth || searchable by date || http://www.plymouth.gov.uk/planningonline?innoLink=http://www.plymouth.gov.uk/planningapplications2/search.asp ||
+|| || Plymouth City Council || Plymouth || searchable by date || http://www.plymouth.gov.uk/planningapplications2/search.asp ||
 || || Poole Borough Council || Poole || weekly lists || http://wam.boroughofpoole.com/WAM/search/pas/index.htm ||
 || Done || Portsmouth City Council || Portsmouth || PublicAccess || 
 || || Powys County Council || Brecon, Llandrindod Wells, Welshpool || very little of use. || http://www.powys.gov.uk/index.php?id=75 || 
