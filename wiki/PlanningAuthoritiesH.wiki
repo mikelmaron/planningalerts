@@ -16,11 +16,11 @@
 ||  || Havering Borough Council || Romford || searchable by date || http://lxop01.havering.gov.uk:7783/portal/page?_pageid=33,30979&_dad=portal&_schema=PORTAL ||
 ||  || Herefordshire Council || Hereford || searchable by date || http://www.herefordshire.gov.uk/gis/planQuery.aspx ||
 ||  || Hertfordshire County Council || Hertford || waste and minerals only, not online || http://www.hertsdirect.org/yrccouncil/hcc/env/hdp/ ||
-|| Ready || Hertsmere Borough Council || Borehamwood || AcolNet ||  http://www2.hertsmere.gov.uk/ACOLNET/DCOnline//acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
+|| Done || Hertsmere Borough Council || Borehamwood || AcolNet ||  http://www2.hertsmere.gov.uk/ACOLNET/DCOnline//acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 || Done || High Peak Borough Council || Glossop || ApplicationSearchServlet || http://planning.highpeak.gov.uk/portal/servlets/ApplicationSearchServlet ||
 ||  || Highland Council || Dingwall, Dornoch, etc || weekly lists as pdf || http://www.highland.gov.uk/yourenvironment/planning/planningapplicationsandbuildingwarrants/weekly-planning-bw-lists.htm ||
 ||  || Hillingdon Borough Council || Uxbridge || searchable by date || http://www.hillingdon.gov.uk/environment/planning/search/index.php?portal=as&height=768 ||
-|| Ready || Hinckley and Bosworth Borough Council || Hinckley || PublicAccess using https || https://cx.hinckley-bosworth.gov.uk/PublicAccess/dc/dc_home.aspx ||
+|| Done || Hinckley and Bosworth Borough Council || Hinckley || PublicAccess using https || https://cx.hinckley-bosworth.gov.uk/PublicAccess/dc/dc_home.aspx ||
 || Done || Horsham District Council || Horsham || PublicAccess || http://publicaccess.horsham.gov.uk/publicaccess/tdc/tdc_home.aspx ||
 ||  || London Borough of Hounslow || Hounslow || searchable by date || http://planning.hounslow.gov.uk/planningv2/planning_search.aspx ||
 || Done || Huntingdonshire District Council || Huntingdon || PublicAccess || http://planning.huntsdc.gov.uk/publicaccess/tdc/tdc_home.aspx ||
