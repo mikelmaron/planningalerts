@@ -18,7 +18,7 @@
 || || North Lanarkshire Council || Cumbernauld || list for the last week in html || http://www.northlan.gov.uk/business+and+employment/planning/planning+applications/weekly+list+of+planning+applications+week+ending+14th+may+2007.html ||
 || || North Lincolnshire || Scunthorpe || PlanetApplicationEnquiry || http://www.planning.northlincs.gov.uk/planet/ispforms.asp?ServiceKey=SysDoc-PlanetApplicationEnquiry ||
 || || North Norfolk District Council || North Norfolk || no date search || https://www.northnorfolk.org/cgi-bin/publiclivedb.15000.exe/pl/pp7010.ad ||
-|| || North Shropshire District Council || Wem || page is down || http://www.northshropshiredc.gov.uk/static/page861.htm ||
+|| || North Shropshire District Council || Wem || Daily pdfs || http://www.northshropshiredc.gov.uk/static/page1048.htm ||
 || || North Somerset Council || Weston-super-Mare || weekly lists in html || http://212.158.113.30/WAM/search/pas/index.htm ||
 || Done || North Tyneside || Newcastle Upon Tyne || PublicAccess || http://publicaccess.northtyneside.gov.uk/PublicAccess/tdc/DcApplication/application_searchform.aspx ||
 || Done || North Warwickshire Borough Council || Atherstone || ApplicationSearchServlet|| http://planning.northwarks.gov.uk/portal/servlets/WeeklyListServlet ||
