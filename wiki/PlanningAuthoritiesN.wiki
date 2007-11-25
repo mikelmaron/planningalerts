@@ -6,7 +6,7 @@
 || Done || Newcastle-under-Lyme Borough Council || Newcastle-under-Lyme || PublicAccess || ||
 || Done || Newham Borough Council || East Ham || PublicAccess || ||
 || || Newport City Council || Newport || weekly lists as pdf || http://www.newport.gov.uk/_dc/index.cfm?fuseaction=planapps.applist ||
-|| || Norfolk County Council || Norwich || currently down || http://ptweb.norfolk.gov.uk/planning_applications/ ||
+|| || Norfolk County Council || Norwich || Minerals and waste only. All current apps in html || http://ptweb.norfolk.gov.uk/planning_applications/read/show.asp?Decision=CURRENT&Type=W&Submit=Submit ||
 || || North Ayrshire Council || Irvine || weekly lists as pdf || http://www.north-ayrshire.gov.uk/na/Home.nsf/OtherMenuPage?ReadForm&MenuType=Environment-Planning&DocDisplay=NoDoc&CatLevel=2|| ||
 || || North Cornwall District Council || Bodmin, Wadebridge || searchable by date || http://onlineplanning.ncdc.gov.uk/eaccess/Planning/Planning-application-and-property-Search/Application-Search/Application-Search.asp ||
 || || North Devon District Council || Barnstaple || searchable by date || http://planning.northdevon.gov.uk/search.asp ||
