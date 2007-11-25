@@ -3,9 +3,9 @@
 ||  || Tandridge District Council || Oxted || searchable by date || http://e-access.tandridge.gov.uk/planning/Planning-Registers/weeklylist/weekly-list.asp ||
 ||  || Taunton Deane Borough Council || Taunton || weekly lists as pdf. Search with no date || http://www.tauntondeane.gov.uk/tdbcsites/plan/index.asp ||
 ||  || Teesdale District Council || Barnard Castle || searchable by date received || http://teesdale.planning-register.co.uk/ ||
-|| Ready || Teignbridge District Council || Newton Abbot || PublicAccess || http://213.152.63.161/publicaccess/ ||
+|| Done || Teignbridge District Council || Newton Abbot || PublicAccess || http://213.152.63.161/publicaccess/ ||
 ||  || Telford & Wrekin Council || Telford || weekly lists in html || http://www.telford.gov.uk/apps/planningapplications/planningapplicationlist.asp?year=2007 ||
-|| Ready || Tendring District Council || Weeley || PublicAccess || http://195.99.151.54/publicaccess/propdb/property/property_searchform.aspx?module=P3 ||
+|| Done || Tendring District Council || Weeley || PublicAccess || http://195.99.151.54/publicaccess/propdb/property/property_searchform.aspx?module=P3 ||
 || Done || Test Valley Borough Council || Andover,  Romsey || PublicAccess || http://publicaccess.testvalley.gov.uk/publicaccess/tdc/tdc_home.aspx ||
 ||  || Tewkesbury Borough Council || Tewkesbury || searchable by date || http://planning.tewkesbury.gov.uk/Planet/ispforms.asp?serviceKey=07WCC04163103430 ||
 ||  || Thanet District Council || Margate || ukplanning || http://www.ukplanning.com/ukp/custom/forwards/selectandsearch.jsp?council=Thanet%20District%20Council&fwd=search/ ||
