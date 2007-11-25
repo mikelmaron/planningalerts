@@ -24,5 +24,5 @@
 || Done || Epsom & Ewell Borough Council || Epsom || PublicAccess || http://eplanning.epsom-ewell.gov.uk/publicaccess/tdc/DcApplication/application_searchform.aspx ||
 ||  || Erewash Borough Council || Nottingham || weekly lists as pdf - latest apps as html || http://www.erewashbc.org.uk/planning/index.asp ||
 ||  || Essex County Council || Chelmsford || site was down when I checked || ||
-||  || Exeter City Council || Exeter || site was down when I checked || http://www.exeter.gov.uk/index.aspx?articleid=3467 ||
+||  || Exeter City Council || Exeter || AcolNet || http://pub.exeter.gov.uk/scripts/acolnet/dataonlineplanning/AcolnetCGI.gov?agreeprint=I+AGREE+ ||
 ||  || Exmoor National Park Authority || Dulverton || weekly lists as html || http://www.exmoor-nationalpark.gov.uk/planning_application_search_week_ending.htm ||
