@@ -13,6 +13,13 @@ PlanIT (urls contain planning_search.aspx):
 Is there a group with urls like this?
 http://sun11.nelincs.gov.uk/portal/page?_pageid=256,32885&_dad=portal&_schema=PORTAL
 
+  * Breckland
+  * Castle Point
+  * Ellesmere Port
+  * Havering
+  * Middlesborough
+  * North East Lincolnshire
+
 PAM:
 
   * Windsor & Maidenhead Borough Council
