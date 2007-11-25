@@ -1,4 +1,4 @@
-|| Ready || Gateshead Council || Gateshead || PublicAccess || http://planning.gateshead.gov.uk/publicaccess/ ||
+|| Done || Gateshead Council || Gateshead || PublicAccess || http://planning.gateshead.gov.uk/publicaccess/ ||
 || Done || Gedling Borough Council || Nottingham || PublicAccess || http://publicaccess.gedling.gov.uk/publicaccess/tdc/tdc_home.aspx ||
 ||  || Glasgow City Council || Glasgow || weekly lists as pdf || http://www.glasgow.gov.uk/en/Business/Planning_Development/DevelopmentControl/Sitehistorysearches/ ||
 || Done || Gloucester City Council || Gloucester || PublicAccess || http://www.glcstrplnng11.co.uk/publicaccess/ ||
