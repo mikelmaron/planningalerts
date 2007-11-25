@@ -55,7 +55,7 @@
 || Ready || Stratford-on-Avon District Council || Stratford-upon-Avon || PublicAccess || http://217.33.198.119/publicaccess/default.aspx ||
 || || Stroud District Council || Stroud || searchable by date, or weekly list || http://www.stroud.gov.uk/docs/planning/planning_application_search.asp?did=onlineplanapps ||
 || Done || Suffolk Coastal District Council || Woodbridge || AcolNet (URL changed 11/2007)|| http://apps3.suffolkcoastal.gov.uk/DCDataV2/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
-|| || Suffolk County Council || Ipswich || site is down || http://www.eplanning.suffolk.gov.uk/ePlanningOPS/index.jsp ||
+|| || Suffolk County Council || Ipswich || AtriumePlanning || http://atrium.suffolkcc.gov.uk/ePlanning/searchPageLoad.do ||
 || Done || Sunderland City Council || Sunderland || PublicAccess || http://www.sunderland.gov.uk/publicaccess/ ||
 || || Surrey County Council || Kingston upon Thames || can get links to all current applications by searching with blank box || http://www1.surreycc.gov.uk/mwplan/search.cfm ||
 || In progress || Surrey Heath Borough Council || Camberley || AcolNet, but stuck behind a javascript redirect and cookies || https://www.public.surreyheath-online.gov.uk/whalecom60b1ef305f59f921/whalecom0/Scripts/PlanningPagesOnline/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
