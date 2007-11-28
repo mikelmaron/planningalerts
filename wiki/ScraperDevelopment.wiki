@@ -17,6 +17,7 @@
   * Hambleton (Duncan) - works for browser - empty results for script
   * Moray - empty database
   * Newcastle (not timing out today) - forbidden.
+  * Sheffield - database was full, but is now empty (28/11/2007)
   * Stratford - connection refused
   * Winchester - site is broken
   * Wolverhampton (empty database)
