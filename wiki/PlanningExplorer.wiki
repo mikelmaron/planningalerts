@@ -12,7 +12,7 @@ We have scrapers for a couple of these (Camden and Hackney)
   * Forest Heath
   * Hackney - done
   * Kennet
-  * Lincoln
+  * Lincoln (also WAM)
   * Liverpool (not quite like the others)
   * Merton (site down)
   * Shrewsbury
