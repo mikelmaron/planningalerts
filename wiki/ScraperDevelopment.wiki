@@ -20,7 +20,7 @@
 
 = Scrapes done, but sites/scrapers broken =
   * Dacorum (always returns no applications)
-  * Durham (Duncan) - site is broken
+  * Durham (Duncan) - works for browser - empty results for script
   * Hambleton (Duncan) - works for browser - empty results for script
   * Moray - empty database
   * Newcastle (not timing out today) - forbidden.
