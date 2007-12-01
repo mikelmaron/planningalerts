@@ -3,25 +3,25 @@
 We have scrapers for a couple of these (Camden and Hackney)
 
   * Blackburn
-  * Broadland
+  * Broadland (no postcodes)
   * Camden - done
   * Charnwood
   * Crewe and Nantwich
   * East Staffordshire
   * Epping Forest
-  * Forest Heath
+  * Forest Heath (no postcodes)
   * Hackney - done
   * Kennet
   * Lincoln (also WAM)
   * Liverpool (not quite like the others)
   * Merton (site down)
-  * Shrewsbury
-  * South Norfolk (appears to have WAM as well)
+  * Shrewsbury (site is broken)
+  * South Norfolk (appears to have WAM as well) (PlanningExplorer site is broken...)
   * South Shropshire
   * South Tyneside
   * Stockport
   * Swansea
   * Tamworth
-  * Trafford
-  * Waltham Forest
-  * West Oxfordshire
+  * Trafford (no postcodes)
+  * Waltham Forest (currently giving an error)
+  * West Oxfordshire (no postcodes)
