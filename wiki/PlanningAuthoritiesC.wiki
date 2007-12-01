@@ -1,6 +1,6 @@
 || || *Caerphilly* || Caerphilly County Borough Council || weekly lists as PDFs || http://www.caerphilly.gov.uk/yourservices/planning/planningbulletin/index.htm ||
 || || *Calderdale* ||  Calderdale Metropolitan Borough Council ||search by date, also last  7 days as html || http://www.calderdale.gov.uk/environment/planning/search-applications/index.jsp ||
-|| done || Cambridge ||  Cambridge City Council || PublicAccess|| http://www.cambridge.gov.uk/publicaccess/tdc/tdc_home.aspx ||
+|| Done || Cambridge ||  Cambridge City Council || PublicAccess|| http://www.cambridge.gov.uk/publicaccess/tdc/tdc_home.aspx ||
 || In progress || *Cambridgeshire* ||  Cambridgeshire County Council || AcolNet || http://planapps.cambridgeshire.gov.uk/scripts/acolnet/acolnetcgi.exe? ||
 || Done || Camden ||  London Borough of Camden || PlanningExplorer, and WAM - we now have a scraper for each || http://www.camden.gov.uk/ccm/navigation/environment/planning-and-built-environment ||
 || || *Cannock* ||  Cannock Chase District Council || monthly application lists || http://www.cannockchasedc.gov.uk/site/scripts/documents_info.php?documentID=347&pageNumber=2 ||
@@ -14,7 +14,7 @@
 || ||  *Castle Point* ||   Castle Point Borough Council  || searchable by date || http://planning.castlepoint.gov.uk/servlet/page?_pageid=77&_dad=portal30&_schema=PORTAL30 ||
 || ||  *Ceredigion* ||   Ceredigion County Council  || Excel files by date! || http://www.ceredigion.gov.uk/index.cfm?articleid=3125 ||
 || Done || Charnwood ||    Charnwood Borough Council  || PlanningExplorer || http://portal.charnwoodbc.gov.uk/MVM/Online/PL/Home.aspx ||
-|| Done ||  *Chelmsford* || Chelmsford Borough Council || PublicAccess || http://web1.chelmsfordbc.gov.uk/publicaccess/ ||
+|| Done ||  Chelmsford || Chelmsford Borough Council || PublicAccess || http://web1.chelmsfordbc.gov.uk/publicaccess/ ||
 || Done ||  Cheltenham ||   Cheltenham Borough Council  || PublicAccess || http://planning.cheltenham.gov.uk/publicaccess/ ||
 || Done ||  Cherwell ||    Cherwell District Council  || PublicAccess || http://cherweb.cherwell-dc.gov.uk/publicaccess/default.aspx ||
 ||  ||  *Cheshire* ||   Cheshire County Council  || PDFs, usefullish urls || http://www.cheshire.gov.uk/Planning/Planning%20Applications.htm ||
@@ -29,15 +29,15 @@
 ||  ||  *Clackmannanshire* ||   Clackmannanshire Council || Searchable by date || http://www.clacksweb.org.uk/property/planningregister/ ||
 ||  || *Colchester* ||  Colchester Borough Council || Weekly and Monthly lists - database appears to be empty... || http://www.planning.colchester.gov.uk/WAM/searchsubmit/performOption.do?action=search ||
 ||  ||  *Comhairle nan Eilean Siar* || Stornaway || Weekly lists in html - nice easy looking format || http://www.cne-siar.gov.uk/planapps/april2007.htm ||
-||  || Congleton Borough Council || Congleton || Weekly lists as pdf || http://www.congleton.gov.uk/?t=589 ||
-||  || Conwy County Borough Council || Conwy || Weekly lists as pdf (password "George" on the pdfs) || http://www.conwy.gov.uk/section.asp?cat=1536 ||
-||  || Copeland Borough Council || Copeland || Weekly lists as pdf || http://www.copelandbc.gov.uk/main.asp?page=2888 ||
+||  || *Congleton Borough Council* || Congleton || Weekly lists as pdf || http://www.congleton.gov.uk/?t=589 ||
+||  || *Conwy County Borough Council* || Conwy || Weekly lists as pdf (password "George" on the pdfs) || http://www.conwy.gov.uk/section.asp?cat=1536 ||
+||  || *Copeland Borough Council* || Copeland || Weekly lists as pdf || http://www.copelandbc.gov.uk/main.asp?page=2888 ||
 || Done || Corby Borough Council || Corby || PublicAccess || https://publicaccess.corby.gov.uk/publicaccess/ ||
 || Done || Cornwall County Council || Cornwall || PublicAccess || http://planapps.cornwall.gov.uk/publicaccess/ ||
-|| || Costwold District Council || Cotswold || Weekly and monthly lists in html || http://www.cotswold.gov.uk/nqcontent.cfm?a_id=2297&tt=cotswold ||
+|| || *Costwold District Council* || Cotswold || Weekly and monthly lists in html || http://www.cotswold.gov.uk/nqcontent.cfm?a_id=2297&tt=cotswold ||
 || Done || Coventry City Council || Coventry || ApplicationSearchServlet || http://planning.coventry.gov.uk/portal/servlets/ApplicationSearchServlet ||
 || Done || Craven District Council || Craven || FastWeb || http://www.planning.cravendc.gov.uk/fastweb/results.asp ||
 ||  || Crawley Borough Council || Crawley || searchable by date received || http://www.crawley.gov.uk/stellent/idcplg?IdcService=SS_GET_PAGE&nodeId=560 ||
-||  || Crewe and Nantwich Borough Council || Crewe and Nantwich || PlanningExplorer || http://portal.crewe-nantwich.gov.uk/MVM/Online/PL/GeneralSearch.aspx ||
+|| Done || Crewe and Nantwich Borough Council || Crewe and Nantwich || PlanningExplorer || http://portal.crewe-nantwich.gov.uk/MVM/Online/PL/GeneralSearch.aspx ||
 || Done || Croydon (London Borough of ) || Croydon || AcolNet || http://planning.croydon.gov.uk/DCWebPages/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 || Done || Cumbria County Council || Cumbria || AtriumePlanning || http://217.114.50.149:7778/ePlanning/searchPageLoad.do ||
