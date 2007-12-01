@@ -5,7 +5,7 @@ We have scrapers for a couple of these (Camden and Hackney)
   * Blackburn
   * Broadland (no postcodes)
   * Camden - done (has OSGB)
-  * Charnwood
+  * Charnwood (done, but site has a problem with its info links)
   * Crewe and Nantwich
   * East Staffordshire
   * Epping Forest
