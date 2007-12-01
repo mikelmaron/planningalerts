@@ -1,24 +1,24 @@
-|| Done || Reading Borough Council || Reading || PublicAccess || http://planning.reading.gov.uk/publicaccess/default.aspx ||
-|| || London Borough of Redbridge || Ilford || Weekly lists as pdf || http://www.redbridge.gov.uk/planning/Planappsrec.cfm ||
-|| || Redcar & Cleveland Borough Council || Redcar || list of all current apps as html || http://www.redcar-cleveland.gov.uk/Planning.nsf/ViewWebApplicationsByDate?readform ||
-|| Done || Redditch Borough Council || Redditch || PublicAccess || http://access.redditchbc.gov.uk/publicaccess/default.aspx ||
-|| || Reigate & Banstead Borough Council || Reigate || Planit - searchable by date || http://www.reigate-banstead.gov.uk/planit03.asp ||
-|| Done || Renfrewshire Council || Paisley || AcolNet || http://planning.renfrewshire.gov.uk/acolnetDCpages/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.PgeSearch ||
-|| || Restormel Borough Council || St. Austell || searchable by date || http://www.restormel.gov.uk/index.cfm?articleid=11668 ||
-|| || Rhondda Cynnon Taf County Borough Council || Pontypridd || weekly lists as pdf - a bit behind || http://www.rhondda-cynon-taff.gov.uk/stellent/groups/public/documents/hcst/content.hcst?lang=en&textonly=false&xNodeID=608 ||
-|| || Ribble Valley Borough Council || Clitheroe || weekly lists as pdf || http://www.ribblevalley.gov.uk/site/scripts/documents_info.php?documentID=386&pageNumber=1 ||
-|| || London Borough of Richmond || Richmond || searchable by date || http://www2.richmond.gov.uk/PlanData2/Planning_Search.aspx ||
+|| Done || Reading || Reading || PublicAccess || http://planning.reading.gov.uk/publicaccess/default.aspx ||
+|| || *Redbridge* || Ilford || Weekly lists as pdf || http://www.redbridge.gov.uk/planning/Planappsrec.cfm ||
+|| || *Redcar & Cleveland* || Redcar || list of all current apps as html || http://www.redcar-cleveland.gov.uk/Planning.nsf/ViewWebApplicationsByDate?readform ||
+|| Done || Redditch || Redditch || PublicAccess || http://access.redditchbc.gov.uk/publicaccess/default.aspx ||
+|| || *Reigate & Banstead* || Reigate || Planit - searchable by date || http://www.reigate-banstead.gov.uk/planit03.asp ||
+|| Done || Renfrewshire || Paisley || AcolNet || http://planning.renfrewshire.gov.uk/acolnetDCpages/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.PgeSearch ||
+|| || *Restormel* || St. Austell || searchable by date || http://www.restormel.gov.uk/index.cfm?articleid=11668 ||
+|| || *Rhondda Cynnon Taf County* || Pontypridd || weekly lists as pdf - a bit behind || http://www.rhondda-cynon-taff.gov.uk/stellent/groups/public/documents/hcst/content.hcst?lang=en&textonly=false&xNodeID=608 ||
+|| || *Ribble Valley* || Clitheroe || weekly lists as pdf || http://www.ribblevalley.gov.uk/site/scripts/documents_info.php?documentID=386&pageNumber=1 ||
+|| || *Richmond (London Borough)* || Richmond || searchable by date || http://www2.richmond.gov.uk/PlanData2/Planning_Search.aspx ||
 || Done || Richmondshire District Council || Richmond || PublicAccess || http://publicaccess.richmondshire.gov.uk/publicaccess/ ||
-|| || Rochdale Metropolitan Borough Council || Rochdale || searchable by date || http://www.rochdale.gov.uk/swiftlg/apas/run/wphappcriteria.display ||
-|| Done || Rochford District Council || Rochford || PublicAccess || http://www.rochford.gov.uk/PublicAccess/ ||
-|| || Rossendale Borough Council || Bacup || weekly lists as pdf || http://www.rossendale.gov.uk/site/scripts/download_info.php?downloadID=179 ||
-|| || Rother District Council || Bexhill || weekly lists in html || http://www.planning.rother.gov.uk/WAM/search/pas/index.htm ||
-|| || Rotherham Borough Council || Rotherham || weekly lists as pdf || http://www.rotherham.gov.uk/graphics/YourHome/Planning/Development+Control/Weekly+Planning+Applications/ ||
-|| || Rugby Borough Council || Rugby || down for maintenance || http://www.rugby.gov.uk/site/scripts/documents_info.php?documentID=1122 ||
-|| || Runnymede Borough Council || Addlestone || weekly lists as html || http://ww2.runnymede.gov.uk/home/latest/wklyplanapps/wklyplanapps.asp ||
-|| || Rushcliffe Borough Council || West Bridgford || Blueprint - searchable by date || http://www.document1.co.uk/blueprint/AdvSearch.asp ||
-|| Done || Rushmoor Borough Council || Farnborough || PublicAccess || http://pa-dc.rushmoor.gov.uk/publicaccess/ ||
-|| Done || Rutland County Council || Oakham || RutlandLike || http://www.rutland.gov.uk/wellandplanning/searchparam.asp ||
-|| || Ryedale District Council || Malton || PlanetApplicationEnquiry || http://www.ryedale.gov.uk/ispforms.asp?serviceKey=SysDoc-PlanetApplicationEnquiry ||
+|| || *Rochdale* || Rochdale || searchable by date || http://www.rochdale.gov.uk/swiftlg/apas/run/wphappcriteria.display ||
+|| Done || Rochford || Rochford || PublicAccess || http://www.rochford.gov.uk/PublicAccess/ ||
+|| || *Rossendale* || Bacup || weekly lists as pdf || http://www.rossendale.gov.uk/site/scripts/download_info.php?downloadID=179 ||
+|| || *Rother* || Bexhill || weekly lists in html || http://www.planning.rother.gov.uk/WAM/search/pas/index.htm ||
+|| || *Rotherham* || Rotherham || weekly lists as pdf || http://www.rotherham.gov.uk/graphics/YourHome/Planning/Development+Control/Weekly+Planning+Applications/ ||
+|| || *Rugby* || Rugby || down for maintenance || http://www.rugby.gov.uk/site/scripts/documents_info.php?documentID=1122 ||
+|| || *Runnymede* || Addlestone || weekly lists as html || http://ww2.runnymede.gov.uk/home/latest/wklyplanapps/wklyplanapps.asp ||
+|| || *Rushcliffe* || West Bridgford || Blueprint - searchable by date || http://www.document1.co.uk/blueprint/AdvSearch.asp ||
+|| Done || Rushmoor || Farnborough || PublicAccess || http://pa-dc.rushmoor.gov.uk/publicaccess/ ||
+|| Done || Rutland || Oakham || RutlandLike || http://www.rutland.gov.uk/wellandplanning/searchparam.asp ||
+|| || *Ryedale* || Malton || PlanetApplicationEnquiry || http://www.ryedale.gov.uk/ispforms.asp?serviceKey=SysDoc-PlanetApplicationEnquiry ||
  
  
