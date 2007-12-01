@@ -10,7 +10,7 @@ We have scrapers for a couple of these (Camden and Hackney)
   * East Staffordshire
   * Epping Forest
   * Forest Heath (no postcodes)
-  * Hackney - done (need paging)
+  * Hackney - done
   * Kennet
   * Lincoln (also WAM)
   * Liverpool
