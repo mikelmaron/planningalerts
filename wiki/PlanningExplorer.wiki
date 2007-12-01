@@ -16,7 +16,7 @@ We have scrapers for a couple of these (Camden and Hackney)
   * Liverpool (not quite like the others)
   * Merton (site down)
   * Shrewsbury (site is broken)
-  * South Norfolk (appears to have WAM as well) (PlanningExplorer site is broken...)
+  * South Norfolk (appears to have WAM as well) (No postcodes - but has OSGB coords)
   * South Shropshire
   * South Tyneside
   * Stockport
