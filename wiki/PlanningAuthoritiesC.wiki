@@ -2,7 +2,7 @@
 || || *Calderdale* ||  Calderdale Metropolitan Borough Council ||search by date, also last  7 days as html || http://www.calderdale.gov.uk/environment/planning/search-applications/index.jsp ||
 || done || Cambridge ||  Cambridge City Council || PublicAccess|| http://www.cambridge.gov.uk/publicaccess/tdc/tdc_home.aspx ||
 || In progress || *Cambridgeshire* ||  Cambridgeshire County Council || AcolNet || http://planapps.cambridgeshire.gov.uk/scripts/acolnet/acolnetcgi.exe? ||
-|| Done || Camden ||  London Borough of Camden || PlanningExplorer || http://www.camden.gov.uk/ccm/navigation/environment/planning-and-built-environment ||
+|| Done || Camden ||  London Borough of Camden || PlanningExplorer, and WAM - we now have a scraper for each || http://www.camden.gov.uk/ccm/navigation/environment/planning-and-built-environment ||
 || || *Cannock* ||  Cannock Chase District Council || monthly application lists || http://www.cannockchasedc.gov.uk/site/scripts/documents_info.php?documentID=347&pageNumber=2 ||
 || In progress || *Canterbury* ||  Canterbury City Council  || AcolNet || http://planning.canterbury.gov.uk/scripts/acolnetcgi.exe ||
 || Done || Caradon ||   Caradon District Council  || PublicAccess || http://publicaccess.caradon.gov.uk/publicaccess/ ||
@@ -13,7 +13,7 @@
 || || *Castle Morpeth* ||    Castle Morpeth Borough Council  || searchable by date || http://www.castlemorpeth.gov.uk/addon/planningapps/search.asp ||
 || ||  *Castle Point* ||   Castle Point Borough Council  || searchable by date || http://planning.castlepoint.gov.uk/servlet/page?_pageid=77&_dad=portal30&_schema=PORTAL30 ||
 || ||  *Ceredigion* ||   Ceredigion County Council  || Excel files by date! || http://www.ceredigion.gov.uk/index.cfm?articleid=3125 ||
-|| ||  *Charnwood* ||    Charnwood Borough Council  || PlanningExplorer || http://portal.charnwoodbc.gov.uk/MVM/Online/PL/Home.aspx ||
+|| Done || Charnwood ||    Charnwood Borough Council  || PlanningExplorer || http://portal.charnwoodbc.gov.uk/MVM/Online/PL/Home.aspx ||
 || Done ||  *Chelmsford* || Chelmsford Borough Council || PublicAccess || http://web1.chelmsfordbc.gov.uk/publicaccess/ ||
 || Done ||  Cheltenham ||   Cheltenham Borough Council  || PublicAccess || http://planning.cheltenham.gov.uk/publicaccess/ ||
 || Done ||  Cherwell ||    Cherwell District Council  || PublicAccess || http://cherweb.cherwell-dc.gov.uk/publicaccess/default.aspx ||
