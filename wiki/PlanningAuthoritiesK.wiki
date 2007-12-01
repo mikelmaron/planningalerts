@@ -1,11 +1,11 @@
-||  || Kennet District Council || Devizes || PlanningExplorer || http://mvm-planning.kennet.gov.uk/MVM/Online/PL/NotDecidedSearch.aspx ||
-||  || Kensington & Chelsea Borough Council || London || weekly lists - looks like it could be related to AcolNet || http://www.rbkc.gov.uk/Planning/scripts/weeklyform.asp || 
-||  || Kent County Council || Maidstone || weekly lists as pdf || http://www.kent.gov.uk/publications/environment/weekly-planning-list.htm ||
+|| Done || Kennet District Council || Devizes || PlanningExplorer || http://mvm-planning.kennet.gov.uk/MVM/Online/PL/NotDecidedSearch.aspx ||
+||  || *Kensington & Chelsea Borough Council* || London || weekly lists - looks like it could be related to AcolNet || http://www.rbkc.gov.uk/Planning/scripts/weeklyform.asp || 
+||  || *Kent County Council* || Maidstone || weekly lists as pdf || http://www.kent.gov.uk/publications/environment/weekly-planning-list.htm ||
 || Done || Kerrier District Council || Camborne || PublicAccess || || ||
-||  || Kettering Borough Council || Kettering || weekly list, search facility without date || http://www.kettering.gov.uk/site/scripts/planning_list.php?weeklyList=true ||
+||  || *Kettering Borough Council* || Kettering || weekly list, search facility without date || http://www.kettering.gov.uk/site/scripts/planning_list.php?weeklyList=true ||
 || Done || King's Lynn & West Norfolk Borough Council || King's Lynn || PublicAccess || http://online.west-norfolk.gov.uk/publicaccess/tdc/DcApplication/application_searchform.aspx ||
 || Done || Kingston upon Hull City Council || Hull || PublicAccess || http://web.hullcc.gov.uk/publicaccess/tdc/DcApplication/application_searchform.aspx || 
-||  || Kingston-upon-Thames Borough Council || Kingston upon Thames || searchable by date || http://maps.kingston.gov.uk/planning/planning_search.aspx ||
-||  || Kirklees Metropolitan Council || Huddersfield || searchable by date || 	http://www.kirklees.gov.uk/business/planning/planning.asp ||
+||  || *Kingston-upon-Thames Borough Council* || Kingston upon Thames || searchable by date || http://maps.kingston.gov.uk/planning/planning_search.aspx ||
+||  || *Kirklees Metropolitan Council* || Huddersfield || searchable by date || 	http://www.kirklees.gov.uk/business/planning/planning.asp ||
 || Done || Knowsley Metropolitan Borough Council || Huyton || PublicAccess || http://publicaccess.knowsley.gov.uk/PublicAccess/tdc/DcApplication/application_searchform.aspx ||
 	
