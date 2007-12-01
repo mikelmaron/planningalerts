@@ -10,9 +10,16 @@
   * Surrey Heath (Duncan) - AcolNet - The problem here looks like it might be cookie and javascript related.
   * Wychavon (Duncan) - an AcolNet site, but slightly odd.
 
+= Scrapers done, but no postcodes
+  * Broadland
+  * Derby
+  * Forest Heath
+  * South Norfolk
+  * Trafford
+  * West Oxfordshire
+
 = Scrapes done, but sites/scrapers broken =
   * Dacorum (always returns no applications)
-  * Derby (no postcodes)
   * Durham (Duncan) - site is broken
   * Hambleton (Duncan) - works for browser - empty results for script
   * Moray - empty database
