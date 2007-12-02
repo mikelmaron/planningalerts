@@ -9,7 +9,7 @@
 || || *Ribble Valley* || Clitheroe || weekly lists as pdf || http://www.ribblevalley.gov.uk/site/scripts/documents_info.php?documentID=386&pageNumber=1 ||
 || || *Richmond (London Borough)* || Richmond || searchable by date || http://www2.richmond.gov.uk/PlanData2/Planning_Search.aspx ||
 || Done || Richmondshire District Council || Richmond || PublicAccess || http://publicaccess.richmondshire.gov.uk/publicaccess/ ||
-|| || *Rochdale* || Rochdale || searchable by date || http://www.rochdale.gov.uk/swiftlg/apas/run/wphappcriteria.display ||
+|| || *Rochdale* || Rochdale || [SwiftLG] || http://www.rochdale.gov.uk/swiftlg/apas/run/wphappcriteria.display ||
 || Done || Rochford || Rochford || PublicAccess || http://www.rochford.gov.uk/PublicAccess/ ||
 || || *Rossendale* || Bacup || weekly lists as pdf || http://www.rossendale.gov.uk/site/scripts/download_info.php?downloadID=179 ||
 || || *Rother* || Bexhill || weekly lists in html || http://www.planning.rother.gov.uk/WAM/search/pas/index.htm ||
