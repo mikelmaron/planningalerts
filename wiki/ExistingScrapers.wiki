@@ -16,9 +16,7 @@ Types of site for which we have scrapers written
 Others:
 
   * Broxbourne - Tom's Scraper
-  * East Hertfordshire
   * Enfield
-  * Islington (like East Hertfordshire)
   * South Oxfordshire
   * Tower Hamlets
   * Walsall - Paul's Scraper
