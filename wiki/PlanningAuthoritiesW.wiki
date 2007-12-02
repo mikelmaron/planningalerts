@@ -24,7 +24,7 @@
 ||  || *West Somerset District Council* || Taunton || searchable by date || http://www.westsomersetonline.gov.uk/plan_search.asp?pid=622&area=2 ||
 || Done || West Sussex County Council || Chichester || AtriumePlanning || http://eplanning.westsussex.gov.uk/ePlanningOPS/searchPageLoad.do ||
 || Done || West Wiltshire District Council || Trowbridge || PublicAccess || http://planning.westwiltshire.gov.uk/publicaccess/ ||
-||  || *Westminster City Council* || LONDON || searchable by date registered, WAM || http://www3.westminster.gov.uk/planningapplications/currentsearch-form.cfm, http://idocs.westminster.gov.uk:8080/WAM/search/pas/index.htm ||
+||  || *Westminster City Council* || LONDON || [WAM] || http://www3.westminster.gov.uk/planningapplications/currentsearch-form.cfm, http://idocs.westminster.gov.uk:8080/WAM/search/pas/index.htm ||
 ||  || *Weymouth & Portland Borough Council* || Weymouth || last 28 days planning apps in html || http://www.weymouth.gov.uk/Planning/applications/newapps.asp?svid=212 ||
 ||  || *Wigan Metropolitan Borough Council* || Wigan || searchable by date received || http://kinnear.wigan.gov.uk/planapps/PlanAppsAppSearch.asp ||
 ||  || *Wiltshire County Council* || Trowbridge || plan-IT: searchable by date || http://www.wiltshireplanningapplications.co.uk/planning_search.aspx ||
