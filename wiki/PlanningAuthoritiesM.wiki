@@ -1,4 +1,4 @@
-||  || *Macclesfield Borough Council* || Macclesfield || [SwiftLG] - very slow to respond || http://www.planportal.macclesfield.gov.uk/swiftlg/apas/run/wphappcriteria.display ||
+|| Done || Macclesfield Borough Council || Macclesfield || [SwiftLG] - very slow to respond in browser, but fine for the scraper... || http://www.planportal.macclesfield.gov.uk/swiftlg/apas/run/wphappcriteria.display ||
 || Done || Maidstone Borough Council || Maidstone || [SwiftLG] || http://digitalmaidstone.co.uk/swiftlg/apas/run/wphappcriteria.display ||
 ||  || *Maldon District Council* || Maldon || searchable by date || http://forms.maldon.gov.uk:8080/PlanApp/jsp/searchPlan.jsp ||
 || Done || Malvern Hills District Council || Malvern || PublicAccess || ||
