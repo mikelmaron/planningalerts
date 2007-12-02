@@ -6,7 +6,7 @@
 || Done || Perth & Kinross || Perth || PublicAccess || http://193.63.61.22/publicaccess/ ||
 || Done || Peterborough || Peterborough || PublicAccess || ||
 || || *Plymouth* || Plymouth || searchable by date || http://www.plymouth.gov.uk/planningapplications2/search.asp ||
-|| || *Poole* || Poole || weekly lists || http://wam.boroughofpoole.com/WAM/search/pas/index.htm ||
+|| || *Poole* || Poole || [WAM] || http://wam.boroughofpoole.com/WAM/search/pas/index.htm ||
 || Done || Portsmouth || Portsmouth || PublicAccess || 
 || || *Powys* || Brecon, Llandrindod Wells, Welshpool || very little of use. || http://www.powys.gov.uk/index.php?id=75 || 
 || || *Preston* || Preston || weekly lists as pdf - hard to navigate|| http://www.preston.gov.uk/Category.asp?cat=1555 ||
