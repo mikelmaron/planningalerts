@@ -1,4 +1,4 @@
-||  || *Lake District National Park Authority* || Kendal || [SwiftLG] || http://www.lake-district.gov.uk/swiftlg/apas/run/wphappcriteria.display ||
+|| Done || Lake District National Park Authority || Kendal || [SwiftLG] || http://www.lake-district.gov.uk/swiftlg/apas/run/wphappcriteria.display ||
 || Done || Lambeth Borough Council || London || PublicAccess || http://planning.lambeth.gov.uk/publicaccess/default.aspx ||
 || Done || Lancaster City Council || Lancaster || PublicAccess || http://planapps.lancaster.gov.uk/publicaccess/tdc/DcApplication/application_searchform.aspx ||
 || Done || Leeds City Council || Leeds || PublicAccess || http://planningapplications.leeds.gov.uk/publicaccess/tdc/tdc_home.aspx ||
