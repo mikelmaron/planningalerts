@@ -15,7 +15,7 @@
 || Done || Torbay Council || Torquay || PublicAccess || http://www.torbay.gov.uk/publicaccess/ ||
 ||  || *Torfaen County Borough Council* || Cwmbran || weekly lists as word docs! || http://www.torfaen.gov.uk/en/living/index.php/mid=325~omid=172 ||
 || Done || Torridge District Council || Bideford || PublicAccess || http://www.torridge.gov.uk/publicaccess/tdc/DcApplication/application_searchform.aspx ||
-|| Done || Tower Hamlets Borough Council || London || WAM || http://194.201.98.213/WAM/searchsubmit/performOption.do?action=search ||
+|| Done || Tower Hamlets Borough Council || London || [WAM] || http://194.201.98.213/WAM/searchsubmit/performOption.do?action=search ||
 || Done || Trafford Metropolitan Borough Council || Trafford || PlanningExplorer || http://planning.trafford.gov.uk/MVM/Online/PL/GeneralSearch.aspx ||
 || Done || Tunbridge Wells Borough Council || Royal Tunbridge Wells || PublicAccess || http://secure.tunbridgewells.gov.uk/publicaccess/ ||
 ||  || *Tynedale District Council* || Hexham || searchable by date registered || http://www.tynedale.gov.uk/business/planappsummary.asp ||
