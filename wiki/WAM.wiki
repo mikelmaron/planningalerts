@@ -1,0 +1,14 @@
+
+    * Barking and Dagenham
+    * Braintree
+    * Chichester
+    * Colchester
+    * East Lothian
+    * North Somerset
+    * Nottingham
+    * Poole
+    * Rother
+    * South Gloucestershire
+    * South Norfolk (appears to have PlanningExplorer as well)
+    * Tower Hamlets (done)
+    * Westminster 
