@@ -12,6 +12,7 @@ Types of site for which we have scrapers written
   * RutlandLike (the ones that look like the Rutland site)
   * AtriumePlanning
   * [SwiftLG]
+  * [WAM]
 
 Others:
 
@@ -25,18 +26,3 @@ Others:
 Provided directly by the council:
 
   * Wansbeck
-
-Sites that look like Tower Hamlets (WAM)
-
-  * Barking and Dagenham
-  * Braintree
-  * Chichester
-  * Colchester
-  * East Lothian
-  * North Somerset
-  * Nottingham
-  * Poole
-  * Rother
-  * South Gloucestershire
-  * South Norfolk (appears to have PlanningExplorer as well)
-  * Westminster
