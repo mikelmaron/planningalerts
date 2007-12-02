@@ -11,7 +11,7 @@ Types of site for which we have scrapers written
   * PlanningExplorer
   * RutlandLike (the ones that look like the Rutland site)
   * AtriumePlanning
-  * SwiftLG
+  * [SwiftLG]
 
 Others:
 
