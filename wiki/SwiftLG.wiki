@@ -1,0 +1,16 @@
+Sites that look like East Hertfordshire (urls contain "wphappcriteria"):
+
+    * Daventry
+    * Dudley
+    * Gwynedd
+    * Islington (done)
+    * Lake District National Park
+    * Macclesfield
+    * Maidstone
+    * Mole Valley
+    * Pembrokeshire County Council
+    * Rochdale
+    * Slough
+    * Snowdonia National Park
+    * St Edmundsbury
+    * Dublin (though this might be a bit outside our remit :-)) 
