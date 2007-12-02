@@ -27,11 +27,12 @@ Provided directly by the council:
 
   * Wansbeck
 
-Sites that look like East Hertfordshire:
+Sites that look like East Hertfordshire (urls contain "wphappcriteria"):
 
   * Daventry
   * Dudley
   * Gwynedd
+  * Islington (done)
   * Lake District National Park
   * Macclesfield
   * Maidstone
