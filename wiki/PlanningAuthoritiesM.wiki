@@ -1,5 +1,5 @@
-||  || *Macclesfield Borough Council* || Macclesfield || [SwiftLG] || http://www.planportal.macclesfield.gov.uk/swiftlg/apas/run/wphappcriteria.display ||
-||  || *Maidstone Borough Council* || Maidstone || [SwiftLG] || http://digitalmaidstone.co.uk/swiftlg/apas/run/wphappcriteria.display ||
+||  || *Macclesfield Borough Council* || Macclesfield || [SwiftLG] - very slow to respond || http://www.planportal.macclesfield.gov.uk/swiftlg/apas/run/wphappcriteria.display ||
+|| Done || Maidstone Borough Council || Maidstone || [SwiftLG] || http://digitalmaidstone.co.uk/swiftlg/apas/run/wphappcriteria.display ||
 ||  || *Maldon District Council* || Maldon || searchable by date || http://forms.maldon.gov.uk:8080/PlanApp/jsp/searchPlan.jsp ||
 || Done || Malvern Hills District Council || Malvern || PublicAccess || ||
 || Done || Manchester City Council || Manchester || PublicAccess || http://www.publicaccess.manchester.gov.uk/publicaccess/tdc/tdc_home.aspx ||
@@ -16,6 +16,6 @@
 ||  || *Middlesbrough Council* || Middlesbrough || searchable by date || http://planserv.middlesbrough.gov.uk:7778/portal/page?_pageid=35,31689&_dad=portal&_schema=PORTAL ||
 ||  || *Midlothian Council* || Dalkeith || weekly lists as word docs... || http://www.midlothian.gov.uk/%5CArticle.aspx?TopicID=0&ArticleID=17334 ||
 || Done || Milton Keynes Council || Milton Keynes || PublicAccess || http://publicaccess.milton-keynes.gov.uk/bc/bc_home.aspx ||
-||  || *Mole Valley District Council* || Dorking || [SwiftLG] || http://www.molevalley.gov.uk/swiftlg/apas/run/wphappcriteria.display ||
+|| Done || Mole Valley District Council || Dorking || [SwiftLG] || http://www.molevalley.gov.uk/swiftlg/apas/run/wphappcriteria.display ||
 ||  || *Monmouthshire County Council* || Cwmbran || UKplanning || ||
 || Done || Moray Council || Elgin || PublicAccess || ||
