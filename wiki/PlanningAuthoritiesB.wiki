@@ -1,5 +1,5 @@
 || Done || Babergh || Babergh District Council || AcolNet (New site from 22/06/2007)|| http://planning.babergh.gov.uk/dcdatav2//acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
-|| || *Barking and Dagenham* || Barking & Dagenham Borough Council || weekly and monthly lists in html || http://idoxwam.lbbd.gov.uk:8081/WAM/search/pas/index.htm ||
+|| || *Barking and Dagenham* || [WAM] || weekly and monthly lists in html || http://idoxwam.lbbd.gov.uk:8081/WAM/search/pas/index.htm ||
 || || *Barnet* || Barnet Borough Council || current applications are searchable by date || http://planning.barnet.gov.uk:7778/pls/portal/PORTAL.wwa_app_module.show?p_sessionid=205173 ||
 || || *Barnsley* || Barnsley Metropolitan Borough Council || weekly lists in html. Rather out of date, and nowhere obvious to comment. ||http://applications.barnsley.gov.uk/service/development/weeklylist.asp ||
 || Done || Barrow ||Barrow-in-Furness Borough Council || ApplicationSearchServlet || http://localportal.barrowbc.gov.uk/portal/servlets/WeeklyListServlet ||
@@ -22,7 +22,7 @@
 || || *Bournmouth* || Bournemouth Borough Council || weekly list as pdf || http://www.bournemouth.gov.uk/Residents/Planning_Development/Planning_Applications/Lists/default.asp ||
 || Done || Bracknell Forest || Bracknell Forest Borough Council || PublicAccess - using https || https://my.bracknell-forest.gov.uk/publicaccess/tdc/DcApplication/application_searchform.aspx ||
 || Done || Bradford || City of Bradford Metropolitan District Council || PublicAccess || http://www.planning4bradford.com/tdc/DcApplication/application_searchform.aspx ||
-|| || *Braintree* || Braintree District Council || WAM || http://planningapp.braintree.gov.uk/WAM1/searchsubmit/performOption.do?action=search ||
+|| || *Braintree* || Braintree District Council || [WAM] || http://planningapp.braintree.gov.uk/WAM1/searchsubmit/performOption.do?action=search ||
 || || *Brecon Beacons* || Breacon Beacons National Park Authority || weekly lists as pdf or rtf || http://www.breconbeacons.org/planning/planning_apps ||
 || || *Breckland* || Breckland District Council || search page with nothing useful, but also weekly lists in html || http://wplan01.intranet.breckland.gov.uk:7778/portal/page?_pageid=33,30970&_dad=portal&_schema=PORTAL ||
 || || *Brent* || Brent Borough Council || search by date || http://www.brent.gov.uk/servlet/ep.ext?extId=101149&byPeriod=Y&st=PL&periodUnits=day&periodMultiples=14 ||
