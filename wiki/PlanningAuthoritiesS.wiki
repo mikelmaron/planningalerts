@@ -40,7 +40,7 @@
 || || *Southend-on-Sea Borough Council* || Southend-on-Sea || searchable by date || http://www.southend.gov.uk/environment/planning/applications.asp ||
 || In progress || *Southwark Borough Council* || London || AcolNet, but not quite as expected || http://194.168.41.26/cgi-bin/acolnetcgi.exe?ACTION=UNWRAP&RIPSESSION=%7B%5B%2A%211D1A020B050304731D3C3D31617C041E28361620222F34223B7660001036350A0C1E372B316B730B033D3916212F332D27013722002F352B6A611715232B122B2E21312D162B260A2E2737691120283F3A3606243629243A06176F747D7A707F7E647777007A76787F63%21%2A%5D%7D ||
 || Done || Spelthorne Borough Council || Staines || PublicAccess || http://phoenix.spelthorne.gov.uk/publicaccess/ ||
-|| || *St Edmundsbury Borough Council* || Bury St Edmunds || [SwiftLG] || http://www.stedmundsbury.gov.uk/swiftlg/apas/run/wphappcriteria.display ||
+|| Done || St Edmundsbury Borough Council || Bury St Edmunds || [SwiftLG] || http://www.stedmundsbury.gov.uk/swiftlg/apas/run/wphappcriteria.display ||
 || Done || St Helens Council || St Helens || ApplicationSearchServlet || http://212.248.225.150:8080/portal/servlets/ApplicationSearchServlet ||
 || || *St. Albans District Council* || St Albans || searchable by date || http://www.stalbans.gov.uk/living/planning/search-plans.php ||
 || Done || Stafford Borough Council || Stafford || PublicAccess || http://www3.staffordbc.gov.uk/publicaccess/default.aspx ||
