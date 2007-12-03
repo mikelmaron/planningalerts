@@ -19,7 +19,6 @@ Others:
   * Broxbourne - Tom's Scraper
   * Enfield
   * South Oxfordshire
-  * Tower Hamlets
   * Walsall - Paul's Scraper
   * York
 
