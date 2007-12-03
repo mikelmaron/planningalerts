@@ -3,6 +3,7 @@ We currently have scrapers for Camden and Tower Hamlets.
     * Barking and Dagenham
     * Braintree
     * Camden (also has PlanningExplorer - we have scrapers for both)
+    * Castle Point
     * Chichester
     * Colchester
     * East Lothian
