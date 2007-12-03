@@ -11,7 +11,7 @@
 || || *Carmarthenshire* ||   Carmarthenshire County Council  || searchable by date || http://www.carmarthenshire.gov.uk/CCC_APPS/eng/plannaps/ccc_planningapplications.asp ||
 || || *Carrick* ||    Carrick District Council  || searchable by date || http://www.carrick.gov.uk/index.cfm?articleid=13904 ||
 || || *Castle Morpeth* ||    Castle Morpeth Borough Council  || searchable by date || http://www.castlemorpeth.gov.uk/addon/planningapps/search.asp ||
-|| ||  *Castle Point* ||   Castle Point Borough Council  || searchable by date || http://planning.castlepoint.gov.uk/servlet/page?_pageid=77&_dad=portal30&_schema=PORTAL30 ||
+|| ||  *Castle Point* ||   Castle Point Borough Council  || [WAM] || castle p ||
 || ||  *Ceredigion* ||   Ceredigion County Council  || Excel files by date! || http://www.ceredigion.gov.uk/index.cfm?articleid=3125 ||
 || Done || Charnwood ||    Charnwood Borough Council  || PlanningExplorer || http://portal.charnwoodbc.gov.uk/MVM/Online/PL/Home.aspx ||
 || Done ||  Chelmsford || Chelmsford Borough Council || PublicAccess || http://web1.chelmsfordbc.gov.uk/publicaccess/ ||
