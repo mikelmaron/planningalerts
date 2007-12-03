@@ -2,8 +2,8 @@
 
 This page contains some groups of planning authorities for which we don't yet have a scraper (as far as I know), but which might be best handled together.
 
-PlanetApplicationEnquiry
-[Ocella]
+  * PlanetApplicationEnquiry
+  * [Ocella]
 
 PlanIT (urls contain planning_search.aspx):
   * Hounslow
