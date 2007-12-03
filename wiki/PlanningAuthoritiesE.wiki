@@ -17,7 +17,7 @@
 || Done || Eastleigh Borough Council || Eastleigh || FastWeb || http://www.eastleigh.gov.uk/FastWEB/search.asp ||
 || Done || Eden District Council || Penrith || FastWeb || http://eforms.eden.gov.uk/fastweb/search.asp||
 || Done || Edinburgh City Council || Edinburgh || PublicAccess || http://citydev-portal.edinburgh.gov.uk/publicaccess/dc/DcApplication/application_searchform.aspx||
-||  || *Ellesmere Port & Neston Borough Council* || Ellesmere Port || weekly lists|| http://ocella.epnbc.gov.uk/portal/page?_pageid=33,38205&_dad=portal&_schema=PORTAL||
+||  || *Ellesmere Port & Neston Borough Council* || Ellesmere Port || [Ocella] || http://ocella.epnbc.gov.uk/portal/page?_pageid=33,38205&_dad=portal&_schema=PORTAL||
 ||  || *Elmbridge Borough Council* || Esher || PlanetApplicationEnquiry || http://www2.elmbridge.gov.uk/Planet/ispforms.asp?serviceKey=SysDoc-PlanetApplicationEnquiry  ||
 || Done || Enfield Borough Council || Enfield || searchable by date || https://forms.enfield.gov.uk/ufs/ufsmain?esessionid=1 ||
 || Done || Epping Forest District Council || Epping || PlanningExplorer || http://plan1.eppingforestdc.gov.uk/MVM/Online/PL/GeneralSearch.aspx ||
