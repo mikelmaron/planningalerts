@@ -27,5 +27,6 @@ PAM:
 
 PlanAppSrch.asp:
   * North Yorkshire
+  * Purbeck
   * Shropshire
   * South Northamptonshire
