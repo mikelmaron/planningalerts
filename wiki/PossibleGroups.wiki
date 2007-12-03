@@ -6,7 +6,7 @@ PlanetApplicationEnquiry
 [Ocella]
 
 PlanIT (urls contain planning_search.aspx):
-  * Houndslow
+  * Hounslow
   * Kingston
   * Richmond (London)
   * Wiltshire
