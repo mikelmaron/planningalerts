@@ -5,4 +5,5 @@ We don't yet have a scraper for these. All the URLs end with PlanetApplicationEn
   * Elmbridge
   * North Lincolnshire
   * Ryedale
+  * Tewkesbury
   * Worcester
