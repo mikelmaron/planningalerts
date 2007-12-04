@@ -13,7 +13,7 @@
 || || *Shetland Islands Council* || Lerwick || list as html, can show last 2 weeks, month, etc || http://www.shetland.gov.uk/planningcontrol/apps/ ||
 || In Progress || *Shrewsbury & Atcham Borough Council* || Shrewsbury || PlanningExplorer || http://www2.shrewsbury.gov.uk/MVM/Online/PL/GeneralSearch.aspx ||
 || || *Shropshire County Council* || Shrewsbury || searchable by date (minerals and waste only) || http://planning.shropshire.gov.uk/PlanAppSrch.asp ||
-|| Done || Slough Borough Council || Slough || [SwiftLG] requires registration! || http://www2.slough.gov.uk/swiftlg/apas/run/wphappcriteria.display ||
+|| Done || Slough Borough Council || Slough || [SwiftLG] || http://www2.slough.gov.uk/swiftlg/apas/run/wphappcriteria.display ||
 || Done || Snowdonia National Park Authority || Penrhynduedraeth || [SwiftLG] || http://www.eryri-npa.co.uk/swiftlg_test/apas_test/run/wphappcriteria.display ||
 || || *Solihull Metropolitan Borough Council* || Solihull || weekly lists in html || http://www.solihull.gov.uk/planning/dc/weeklist.asp ||
 || Broken || *Somerset County Council* || Taunton || AtriumePlanning || http://webapp1.somerset.gov.uk/ePlanning/searchPageLoad.do ||
