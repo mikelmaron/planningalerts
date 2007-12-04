@@ -7,7 +7,7 @@
 ||  || *Telford & Wrekin Council* || Telford || weekly lists in html || http://www.telford.gov.uk/apps/planningapplications/planningapplicationlist.asp?year=2007 ||
 || Done || Tendring District Council || Weeley || PublicAccess || http://195.99.151.54/publicaccess/propdb/property/property_searchform.aspx?module=P3 ||
 || Done || Test Valley Borough Council || Andover,  Romsey || PublicAccess || http://publicaccess.testvalley.gov.uk/publicaccess/tdc/tdc_home.aspx ||
-||  || *Tewkesbury Borough Council* || Tewkesbury || searchable by date || http://planning.tewkesbury.gov.uk/Planet/ispforms.asp?serviceKey=07WCC04163103430 ||
+||  || *Tewkesbury Borough Council* || Tewkesbury || PlanetApplicationEnquirey || http://planning.tewkesbury.gov.uk/Planet/ispforms.asp?serviceKey=07WCC04163103430 ||
 ||  || *Thanet District Council* || Margate || ukplanning || http://www.ukplanning.com/ukp/custom/forwards/selectandsearch.jsp?council=Thanet%20District%20Council&fwd=search/ ||
 || Done || Three Rivers District Council || Rickmansworth || PublicAccess || http://www2.threerivers.gov.uk/publicaccess/ ||
 ||  || *Thurrock Borough Council* || Grays || no date search || http://www.thurrock.gov.uk/planning/development/content.php?page=application_search ||
