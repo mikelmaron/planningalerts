@@ -4,6 +4,7 @@ We now have a python parser for these (as well as parsers in PHP for East Herts 
 
 Daventry is currently not responding, so we'll have to do them later.
 
+    * Boston
     * Daventry (currently not responding)
     * Dudley
     * East Hertfordshire
