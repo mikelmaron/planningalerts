@@ -5,7 +5,7 @@ We have a scraper for this sort of site, which can be distinguished by the searc
 Known sites of this sort are:
 
   * Cumbria
-  * Dorset (The site is down as of 24/11/2007)
+  * Dorset
   * Lincolnshire
   * Somerset (I'm not sure this one still exists - 24/11/2007)
   * Suffolk
