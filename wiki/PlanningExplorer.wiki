@@ -14,6 +14,8 @@ Done, and working:
   * Kennet
   * Lincoln (also WAM)
   * Liverpool
+  * Shrewsbury
+  * Swansea
   * South Shropshire
   * South Tyneside
   * Stockport
@@ -30,6 +32,4 @@ A few have no postcodes. In some cases they provide OSGB, which we should probab
 These ones are not yet done, as the sites are currently down:
 
   * Merton (site down)
-  * Shrewsbury (site is broken)
-  * Swansea (site is broken)
   * Waltham Forest (currently giving an error)
