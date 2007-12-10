@@ -24,7 +24,7 @@
 ||  ||  *Chichester* ||   Chichester District Council  || [WAM] || http://wam.chichester.gov.uk/WAM/search/pas/index.htm;jsessionid=5D6D9B7A4C0F07CC472DE776DF9EA75D ||
 || Done ||  Chiltern ||  Chiltern District Council  || PublicAccess - using https || https://isa.chiltern.gov.uk/publicaccess/ ||
 || Done ||  Chorley ||   Chorley Borough Council  || PublicAccess || http://planning.chorley.gov.uk/PublicAccess/propdb/property/property_searchform.aspx ||
-||  ||  *Christchurch* ||   Christchurch Borough Council || DorsetForYou || http://www.dorsetforyou.com/index.jsp?articleid=356063 ||
+|| Done (No postcodes, but OSGB) ||  Christchurch ||   Christchurch Borough Council || Perl scraper from Tom || http://www.dorsetforyou.com/index.jsp?articleid=356063 ||
 || Done ||  City ||  Corporation of London || PublicAccess ||  ||
 ||  ||  *Clackmannanshire* ||   Clackmannanshire Council || Searchable by date || http://www.clacksweb.org.uk/property/planningregister/ ||
 ||  || *Colchester* ||  Colchester Borough Council || [WAM] || http://www.planning.colchester.gov.uk/WAM/searchsubmit/performOption.do?action=search ||
