@@ -1,4 +1,4 @@
-|| || *Dacorum* || Dacorum Borough Council || Searchable by registration date || http://www.dacorum.gov.uk/default.aspx?page=1495 ||
+|| Done || Dacorum || Dacorum Borough Council || Perl scraper from Tom || http://www.dacorum.gov.uk/default.aspx?page=1495 ||
 || || *Darlington* || Darlington Borough Council || Applications can be searched by validation date (whatever that is...) Weekly list also available. || http://www.darlington.gov.uk/eServices/PlanApps/PlanAppsViewer.aspx?SearchType=advanced ||
 || Done || Dartford || Dartford Borough Council || PublicAccess || || 
 || || Dartmoor || Dartmoor National Park Authority || weekly and monthly lists in html || http://www.dartmoor-npa.gov.uk/index/planning/pl-devcontrol/pl-searchapplicationregister/application_register.htm ||
