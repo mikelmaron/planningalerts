@@ -13,6 +13,7 @@
   * Broadland
   * Derby
   * Forest Heath
+  * Mid Suffolk
   * South Norfolk
   * South Somerset (has OSGB)
   * Trafford
