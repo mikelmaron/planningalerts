@@ -8,14 +8,14 @@ We have a scraper for this sort of site. The sites all look subtly different, so
   * Bolton
   * Bridgenorth
   * Bury
-  * Cambridgeshire
+  * Cambridgeshire (very different)
   * Canterbury
   * Carlisle
   * Croydon
   * Derby
   * East Lindsey
   * Fylde
-  * Guildford (an odd one)
+  * Guildford
   * Harlow
   * Havant
   * Hertsmere
