@@ -3,7 +3,6 @@
   * Bridgnorth (Duncan) - AcolNet. implemented, but returns error 400 when accessed by script
   * Cambridgeshire (Duncan) - AcolNet. no advanced search page - will need some work
   * Canterbury (Duncan) - AcolNet. results table is different from usual format
-  * Dorset (Duncan) AtriumePlanning, but site is down.
   * Guildford (Duncan) - AcolNet, but odd.
   * Isle of Man (Dan)
   * Somerset (Duncan) - AtriumePlanning, but site is down.
@@ -15,11 +14,11 @@
   * Derby
   * Forest Heath
   * South Norfolk
+  * South Somerset (has OSGB)
   * Trafford
   * West Oxfordshire
 
 = Scrapes done, but sites/scrapers broken =
-  * Dacorum (always returns no applications)
   * Durham (Duncan) - works for browser - empty results for script
   * Hambleton (Duncan) - works for browser - empty results for script
   * Moray - empty database
