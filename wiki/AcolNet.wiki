@@ -33,5 +33,5 @@ We have a scraper for this sort of site. The sites all look subtly different, so
   * South Bedfordshire
   * Southwark
   * Suffolk Coastal
-  * Surrey Heath
+  * Surrey Heath (looks normal, but hard to get to. https, cookies, and javascript nonsense)
   * Wychavon (very different)
