@@ -33,7 +33,7 @@
 || Done || South Oxfordshire District Council || Wallingford || html list by seven day periods - implemented as a special case. || http://www.southoxon.gov.uk/ccm/planning/ApplicationList.jsp ||
 || Done || South Ribble Borough Council || Leyland || PublicAccess || http://publicaccess.southribble.gov.uk/publicaccess/ ||
 || Done || South Shropshire District Council || Ludlow || PlanningExplorer (paging in javascript) || http://194.201.44.102/MVM/Online/PL/GeneralSearch.aspx ||
-|| || *South Somerset District Council* || Chard, Langport, Wincanton, Yeovil || searchable by date || http://www.southsomerset.gov.uk/index.jsp?articleid=1925 ||
+|| Done || South Somerset District Council || Chard, Langport, Wincanton, Yeovil || Perl scraper from Tom || http://www.southsomerset.gov.uk/index.jsp?articleid=1925 ||
 || Done  || South Staffordshire District Council || Wolverhampton || PublicAccess || https://services.sstaffs.gov.uk/publicaccess/ ||
 || Done || South Tyneside Borough Council || South Shields || PlanningExplorer || http://poppy.southtyneside.gov.uk/mvm/Online/PL/GeneralSearch.aspx ||
 || Done || Southampton City Council || Southampton || PublicAccess || http://publicaccess.southampton.gov.uk/publicaccess/li/li_home.aspx ||
