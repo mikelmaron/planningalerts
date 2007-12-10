@@ -11,7 +11,7 @@
 || In Progress || *Merton Borough Council* || Morden || PlanningExplorer - site is down || http://planning.merton.gov.uk/MVM/Online/PL/GeneralSearch.aspx ||
 || In Progress || *Mid Bedfordshire District Council* || Biggleswade || there is an AcolNet here, but it is password protected, and only available to invited consultees! Also weekly lists of pdfs ||  http://www.midbeds.gov.uk/services/planning/planning_apps/Weekly_List_of_Planning_Applications.asp ||
 || Done || Mid Devon District Council || Tiverton || PublicAccess || http://planning.middevon.gov.uk/publicaccess/ ||
-|| In Progress || *Mid Suffolk District Council* || Needham Market || AcolNet, but locations have no postcode || http://www.midsuffolkdc.gov.uk/planning/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.PgeSearch ||
+|| Done (no postcodes) || Mid Suffolk District Council || Needham Market || AcolNet, but locations have no postcode || http://www.midsuffolkdc.gov.uk/planning/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.PgeSearch ||
 || Done || Mid Sussex District Council || Haywards Heath || PublicAccess || http://dc.midsussex.gov.uk/PublicAccess/ ||
 ||  || *Middlesbrough Council* || Middlesbrough || [Ocella] || http://planserv.middlesbrough.gov.uk:7778/portal/page?_pageid=35,31689&_dad=portal&_schema=PORTAL ||
 ||  || *Midlothian Council* || Dalkeith || weekly lists as word docs... || http://www.midlothian.gov.uk/%5CArticle.aspx?TopicID=0&ArticleID=17334 ||
