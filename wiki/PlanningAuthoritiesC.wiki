@@ -4,7 +4,7 @@
 || In progress || *Cambridgeshire* ||  Cambridgeshire County Council || AcolNet || http://planapps.cambridgeshire.gov.uk/scripts/acolnet/acolnetcgi.exe? ||
 || Done || Camden ||  London Borough of Camden || PlanningExplorer, and [WAM] - we now have a scraper for each || http://www.camden.gov.uk/ccm/navigation/environment/planning-and-built-environment ||
 || || *Cannock* ||  Cannock Chase District Council || monthly application lists || http://www.cannockchasedc.gov.uk/site/scripts/documents_info.php?documentID=347&pageNumber=2 ||
-|| In progress || *Canterbury* ||  Canterbury City Council  || AcolNet || http://planning.canterbury.gov.uk/scripts/acolnetcgi.exe ||
+|| Done || Canterbury ||  Canterbury City Council  || AcolNet || http://planning.canterbury.gov.uk/scripts/acolnetcgi.exe ||
 || Done || Caradon ||   Caradon District Council  || PublicAccess || http://publicaccess.caradon.gov.uk/publicaccess/ ||
 || || *Cardiff* ||   Cardiff County Council  || Weekly lists as pdf || http://www.cardiff.gov.uk/content.asp?Parent_Directory_id=2865&nav=2870,3139,3153,3943 ||
 || Done || Carlisle ||  Carlisle City Council  || AcolNet || http://planning.carlisle.gov.uk/acolnet/acolnetcgi.gov ||
