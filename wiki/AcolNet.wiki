@@ -14,6 +14,7 @@ We have a scraper for this sort of site. The sites all look subtly different, so
   * Croydon
   * Derby
   * East Lindsey
+  * Exeter
   * Fylde
   * Guildford
   * Harlow
