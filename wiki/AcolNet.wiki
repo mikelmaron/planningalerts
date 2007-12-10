@@ -21,7 +21,7 @@ We have a scraper for this sort of site. The sites all look subtly different, so
   * Hertsmere
   * Kensington and Chelsea (maybe)
   * Lewisham
-  * Mid Bedfordshire
+  * Mid Bedfordshire (this requires a username and password!)
   * Mid Suffolk (no postcodes)
   * New Forest National Park
   * New Forest District Council
