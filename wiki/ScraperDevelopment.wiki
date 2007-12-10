@@ -9,6 +9,7 @@
   * Wychavon (Duncan) - an AcolNet site, but slightly odd.
 
 = Scrapers done, but no postcodes =
+  * Bassetlaw
   * Broadland
   * Derby
   * Forest Heath
