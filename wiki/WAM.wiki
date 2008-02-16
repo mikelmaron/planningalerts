@@ -4,7 +4,7 @@ We currently have scrapers for Camden and Tower Hamlets.
     * Braintree
     * Camden (also has PlanningExplorer - we have scrapers for both)
     * Castle Point
-    * Chichester
+    * Chichester (also has PublicAccess)
     * Colchester
     * East Lothian
     * North Somerset
