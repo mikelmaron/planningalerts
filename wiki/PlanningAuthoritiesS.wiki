@@ -22,13 +22,13 @@
 || Done || South Bucks District Council || Slough || PublicAccess || http://sbdc-paweb.southbucks.gov.uk/publicaccess/tdc/DcApplication/application_searchform.aspx ||
 || || *South Cambridgeshire District Council* || Cambridge || searchable by date || http://egov.scambs.gov.uk/planningapps/pa.php ||
 || || *South Derbyshire District Council* || Swadlincote || searchable by date || http://sddc.planning-proposals.co.uk/ ||
-|| || *South Gloucestershire Council* || Kingswood, Thornbury || [WAM] || http://planning.southglos.gov.uk/WAM/search/pas/index.htm ||
+|| Done || South Gloucestershire Council || Kingswood, Thornbury || [WAM] || http://planning.southglos.gov.uk/WAM/search/pas/index.htm ||
 || || *South Hams District Council* || Totnes || searchable by date || http://www.southhams.gov.uk/index/business_index/ksp_development_and_planning/spec-search-planning-apps.htm ||
 || || *South Holland District Council* || Spalding || pdf list of recent planning applications || http://www.sholland.gov.uk/services/service316.htm ||
 || || *South Kesteven District Council* || Grantham || searchable by date || http://www.southkesteven.gov.uk/Planning/ApplicationSearch.aspx ||
 || Done || South Lakeland District Council || Kendal || FastWeb || http://www.southlakeland.gov.uk/fastweb/search.asp ||
 || || *South Lanarkshire Council* || East Kilbride, Hamilton, Lanark, Rutherglen || pdf file of recent apps || http://www.southlanarkshire.gov.uk/portal/page/portal/EXTERNAL_WEBSITE_DEVELOPMENT/SLC_ONLINE_HOME/SLC_ATOZ/PUBLICATION_ATOZ/RELATED_PUBLICATION/?keyword1=currentplanningappsdoc ||
-|| Done || South Norfolk Council || Long Stratton || PlanningExplorer (but no postcodes) and [WAM] || http://planning.south-norfolk.gov.uk/MVM/Online/PL/GeneralSearch.aspx, http://wam.south-norfolk.gov.uk/WAM/search/pas/index.htm ||
+|| Done || South Norfolk Council || Long Stratton || PlanningExplorer and [WAM] (but no postcodes) || http://planning.south-norfolk.gov.uk/MVM/Online/PL/GeneralSearch.aspx, http://wam.south-norfolk.gov.uk/WAM/search/pas/index.htm ||
 || || *South Northamptonshire* || Towcester || searchable by date || http://snc.planning-register.co.uk/PlanAppSrch.asp ||
 || Done || South Oxfordshire District Council || Wallingford || html list by seven day periods - implemented as a special case. || http://www.southoxon.gov.uk/ccm/planning/ApplicationList.jsp ||
 || Done || South Ribble Borough Council || Leyland || PublicAccess || http://publicaccess.southribble.gov.uk/publicaccess/ ||
