@@ -31,5 +31,5 @@
 || Done || Northumberland County Council || Morpeth || PublicAccess || http://planning.northumberland.gov.uk/PublicAccess/tdc/DcApplication/application_searchform.aspx ||
 || Done || Norwich City Council || Norwich || PublicAccess|| ||
 || Done || Nottingham City Council || Nottingham || [WAM] || http://plan4.nottinghamcity.gov.uk/WAM/search/pas/index.html||
-|| || *Nottinghamshire County Council* || Nottingham, West Bridgford || No date search || http://www.nottinghamcity.gov.uk/planning/Report/weeksrch.html  ||
+|| || *Nottinghamshire County Council* || Nottingham, West Bridgford || No date search, but there is an apps open for consultation page. || http://www.nottinghamcity.gov.uk/planning/Report/weeksrch.html  ||
 || || *Nuneaton & Bedworth Borough Council* || Nuneaton || searchable by date || http://www.nuneatonandbedworth.gov.uk/environment-planning/planning/planning-applications/search-planning-applications ||
