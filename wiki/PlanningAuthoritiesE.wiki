@@ -7,7 +7,7 @@
 ||  || *East Dunbartonshire Council* || Glasgow || searchable by date || http://www.eastdunbarton.gov.uk/web%20site/live/edweblive.nsf/InternetMF?ReadForm&M=DEFAULTC=http://www.eastdunbarton.gov.uk/web%20site/live/edweblive.nsf/QuickLinkPagesWeb/Planning%20Apps?OpenDocument ||  || *East Hampshire District Council* || Petersfield || last week's apps || http://213.131.177.248/ehdc/planningapplicationsonline.nsf/LastWeek?OpenView&count=1000 ||
 || Done || East Hertfordshire District Council || Hertford || [SwiftLG] || http://e-services.eastherts.gov.uk/swiftlg/apas/run/wphappcriteria.display ||
 || Done || East Lindsey District Council || Louth || AcolNet || http://www.e-lindsey.gov.uk/planning/AcolnetCGI.exe?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
-||  || *East Lothian Council* || Haddington || [WAM] || http://www.planning.eastlothian.gov.uk/WAM/search/pas/index.htm ||
+|| Done || East Lothian Council || Haddington || [WAM] || http://www.planning.eastlothian.gov.uk/WAM/search/pas/index.htm ||
 || Done || East Northamptonshire Council || Thrapston || RutlandLike (and PublicAccess) - I think the PublicAccess is more comprehensive and is the latest version. || http://www.east-northantsonline.co.uk/planning/searchparam.asp (also http://publicaccesssrv.east-northamptonshire.gov.uk/PublicAccess/ ) ||
 ||  || *East Renfrewshire Council* || Glasgow || weekly lists as pdf || http://www.eastrenfrewshire.gov.uk/environment/planning/planning_applications/weekly_lists.htm ||
 || Done || East Riding of Yorkshire Council || Beverley || PublicAccess || http://www.eastriding.gov.uk/PublicAccess731c/dc/dc_home.aspx ||
