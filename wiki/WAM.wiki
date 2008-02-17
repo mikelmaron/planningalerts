@@ -1,4 +1,6 @@
-We currently have scrapers for Camden and Tower Hamlets.
+We currently have scrapers for Camden and Tower Hamlets in PHP, and scrapers for all the others except Westminster in python. The Westminster site is a bit different, and may require some work.
+
+Done:
 
     * Barking and Dagenham
     * Braintree
@@ -12,6 +14,9 @@ We currently have scrapers for Camden and Tower Hamlets.
     * Poole
     * Rother
     * South Gloucestershire
-    * South Norfolk (appears to have PlanningExplorer as well)
+    * South Norfolk (appears to have PlanningExplorer as well) (No postcodes)
     * Tower Hamlets (done)
-    * Westminster 
+
+To Do
+
+    * Westminster
