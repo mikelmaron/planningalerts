@@ -3,6 +3,6 @@
 || Done || Fenland District Council || March || PublicAccess || http://www.fenland.gov.uk/publicaccess/ ||
 ||  || *Fife Council* || Glenrothes || searchable by date || http://www.fifedirect.org.uk/topics/index.cfm?fuseaction=planapps.list&subjectid=104CC166-3ED1-4D22-B9F1E2FB8438478A&thisweek=show ||
 ||  || *Flintshire County Council* || Mold || searchable by date || http://www.flintshire.gov.uk/webcont/fssplaps.nsf/$$search?openform ||
-|| Done || Forest Heath District Council || Mildenhall || PlanningExplorer || http://195.171.177.73/MVM/Online/PL/GeneralSearch.aspx ||
+|| Done || Forest Heath District Council || Mildenhall || PlanningExplorer *(No Postcodes)*|| http://195.171.177.73/MVM/Online/PL/GeneralSearch.aspx ||
 ||  || *Forest of Dean District Council* || Coleford || searchable by date || http://www.fdean.gov.uk/content.asp?nav=266&Parent_Directory_ID=200&ID=13265&HTMLID=Latest ||
 || Done || Fylde Borough Council || Wesham || AcolNet || http://www2.fylde.gov.uk/planning/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.PgeSearch ||
