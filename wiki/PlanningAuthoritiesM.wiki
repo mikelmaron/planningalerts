@@ -5,7 +5,7 @@
 || Done || Manchester City Council || Manchester || PublicAccess || http://www.publicaccess.manchester.gov.uk/publicaccess/tdc/tdc_home.aspx ||
 || Done|| Mansfield District Council || Mansfield || FastWeb || http://www.mansfield.gov.uk/Fastweb/search.asp ||
 ||  || *Medway Council* || Chatham || PlanningOnline, searchable by date || http://www.medway.gov.uk/index/environment/planning/planapp/planonline.htm ||
-|| Done || Melton Borough Council || Melton Mowbray || RutlandLike || http://www.meltononline.co.uk/planning/searchparam.asp ||
+|| Done || Melton Borough Council || Melton Mowbray || PublicAccess (from 2008, previously RutlandLike) || http://publicaccess.melton.gov.uk/publicaccess/tdc/ ||
 ||  || *Mendip District Council* || Shepton Mallet || searchable by date || http://www.mendip.gov.uk/pods/ApplicationSearch.asp ||
 ||  || *Merthyr Tydfil County Council* || Merthyr Tydfil || weekly lists as pdf || http://www.merthyr.gov.uk/Home/Local+Services/Planning/Development+Control/Weekly+List/April+2007.htm ||
 || In Progress || *Merton Borough Council* || Morden || PlanningExplorer - site is down || http://planning.merton.gov.uk/MVM/Online/PL/GeneralSearch.aspx ||

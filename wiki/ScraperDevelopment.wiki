@@ -27,6 +27,7 @@
   * Newcastle (not timing out today) - forbidden.
   * Sheffield - database was full, but is now empty (28/11/2007)
   * Stratford - connection refused
+  * Watford - site is down
   * Winchester - site is broken
   * Wolverhampton (empty database)
  
