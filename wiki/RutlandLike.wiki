@@ -2,7 +2,6 @@ The following authorities have a similar application search mechanism. The urls 
 
   * East Northamptonshire (also has a PublicAccess, which seems to contain more applications)
   * Harborough (also has a PublicAccess, which seems a slightly different set of applications...)
-  * Melton
   * Rutland
 
-I've made a scraper for these, which is currently called RutlandLike (as I can't see a more sensible name for it). It is only actually in use for Melton and Rutland, as East Northants and Harborough also have PublicAccess sites, which appear to be more recent.
+I've made a scraper for these, which is currently called RutlandLike (as I can't see a more sensible name for it). It is now only actually in use for Rutland, as East Northants and Harborough also have PublicAccess sites, which appear to be more recent.
