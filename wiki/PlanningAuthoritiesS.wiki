@@ -49,7 +49,7 @@
 || || *States of Guernsey* || St Peter Port || pdf of latest apps || http://www.gov.gg/ccm/environment/planning-division/development-control/press-lists/planning-application-press-list---150607.en ||
 || Done || Stevenage Borough Council || Stevenage || PublicAccess || http://publicaccess.stevenage.gov.uk/publicaccess ||
 || Done || Stirling Council || Stirling || PublicAccess || http://planpub.stirling.gov.uk/publicaccess/ ||
-|| Done || Stockport Metropolitan Borough Council || Stockport || PlanningExplorer || http://s1.stockport.gov.uk/council/eed/dc/planning/MVM/Online/PL/GeneralSearch.aspx ||
+|| Done || Stockport Metropolitan Borough Council || Stockport || AcolNet || http://planning.stockport.gov.uk/PlanningData/AcolNetCGI.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch (was http://s1.stockport.gov.uk/council/eed/dc/planning/MVM/Online/PL/GeneralSearch.aspx) ||
 || Done || Stockton-on-Tees Borough Council || Stockton on Tees || PublicAccess || http://www.developmentcontrol.stockton.gov.uk/publicaccess/ ||
 || || *Stoke-on-Trent City Council* || Stoke-on-Trent || No obvious date search or weekly list || http://www.gisinternet.stoke.gov.uk/evoplanning/search_form.asp ||
 || Broken (connection refused) || *Stratford-on-Avon District Council* || Stratford-upon-Avon || PublicAccess || http://217.33.198.119/publicaccess/default.aspx ||
