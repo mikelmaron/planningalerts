@@ -15,6 +15,6 @@
 || Done || Dudley || Dudley Metropolitan Borough Council || [SwiftLG] || http://www2.dudley.gov.uk/swiftlg/apas/run/Wphappcriteria.display ||
 || || *Dumfries and Galloway* || Dumfries and Galloway Council || weekly pdy lists separated into five areas || http://www.dumgal.gov.uk/dumgal/MiniWeb.aspx?id=91&menuid=1408&openid=1102 ||
 || Done || Dundee || Dundee City Council || PublicAccess || ||
-|| In Progress || *Durham* || Durham City Council || PublicAccess - database appears to be empty || ||
+|| Done || Durham || Durham City Council || PublicAccess (works with php scraper, but not the python one) || http://publicaccess.durhamcity.gov.uk/ ||
 || || *Durham County* || Durham County Council || Online register searchable by month and year || http://gis.durham.gov.uk/website/dcs/SearchMain.asp ||
  
