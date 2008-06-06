@@ -1,6 +1,6 @@
 || Done ||  Hackney Borough Council || London || PlanningExplorer (we now have two scrapers for Hackney, one in python, and one in PHP) || http://www.hackney.gov.uk/servapps/mvm/online/pl/GeneralSearch.aspx ||
 ||  || *Halton Borough Council* || Runcorn || searchable by date || http://www.halton.gov.uk/planningapps/ ||
-|| In progress || *Hambleton District Council* || Northallerton || PublicAccess || http://planning.hambleton.gov.uk/publicaccess/tdc/DcApplication/application_searchform.aspx ||
+|| Done || Hambleton District Council || Northallerton || PublicAccess (works for php scraper but not the python one) || http://planning.hambleton.gov.uk/publicaccess/tdc/DcApplication/application_searchform.aspx ||
 || Done || Hammersmith & Fulham Borough Council || London || PublicAccess || http://www.apps.lbhf.gov.uk/PublicAccess/tdc/DcApplication/application_searchform.aspx ||
 ||  || *Hampshire County Council* || Winchester || online in html, but no date search || http://www3.hants.gov.uk/planning/mineralsandwaste/planning-applications/applications.htm ||
 || Done || Harborough District Council || Leicester || searchable by date (also PublicAccess). The apps are not the same in each, but the PublicAccess is the most recent version (7.4) || http://www.harborough.gov.uk/planning/searchparam.asp and http://pa.harborough.gov.uk/PublicAccess/ ||
