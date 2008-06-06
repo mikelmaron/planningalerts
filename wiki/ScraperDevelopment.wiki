@@ -21,8 +21,6 @@
   * West Oxfordshire
 
 = Scrapes done, but sites/scrapers broken =
-  * Durham (Duncan) - works for browser - empty results for script
-  * Hambleton (Duncan) - works for browser - empty results for script
   * Moray - empty database
   * Newcastle (not timing out today) - forbidden.
   * Sheffield - database was full, but is now empty (28/11/2007)
