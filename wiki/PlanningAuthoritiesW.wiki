@@ -28,7 +28,7 @@
 ||  || *Weymouth & Portland Borough Council* || Weymouth || last 28 days planning apps in html || http://www.weymouth.gov.uk/Planning/applications/newapps.asp?svid=212 ||
 ||  || *Wigan Metropolitan Borough Council* || Wigan || searchable by date received || http://kinnear.wigan.gov.uk/planapps/PlanAppsAppSearch.asp ||
 ||  || *Wiltshire County Council* || Trowbridge || plan-IT: searchable by date || http://www.wiltshireplanningapplications.co.uk/planning_search.aspx ||
-|| Broken || Winchester City Council || Winchester || PublicAccess || http://win2padmz.winchester.gov.uk/publicaccess/ ||
+|| Done || Winchester City Council || Winchester || PublicAccess || http://win2padmz.winchester.gov.uk/publicaccess/ ||
 ||  || *Windsor & Maidenhead Borough Council* || Maidenhead, Windsor || PAM - searchable by date. Database appears to be empty || http://www.rbwm.gov.uk/pam/search.jsp ||
 ||  || *Wirral Metropolitan Borough Council* || Wallasey || possible to ignore applications before a date || http://www.wirral.gov.uk/planning/search1.asp ||
 || Done || Woking Borough Council || Woking || PublicAccess || http://caps.woking.gov.uk/publicaccess/ ||
