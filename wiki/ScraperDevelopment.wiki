@@ -9,7 +9,7 @@
   * Wychavon (Duncan) - an AcolNet site, but slightly odd.
 
 = Scrapers done, but no postcodes =
-  * Bassetlaw (well almost none, anyway)
+  * Bassetlaw
   * Broadland
   * Christchurch
   * Derby
@@ -24,5 +24,4 @@
   * Newcastle (not timing out today) - forbidden.
   * Stratford - connection refused
   * Watford - site is down
-  * Wolverhampton (empty database)
  
