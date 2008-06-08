@@ -1,16 +1,18 @@
 Ocella
 
-    * Arun?
-    * Barnet?
-    * Breckland
-    * Bridgend?
-    * Carrick?
-    * Ellesmere Port
-    * Fareham?
+    * Arun (bit of a mess!): http://www.arun.gov.uk/iplanning/portal/page?_pageid=33,4139&_dad=portal&_schema=PORTAL
+    * Barnet?: I think this is now AcolNet
+    * Breckland - can't see any Ocella here.
+    * Bridgend: http://eplan.bridgend.gov.uk:7778/portal/page?_pageid=55,31779&_dad=portal&_schema=PORTAL 
+    * Carrick: Currently down
+    * Ellesmere Port : http://ocella.epnbc.gov.uk/portal/page?_pageid=33,38205&_dad=portal&_schema=PORTAL
+    * Fareham: http://eocella.fareham.gov.uk/portal/page?_pageid=33,31754&_dad=portal&_schema=PORTAL
     * Gosport?
     * Great Yarmouth?
     * Havering
-    * Hillingdon
-    * Middlesborough
+    * Hillingdon - very few postcodes
+    * Middlesborough - no date option
     * North East Lincolnshire
-    * Uttlesford 
+    * Uttlesford - http://planning.uttlesford.gov.uk/portal/page?_pageid=33,35447&_dad=portal&_schema=PORTAL
+
+It appears that what we actually want is got to by following the weekly list link in many cases. This takes you to a date search page. The general search page often has no date.
