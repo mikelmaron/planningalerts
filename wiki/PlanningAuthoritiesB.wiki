@@ -1,6 +1,6 @@
 || Done || Babergh || Babergh District Council || AcolNet (New site from 22/06/2007)|| http://planning.babergh.gov.uk/dcdatav2//acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 || Done || Barking and Dagenham || Barking, Dagenham || [WAM] || http://idoxwam.lbbd.gov.uk:8081/WAM/search/pas/index.htm ||
-|| || *Barnet* || Barnet Borough Council || [Ocella], but becoming AcolNet, apparently || http://planning.barnet.gov.uk:7778/pls/portal/PORTAL.wwa_app_module.show?p_sessionid=205173 ||
+|| Done || Barnet || Barnet Borough Council || AcolNet || http://194.75.183.100/planning-cases/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 || || *Barnsley* || Barnsley Metropolitan Borough Council || weekly lists in html. Rather out of date, and nowhere obvious to comment. ||http://applications.barnsley.gov.uk/service/development/weeklylist.asp ||
 || Done || Barrow ||Barrow-in-Furness Borough Council || ApplicationSearchServlet || http://localportal.barrowbc.gov.uk/portal/servlets/WeeklyListServlet ||
 || Done || Basildon || Basildon District Council || PublicAccess || http://planning.basildon.gov.uk/publicaccess/tdc/DcApplication/application_searchresults.aspx?searchtype=SPEC ||
