@@ -1,5 +1,6 @@
 = Scrapers being worked on =
 
+  * Barnet (Duncan) - AcolNet. Only just found this. Needs implementing.
   * Cambridgeshire (Duncan) - AcolNet. no advanced search page - will need some work
   * Isle of Man (Dan)
   * Kensington and Chelsea (Duncan) - AcolNet (maybe!)
