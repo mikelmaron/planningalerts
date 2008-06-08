@@ -17,6 +17,7 @@
   * Mid Suffolk
   * South Norfolk
   * South Somerset (has OSGB)
+  * Tewkesbury (has OSGB)
   * Trafford
   * West Oxfordshire
 
