@@ -1,7 +1,6 @@
 Ocella
 
     * Arun (bit of a mess!): http://www.arun.gov.uk/iplanning/portal/page?_pageid=33,4139&_dad=portal&_schema=PORTAL
-    * Barnet?: I think this is now AcolNet
     * Breckland - http://wplan01.intranet.breckland.gov.uk:7778/portal/page?_pageid=33,30988&_dad=portal&_schema=PORTAL
     * Bridgend: http://eplan.bridgend.gov.uk:7778/portal/page?_pageid=55,31779&_dad=portal&_schema=PORTAL 
     * Carrick: Currently down
