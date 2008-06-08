@@ -3,7 +3,7 @@
 We have a scraper for this sort of site. The sites all look subtly different, so it doesn't always work, and needs a bit of setting up.
 
   * Babergh
-  * Barnet (needs doing): http://194.75.183.100/planning-cases/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.pgesearch
+  * Barnet
   * Basingstoke
   * Bassetlaw (no postcodes)
   * Bolton
