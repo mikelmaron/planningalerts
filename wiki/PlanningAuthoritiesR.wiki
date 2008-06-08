@@ -19,6 +19,6 @@
 || || *Rushcliffe* || West Bridgford || Blueprint - searchable by date || http://www.document1.co.uk/blueprint/AdvSearch.asp ||
 || Done || Rushmoor || Farnborough || PublicAccess || http://pa-dc.rushmoor.gov.uk/publicaccess/ ||
 || Done || Rutland || Oakham || RutlandLike || http://www.rutland.gov.uk/wellandplanning/searchparam.asp ||
-|| || *Ryedale* || Malton || PlanetApplicationEnquiry || http://www.ryedale.gov.uk/ispforms.asp?serviceKey=SysDoc-PlanetApplicationEnquiry ||
+|| Done || Ryedale || Malton || PlanetApplicationEnquiry || http://www.ryedale.gov.uk/ispforms.asp?serviceKey=SysDoc-PlanetApplicationEnquiry ||
  
  
