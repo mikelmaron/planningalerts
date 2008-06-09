@@ -7,6 +7,7 @@ Types of site for which we have scrapers written
   * AcolNet
   * ApplicationSearchServlet
   * FastWeb 
+  * [Ocella]
   * PlanetApplicationEnquiry
   * PublicAccess
   * PlanningExplorer
