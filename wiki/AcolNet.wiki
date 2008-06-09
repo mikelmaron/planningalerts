@@ -9,7 +9,7 @@ We have a scraper for this sort of site. The sites all look subtly different, so
   * Bolton
   * Bridgenorth
   * Bury
-  * Cambridgeshire (very different)
+  * Cambridgeshire
   * Canterbury
   * Carlisle
   * Croydon
@@ -35,4 +35,4 @@ We have a scraper for this sort of site. The sites all look subtly different, so
   * Southwark
   * Suffolk Coastal
   * Surrey Heath (looks normal, but hard to get to. https, cookies, and javascript nonsense)
-  * Wychavon (very different)
+  * Wychavon (maybe)
