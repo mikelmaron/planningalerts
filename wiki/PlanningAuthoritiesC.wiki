@@ -1,7 +1,7 @@
 || || *Caerphilly* || Caerphilly County Borough Council || weekly lists as PDFs || http://www.caerphilly.gov.uk/yourservices/planning/planningbulletin/index.htm ||
 || || *Calderdale* ||  Calderdale Metropolitan Borough Council ||search by date, also last  7 days as html || http://www.calderdale.gov.uk/environment/planning/search-applications/index.jsp ||
 || Done || Cambridge ||  Cambridge City Council || PublicAccess|| http://www.cambridge.gov.uk/publicaccess/tdc/tdc_home.aspx ||
-|| In progress || *Cambridgeshire* ||  Cambridgeshire County Council || AcolNet || http://planapps.cambridgeshire.gov.uk/scripts/acolnet/acolnetcgi.exe? ||
+|| Done || Cambridgeshire ||  Cambridgeshire County Council || AcolNet *(few postcodes, and mostly partial)* || http://planapps.cambridgeshire.gov.uk/scripts/acolnet/acolnetcgi.exe? ||
 || Done || Camden ||  London Borough of Camden || PlanningExplorer, and [WAM] - we now have a scraper for each || http://www.camden.gov.uk/ccm/navigation/environment/planning-and-built-environment ||
 || || *Cannock* ||  Cannock Chase District Council || monthly application lists || http://www.cannockchasedc.gov.uk/site/scripts/documents_info.php?documentID=347&pageNumber=2 ||
 || Done || Canterbury ||  Canterbury City Council  || AcolNet || http://planning.canterbury.gov.uk/scripts/acolnetcgi.exe ||
