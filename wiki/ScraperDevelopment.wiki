@@ -1,20 +1,19 @@
 = Scrapers being worked on =
 
   * Bridgend (Duncan) - [Ocella]
-  * Cambridgeshire (Duncan) - AcolNet. no advanced search page - will need some work
   * Great Yarmouth (Dunca) - [Ocella]
   * Havering (Duncan) - [Ocella]
   * Isle of Man (Dan)
   * Kensington and Chelsea (Duncan) - AcolNet (maybe!)
   * Surrey Heath (Duncan) - AcolNet - The problem here looks like it might be cookie and javascript related.
   * Westminster (Duncan) - A slighly different WAM site.
-  * Wychavon (Duncan) - an AcolNet site, but slightly odd.
 
 = Scrapers done, but no (or very few) postcodes =
   * Arun
   * Bassetlaw
   * Breckland
   * Broadland
+  * Cambridgeshire (partial postcodes for some apps)
   * Christchurch
   * Derby
   * Forest Heath
