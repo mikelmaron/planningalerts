@@ -24,10 +24,10 @@
 || Done || Bradford || City of Bradford Metropolitan District Council || PublicAccess || http://www.planning4bradford.com/tdc/DcApplication/application_searchform.aspx ||
 || Done || Braintree || Braintree District Council || [WAM] || http://planningapp.braintree.gov.uk/WAM1/searchsubmit/performOption.do?action=search ||
 || || *Brecon Beacons* || Breacon Beacons National Park Authority || weekly lists as pdf or rtf || http://www.breconbeacons.org/planning/planning_apps ||
-|| || *Breckland* || Breckland District Council || [Ocella] search page with nothing useful, but also weekly lists in html || http://wplan01.intranet.breckland.gov.uk:7778/portal/page?_pageid=33,30970&_dad=portal&_schema=PORTAL ||
+|| Done || Breckland || Breckland District Council || [Ocella] || http://wplan01.intranet.breckland.gov.uk:7778/portal/page?_pageid=33,30970&_dad=portal&_schema=PORTAL ||
 || || *Brent* || Brent Borough Council || search by date || http://www.brent.gov.uk/servlet/ep.ext?extId=101149&byPeriod=Y&st=PL&periodUnits=day&periodMultiples=14 ||
 || || *Brentwood* || Brentwood Borough Council || weekly lists as pdf || http://www.brentwood-council.gov.uk/index.php?cid=573 ||
-|| || *Bridgend* || Bridgend County Borough Council || searchable by date [Ocella]? || http://www.bridgend.gov.uk/english/planningportal.asp ||
+|| In Progress || *Bridgend* || Bridgend County Borough Council || [Ocella] || http://www.bridgend.gov.uk/english/planningportal.asp ||
 || Done || Bridgnorth || Bridgnorth District Council || AcolNet || http://www2.bridgnorth-dc.gov.uk/planning/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.PgeApplications ||
 || || *Brighton* || Brighton & Hove Borough Council || searchable by date, note the extra link for tree applications || http://www.brighton-hove.gov.uk/index.cfm?request=c1133441 ||
 || Done || Bristol || Bristol City Council || PublicAccess || http://e2eweb.bristol-city.gov.uk/publicaccess/default.aspx ||
