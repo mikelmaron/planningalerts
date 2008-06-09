@@ -1,7 +1,9 @@
 = Scrapers being worked on =
 
-  * Barnet (Duncan) - AcolNet. Only just found this. Needs implementing.
+  * Bridgend (Duncan) - [Ocella]
   * Cambridgeshire (Duncan) - AcolNet. no advanced search page - will need some work
+  * Great Yarmouth (Dunca) - [Ocella]
+  * Havering (Duncan) - [Ocella]
   * Isle of Man (Dan)
   * Kensington and Chelsea (Duncan) - AcolNet (maybe!)
   * Mid Bedfordshire (Duncan) - AcolNet (but requires username and password)
@@ -9,12 +11,15 @@
   * Westminster (Duncan) - A slighly different WAM site.
   * Wychavon (Duncan) - an AcolNet site, but slightly odd.
 
-= Scrapers done, but no postcodes =
+= Scrapers done, but no (or very few) postcodes =
+  * Arun
   * Bassetlaw
+  * Breckland
   * Broadland
   * Christchurch
   * Derby
   * Forest Heath
+  * Hillingdon
   * Mid Suffolk
   * South Norfolk
   * South Somerset (has OSGB)
