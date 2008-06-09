@@ -13,7 +13,7 @@
 ||  || *Hastings Borough Council* || St Leonards on Sea || Weekly list as html, and UKPlanning || http://www.hastings.gov.uk/planning/SearchResults.aspx ||
 || 
 || Done || Havant Borough Council || Havant || AcolNet || http://www3.havant.gov.uk/scripts/planningpages/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.pgesearch&theme= ||
-||  || *Havering Borough Council* || Romford || [Ocella] || http://lxop01.havering.gov.uk:7783/portal/page?_pageid=33,30979&_dad=portal&_schema=PORTAL ||
+|| In Progress || *Havering Borough Council* || Romford || [Ocella] || http://lxop01.havering.gov.uk:7783/portal/page?_pageid=33,30979&_dad=portal&_schema=PORTAL ||
 ||  || *Herefordshire Council* || Hereford || searchable by date || http://www.herefordshire.gov.uk/gis/planQuery.aspx ||
 ||  || *Hertfordshire County Council* || Hertford || waste and minerals only, not online || http://www.hertsdirect.org/yrccouncil/hcc/env/hdp/ ||
 || Done || Hertsmere Borough Council || Borehamwood || AcolNet ||  http://www2.hertsmere.gov.uk/ACOLNET/DCOnline//acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
