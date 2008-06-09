@@ -19,7 +19,7 @@
 || Done || Hertsmere Borough Council || Borehamwood || AcolNet ||  http://www2.hertsmere.gov.uk/ACOLNET/DCOnline//acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 || Done || High Peak Borough Council || Glossop || ApplicationSearchServlet || http://planning.highpeak.gov.uk/portal/servlets/ApplicationSearchServlet ||
 ||  || *Highland Council* || Dingwall, Dornoch, etc || weekly lists as pdf || http://www.highland.gov.uk/yourenvironment/planning/planningapplicationsandbuildingwarrants/weekly-planning-bw-lists.htm ||
-||  || *Hillingdon Borough Council* || Uxbridge || [Ocella] || http://w09.hillingdon.gov.uk/portal/page?_pageid=33,82093&_dad=portal&_schema=PORTAL ||
+|| Done || Hillingdon Borough Council || Uxbridge || [Ocella] *(few postcodes)* || http://w09.hillingdon.gov.uk/portal/page?_pageid=33,82093&_dad=portal&_schema=PORTAL ||
 || Done || Hinckley and Bosworth Borough Council || Hinckley || PublicAccess using https || https://cx.hinckley-bosworth.gov.uk/PublicAccess/dc/dc_home.aspx ||
 || Done || Horsham District Council || Horsham || PublicAccess || http://publicaccess.horsham.gov.uk/publicaccess/tdc/tdc_home.aspx ||
 ||  || *London Borough of Hounslow* || Hounslow || searchable by date || http://planning.hounslow.gov.uk/planningv2/planning_search.aspx ||
