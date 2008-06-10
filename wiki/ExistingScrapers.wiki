@@ -18,8 +18,10 @@ Types of site for which we have scrapers written
 
 Others:
 
+  * Barnsley
   * Broxbourne - Tom's Scraper
   * Enfield
+  * Isle of Wight
   * South Oxfordshire
   * Walsall - Paul's Scraper
   * York
