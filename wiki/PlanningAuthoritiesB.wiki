@@ -31,7 +31,7 @@
 || Done || Bridgnorth || Bridgnorth District Council || AcolNet || http://www2.bridgnorth-dc.gov.uk/planning/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.PgeApplications ||
 || || *Brighton* || Brighton & Hove Borough Council || searchable by date, note the extra link for tree applications || http://www.brighton-hove.gov.uk/index.cfm?request=c1133441 ||
 || Done || Bristol || Bristol City Council || PublicAccess || http://e2eweb.bristol-city.gov.uk/publicaccess/default.aspx ||
-|| Done || Broadland || Broadland District Council || PlanningExplorer - site has no postcodes || http://www.broadland.gov.uk/mvm/Online/PL/GeneralSearch.aspx ||
+|| Done || Broadland || Broadland District Council || PlanningExplorer *(no postcodes)* || http://www.broadland.gov.uk/mvm/Online/PL/GeneralSearch.aspx ||
 || Done || Broads || Broads Authority || PublicAccess - using https || https://planning.broads-authority.gov.uk/PublicAccess/default.aspx ||
 || Done || Bromley || Bromley || PublicAccess || ||
 || || *Bromsgrove* || Bromsgrove District Council || pdf of year to date || http://bromsgrove.whub.org.uk/home/bdcindex/bdc-planning/bdc-planning-applications/bdc-planning-recent-applications.htm ||
