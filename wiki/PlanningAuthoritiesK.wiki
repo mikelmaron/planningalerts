@@ -1,5 +1,5 @@
 || Done || Kennet District Council || Devizes || PlanningExplorer || http://mvm-planning.kennet.gov.uk/Northgate/PlanningExplorer/GeneralSearch.aspx ||
-||  || *Kensington & Chelsea Borough Council* || London || weekly lists - looks like it could be related to AcolNet || http://www.rbkc.gov.uk/Planning/scripts/weeklyform.asp || 
+|| Done || Kensington & Chelsea Borough Council || London || Custom Scraper (seems to be related to AcolNet) || http://www.rbkc.gov.uk/Planning/scripts/weeklyform.asp || 
 ||  || *Kent County Council* || Maidstone || weekly lists as pdf || http://www.kent.gov.uk/publications/environment/weekly-planning-list.htm ||
 || Done || Kerrier District Council || Camborne || PublicAccess || || ||
 ||  || *Kettering Borough Council* || Kettering || weekly list, search facility without date || http://www.kettering.gov.uk/site/scripts/planning_list.php?weeklyList=true ||
