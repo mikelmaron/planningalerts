@@ -28,7 +28,7 @@
 || Done ||  City ||  Corporation of London || PublicAccess ||  ||
 ||  ||  *Clackmannanshire* ||   Clackmannanshire Council || Searchable by date || http://www.clacksweb.org.uk/property/planningregister/ ||
 || Done || Colchester ||  Colchester Borough Council || [WAM] || http://www.planning.colchester.gov.uk/WAM/searchsubmit/performOption.do?action=search ||
-||  ||  *Comhairle nan Eilean Siar* || Stornaway || Weekly lists in html - nice easy looking format || http://www.cne-siar.gov.uk/planapps/april2007.htm ||
+|| Done || Comhairle nan Eilean Siar || Stornaway || PublicAccess || http://planning.cne-siar.gov.uk/PublicAccess/tdc/ ||
 ||  || *Congleton Borough Council* || Congleton || Weekly lists as pdf || http://www.congleton.gov.uk/?t=589 ||
 ||  || *Conwy County Borough Council* || Conwy || Weekly lists as pdf (password "George" on the pdfs) || http://www.conwy.gov.uk/section.asp?cat=1536 ||
 ||  || *Copeland Borough Council* || Copeland || Weekly lists as pdf || http://www.copelandbc.gov.uk/main.asp?page=2888 ||
