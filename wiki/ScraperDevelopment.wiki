@@ -4,7 +4,6 @@
   * Great Yarmouth (Dunca) - [Ocella]
   * Havering (Duncan) - [Ocella]
   * Isle of Man (Dan)
-  * Kensington and Chelsea (Duncan) - AcolNet (maybe!)
   * Surrey Heath (Duncan) - AcolNet - The problem here looks like it might be cookie and javascript related.
   * Westminster (Duncan) - A slighly different WAM site.
 
