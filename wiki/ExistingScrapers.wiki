@@ -22,6 +22,8 @@ Others:
   * Broxbourne - Tom's Scraper
   * Enfield
   * Isle of Wight
+  * Kensington and Chelsea
+  * Shetland Islands
   * South Oxfordshire
   * Walsall - Paul's Scraper
   * York
