@@ -21,7 +21,7 @@ We have a scraper for this sort of site. The sites all look subtly different, so
   * Harlow
   * Havant
   * Hertsmere
-  * Kensington and Chelsea (maybe)
+  * Kensington and Chelsea (different enough for a custom scraper)
   * Lewisham
   * Mid Bedfordshire
   * Mid Suffolk (no postcodes)
