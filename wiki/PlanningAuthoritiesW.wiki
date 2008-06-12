@@ -37,7 +37,7 @@
 || Done || Worcester City Council || Worcester || PlanetApplicationEnquiry || http://www.worcester.gov.uk:8080/planet/ispforms.asp?serviceKey=SysDoc-PlanetApplicationEnquiry ||
 ||  || *Worcestershire County Council* || Worcester || list of all current apps in html || http://worcestershire.whub.org.uk/home/textonly/wccindex/wcc-planning/wcc-dev-control/wcc-dev-control-applications-decisions.htm ||
 || Done || Worthing Borough Council || Worthing || PublicAccess || http://planning.worthing.gov.uk/publicaccess/ ||
-||  || *Wrexham County Borough Council* || Wrexham || last x weeks planning apps available in html || http://www.wrexham.gov.uk/english/planning_portal/plan_apps/PlansSearch.cfm ||
+||  || *Wrexham County Borough Council* || Wrexham || last x weeks planning apps available in html *(no postcodes)* || http://www.wrexham.gov.uk/english/planning_portal/plan_apps/PlansSearch.cfm ||
 || In Progress || *Wychavon District Council* || Pershore || AcolNet, but not quite like the others || http://www.e-wychavon.org.uk/scripts/plan2005/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.Pages.PgeDC.LnkSearchGeneral.PgeSearchGeneral ||
 || Done || Wycombe District Council || High Wycombe || PublicAccess || http://planningpa.wycombe.gov.uk/PublicAccess/ ||
 ||  || *Wyre Borough Council* || Poulton-le-Fylde || current applications listed by month and year || http://www.wyrebc.gov.uk/Page.aspx?PvnID=48072&PgeID=48063&BrdCb=1-24-13552-13553-13579-13470-13618 ||
