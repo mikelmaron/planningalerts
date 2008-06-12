@@ -10,7 +10,7 @@
 || Done || East Lindsey District Council || Louth || AcolNet || http://www.e-lindsey.gov.uk/planning/AcolnetCGI.exe?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 || Done || East Lothian Council || Haddington || [WAM] || http://www.planning.eastlothian.gov.uk/WAM/search/pas/index.htm ||
 || Done || East Northamptonshire Council || Thrapston || RutlandLike (and PublicAccess) - I think the PublicAccess is more comprehensive and is the latest version. || http://www.east-northantsonline.co.uk/planning/searchparam.asp (also http://publicaccesssrv.east-northamptonshire.gov.uk/PublicAccess/ ) ||
-||  || *East Renfrewshire Council* || Glasgow || weekly lists as pdf || http://www.eastrenfrewshire.gov.uk/environment/planning/planning_applications/weekly_lists.htm ||
+||  || *East Renfrewshire Council* || Glasgow || No date search. All applications can be viewed in batches of five in no obvious order. || http://www.eastrenfrewshire.gov.uk/planning-and-the-environment/planning/planning_applications/application-search.htm ||
 || Done || East Riding of Yorkshire Council || Beverley || PublicAccess || http://www.eastriding.gov.uk/PublicAccess731c/dc/dc_home.aspx ||
 || Done || East Staffordshire Borough Council || Burton upon Trent || PlanningExplorer || http://www2.eaststaffsbc.gov.uk/MVM/Online/PL/GeneralSearch.aspx ||
 ||  || *East Sussex County Council* || Lewes || complete list of current applications as pdf or word || http://www.eastsussex.gov.uk/environment/planning/applications/applicationslong/download.htm ||
