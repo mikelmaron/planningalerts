@@ -1,6 +1,6 @@
 || Done || Macclesfield Borough Council || Macclesfield || [SwiftLG] - very slow to respond in browser, but fine for the scraper... || http://www.planportal.macclesfield.gov.uk/swiftlg/apas/run/wphappcriteria.display ||
 || Done || Maidstone Borough Council || Maidstone || [SwiftLG] || http://digitalmaidstone.co.uk/swiftlg/apas/run/wphappcriteria.display ||
-||  || *Maldon District Council* || Maldon || searchable by date || http://forms.maldon.gov.uk:8080/PlanApp/jsp/searchPlan.jsp ||
+|| Done || Maldon District Council || Maldon || Custom Scraper || http://forms.maldon.gov.uk:8080/PlanApp/jsp/searchPlan.jsp ||
 || Done || Malvern Hills District Council || Malvern || PublicAccess || ||
 || Done || Manchester City Council || Manchester || PublicAccess || http://www.publicaccess.manchester.gov.uk/publicaccess/tdc/tdc_home.aspx ||
 || Done|| Mansfield District Council || Mansfield || FastWeb || http://www.mansfield.gov.uk/Fastweb/search.asp ||
