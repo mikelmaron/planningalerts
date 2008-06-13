@@ -29,7 +29,3 @@
   * Stratford - connection refused
   * Watford - site is down
  
-= Need installing =
-
-  * Fife
-  * Forest of Dean
