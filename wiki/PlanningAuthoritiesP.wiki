@@ -1,7 +1,7 @@
 || || *Peak District NPA* || Bakewell || html results searchable by date || http://217.147.178.232/pam/search.jsp || 
 || || *Pembrokeshire Coast NPA* || Haverfordwest || html results searchable by date  || http://www.pcnpa.org.uk/website/default.asp?SID=1097 ||
 || Done || Pembrokeshire || Haverfordwest || [SwiftLG] || http://planning.pembrokeshire.gov.uk/swiftlg/apas/run/wphappcriteria.display ||
-|| || *Pendle* || Nelson || interactive planning - searchable by date || http://bopdoccip.pendle.gov.uk/PlanApp/jsp/searchPlan.jsp ||
+|| Done || Pendle || Nelson || Like Maldon || http://bopdoccip.pendle.gov.uk/PlanApp/jsp/searchPlan.jsp ||
 || || *Penwith* || Penzance || planning applications organised by year (in html) || http://www.penwith.gov.uk/index.cfm?articleid=7088 ||
 || Done || Perth & Kinross || Perth || PublicAccess || http://193.63.61.22/publicaccess/ ||
 || Done || Peterborough || Peterborough || PublicAccess || ||
