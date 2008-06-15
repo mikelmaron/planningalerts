@@ -18,7 +18,3 @@ PlanAppSrch.asp:
   * Purbeck
   * Shropshire
   * South Northamptonshire
-
-searchplan.jsp
-  * Maldon
-  * Pendle
