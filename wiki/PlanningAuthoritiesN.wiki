@@ -25,7 +25,7 @@
 || Done || North West Leicestershire District Council || Coalville || PublicAccess || http://paccess.nwleics.gov.uk/PublicAccess/tdc/DcApplication/application_searchform.aspx ||
 || Done || North Wiltshire District Council || Chippenham || AcolNet || http://planning.northwilts.gov.uk/DCOnline/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 || || *North York Moors National Park Authority* || York || weekly lists in html || http://www.moors.uk.net/content.php?nID=55 ||
-|| || *North Yorkshire County Council* || Northallerton || searchable by date || http://212.140.128.182/Online%20Register/PlanAppSrch.asp ||
+|| Done || North Yorkshire County Council || Northallerton || Like Shropshire. Has OSGB. *(few or no postcodes)* || http://212.140.128.182/Online%20Register/PlanAppSrch.asp ||
 || || *Northampton Borough Council* || Northampton || weekly lists in html - see also WNDC|| http://www.northamptonboroughcouncil.com/planning/defaultNBC.asp ||
 || || *Northamptonshire County Council* || Northampton || all apps in html or excel|| http://www.northamptonshire.gov.uk/Environment/DC/pln_apps.htm ||
 || Done || Northumberland County Council || Morpeth || PublicAccess || http://planning.northumberland.gov.uk/PublicAccess/tdc/DcApplication/application_searchform.aspx ||
