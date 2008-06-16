@@ -29,6 +29,7 @@ Others:
   * Maldon (and Pendle)
   * Medway
   * Shetland Islands
+  * Shropshire (and North Yorkshire, South Northamptonshire)
   * South Oxfordshire
   * Walsall - Paul's Scraper
   * York
