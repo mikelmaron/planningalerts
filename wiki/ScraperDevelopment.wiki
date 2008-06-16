@@ -18,7 +18,9 @@
   * Forest Heath
   * Hillingdon
   * Mid Suffolk
+  * North Yorkshire (has OSGB)
   * South Norfolk
+  * South Northamptonshire (has OSGB)
   * South Somerset (has OSGB)
   * Tewkesbury (has OSGB)
   * Trafford
