@@ -12,9 +12,3 @@ PAM:
 
   * Windsor & Maidenhead Borough Council
   * Peak District National Park Authority
-
-PlanAppSrch.asp:
-  * North Yorkshire
-  * Purbeck
-  * Shropshire
-  * South Northamptonshire
