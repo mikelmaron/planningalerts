@@ -1,7 +1,7 @@
 = Scrapers being worked on =
 
   * Bridgend (Duncan) - [Ocella]
-  * Great Yarmouth (Dunca) - [Ocella]
+  * Great Yarmouth (Duncan) - [Ocella]
   * Havering (Duncan) - [Ocella]
   * Isle of Man (Dan)
   * Surrey Heath (Duncan) - AcolNet - The problem here looks like it might be cookie and javascript related.
