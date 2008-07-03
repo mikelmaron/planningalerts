@@ -29,7 +29,8 @@ A few have no postcodes. In some cases they provide OSGB, which we should probab
   * Trafford (no postcodes)
   * West Oxfordshire (no postcodes)
 
-These ones are not yet done, as the sites are currently down:
+These ones are not yet done:
 
+  * Conwy
   * Merton (site down)
   * Waltham Forest (currently giving an error)
