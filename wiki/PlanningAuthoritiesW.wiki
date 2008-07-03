@@ -16,7 +16,7 @@
 || Done || West Berkshire Council || Newbury || PublicAccess || http://ww2.westberks.gov.uk/publicaccess/tdc/ ||
 ||  || *West Devon Borough Council* || Okehampton, Tavistock || searchable by date || http://www.westdevon.gov.uk/planningapp/planningsearch.aspx ||
 || Done || West Dorset District Council || Dorchester || Perl scraper from Tom || http://webapps.westdorset-dc.gov.uk/PlanningApplications/Pages/ApplicationSearch.aspx ||
-||  || *West Dunbartonshire Council* || Clydebank, Dumbarton || Weekly lists as word docs || http://www.wdcweb.info/buildingandplanning/DisplayArticle.asp?ID=1951 ||
+||  || *West Dunbartonshire Council* || Clydebank, Dumbarton || Searchable by date. May have PublicAccess underneath || http://www.wdcweb.info/uniform/dcsearch_app.asp ||
 || Done || West Lancashire District Council || Ormskirk || PublicAccess || http://publicaccess.westlancsdc.gov.uk/PublicAccess/tdc/DcApplication/application_searchform.aspx ||
 ||  || *West Lindsey District Council* || Gainsborough || searchable by some kind of date - complete dog's breakfast in FireFox... || http://planning.west-lindsey.gov.uk/planning/ ||
 ||  || *West Lothian Council* || Linlithgow || weekly lists as pdf || http://www.wlonline.org.uk/content/housing/planning/94575/1424627/?s=79277 ||
