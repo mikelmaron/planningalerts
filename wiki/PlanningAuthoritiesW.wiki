@@ -3,7 +3,7 @@
 || Broken || London Borough of Waltham Forest || Chingford || PlanningExplorer || http://planning.walthamforest.gov.uk/PlanningExplorer/GeneralSearch.aspx ||
 ||  || *Wandsworth Borough Council* || London || searchable by date received || http://www.wandsworth.gov.uk/gis/search/Search.aspx ||
 || Done || Wansbeck District Council || Bedlington || Provided to us by the council :-) || ||
-||  || *Warrington Borough Council* || Warrington || IE only || http://www.warrington.gov.uk/Environmentandplanning/Planning/Searching_Planning_Applications_On-Line.aspx ||
+|| Done || Warrington Borough Council || Warrington || [SwiftLG] || http://www.warrington.gov.uk/Environmentandplanning/Planning/Searching_Planning_Applications_On-Line.aspx ||
 ||  || *Warwick District Council* || Leamington Spa || searchable by validated date || http://estates.warwickdc.gov.uk/planningapps/forms/searchStartDate.aspx ||
 ||  || *Warwickshire County Council* || Warwick || html list of current applications || http://www.warwickshire.gov.uk/Web/corporate/pages.nsf/Pages%20by%20Department/A6E30208F224959D8025724A0034D717 ||
 || Done || Watford Council || Watford || PublicAccess || http://ww3.watford.gov.uk/publicaccess/dc/DcApplication/application_searchform.aspx ||
