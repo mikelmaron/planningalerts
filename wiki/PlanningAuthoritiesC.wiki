@@ -1,4 +1,4 @@
-|| || *Caerphilly* || Caerphilly County Borough Council || weekly lists as PDFs || http://www.caerphilly.gov.uk/yourservices/planning/planningbulletin/index.htm ||
+|| || *Caerphilly* || Caerphilly County Borough Council || searchable by date received || http://www.caerphilly.gov.uk/trans/planningapps/ ||
 || || *Cairngorms* || || Searchable by date || http://www.cairngorms.co.uk/planning/e-planning/index.php ||
 || || *Calderdale* ||  Calderdale Metropolitan Borough Council ||search by date, also last  7 days as html || http://www.calderdale.gov.uk/environment/planning/search-applications/index.jsp ||
 || Done || Cambridge ||  Cambridge City Council || PublicAccess|| http://www.cambridge.gov.uk/publicaccess/tdc/tdc_home.aspx ||
