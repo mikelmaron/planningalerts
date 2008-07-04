@@ -1,5 +1,8 @@
 Sites that look like East Hertfordshire (urls contain "wphappcriteria"):
 
+Need to do:
+    * Cannock Chase
+
 We now have a python parser for these (as well as parsers in PHP for East Herts and Islington).
 
     * Boston
