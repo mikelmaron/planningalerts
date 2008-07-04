@@ -1,5 +1,5 @@
 = Not yet installed =
-  * Cannock Chase *
+  * Cannock Chase
 
 = Scrapers being worked on =
 
