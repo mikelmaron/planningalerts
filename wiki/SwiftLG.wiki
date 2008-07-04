@@ -3,7 +3,7 @@ Sites that look like East Hertfordshire (urls contain "wphappcriteria"):
 We now have a python parser for these (as well as parsers in PHP for East Herts and Islington).
 
     * Boston
-    * Cannock Chase *(no postcodes)
+    * Cannock Chase *(no postcodes)*
     * Daventry
     * Dudley
     * East Hertfordshire
