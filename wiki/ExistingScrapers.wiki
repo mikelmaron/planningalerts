@@ -6,13 +6,13 @@ Types of site for which we have scrapers written
 
   * AcolNet
   * ApplicationSearchServlet
+  * AtriumePlanning
   * FastWeb 
   * [Ocella]
   * PlanetApplicationEnquiry
-  * PublicAccess
   * PlanningExplorer
+  * PublicAccess
   * RutlandLike (the ones that look like the Rutland site)
-  * AtriumePlanning
   * [SwiftLG]
   * [WAM]
 
