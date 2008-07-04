@@ -29,6 +29,7 @@
 || || *Northampton Borough Council* || Northampton || weekly lists in html - see also WNDC|| http://www.northamptonboroughcouncil.com/planning/defaultNBC.asp ||
 || || *Northamptonshire County Council* || Northampton || all apps in html or excel|| http://www.northamptonshire.gov.uk/Environment/DC/pln_apps.htm ||
 || Done || Northumberland County Council || Morpeth || PublicAccess || http://planning.northumberland.gov.uk/PublicAccess/tdc/DcApplication/application_searchform.aspx ||
+|| || Northumberland National Park || HTML list of current apps || http://planning.northumberland-national-park.org.uk/ ||
 || Done || Norwich City Council || Norwich || PublicAccess|| ||
 || Done || Nottingham City Council || Nottingham || [WAM] || http://plan4.nottinghamcity.gov.uk/WAM/search/pas/index.html||
 || || *Nottinghamshire County Council* || Nottingham, West Bridgford || No date search, but there is an apps open for consultation page. || http://www.nottinghamcity.gov.uk/planning/Report/weeksrch.html  ||
