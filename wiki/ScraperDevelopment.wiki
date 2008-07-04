@@ -29,7 +29,7 @@
   * South Somerset (has OSGB)
   * Tewkesbury (has OSGB)
   * Trafford
-  * West Oxfordshire
+  * West Oxfordshire (might be possible to get the postcode from the property address in the consultation tab)
 
 = Scrapes done, but sites/scrapers broken =
   * Newcastle (not timing out today) - forbidden.
