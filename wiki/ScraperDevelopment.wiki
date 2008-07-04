@@ -2,6 +2,7 @@
 
   * Bridgend (Duncan) - [Ocella]
   * Cannock Chase (Duncan) - [SwiftLG] - probably just needs adding.
+  * Conwy (Duncan) - PlanningExplorer - probably just needs adding.
   * Great Yarmouth (Duncan) - [Ocella]
   * Havering (Duncan) - [Ocella]
   * Isle of Man (Dan)
