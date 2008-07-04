@@ -1,7 +1,6 @@
 = Scrapers being worked on =
 
   * Bridgend (Duncan) - [Ocella]
-  * Cannock Chase (Duncan) - [SwiftLG] - probably just needs adding.
   * Conwy (Duncan) - PlanningExplorer - probably just needs adding.
   * Great Yarmouth (Duncan) - [Ocella]
   * Havering (Duncan) - [Ocella]
@@ -15,6 +14,7 @@
   * Breckland
   * Broadland
   * Cambridgeshire (partial postcodes for some apps)
+  * Cannock Chase
   * Christchurch
   * Derby
   * Forest Heath
