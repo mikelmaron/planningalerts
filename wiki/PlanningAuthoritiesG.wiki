@@ -5,8 +5,8 @@
 || Done || Gloucestershire County Council || Gloucester || PublicAccess ||  http://www.glcstrplnng11.co.uk/publicaccess/tdc/ ||
 ||  || *Gosport Borough Council* || Gosport || search by date || http://www.gosport.gov.uk/gbcplanning/ApplicationSearch2.aspx ||
 || Done || Gravesham Borough Council || Gravesend || PublicAccess || http://plan.gravesham.gov.uk/PublicAccess/ ||
-|| In Progress || *Great Yarmouth Borough Council* || Great Yarmouth || [Ocella] || http://www.great-yarmouth.gov.uk/planning/development_control/planning_applications/archived_applications_2006.htm ||
-||  || *Greenwich Borough Council* || London || weekly lists in html || http://www.greenwich.gov.uk/Greenwich/YourEnvironment/PlanningAndBuilding/PlanningBuildingConservation/ApplicationsDecisionsAppeals/PlanningApplications/April/ ||
+|| Done || Great Yarmouth Borough Council || Great Yarmouth || [Ocella] || http://www.great-yarmouth.gov.uk/planning/development_control/planning_applications/archived_applications_2006.htm ||
+|| Done || Greenwich Borough Council || London || Acolnet || http://onlineplanning.greenwich.gov.uk/acolnet/planningpages/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 || Done || Guildford Borough Council || Guildford || AcolNet || http://www.guildford.gov.uk/DLDC_Version_2/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 || Done || Gwynedd Council || Caernarfon, Dolgellau, Pwllheli || [SwiftLG] || http://www.gwynedd.gov.uk/swiftlg/apas/run/wphappcriteria.display ||
  
