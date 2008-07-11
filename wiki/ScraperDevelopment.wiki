@@ -1,12 +1,7 @@
-= Not yet installed =
-  * Cannock Chase
 
 = Scrapers being worked on =
 
-  * Bridgend (Duncan) - [Ocella]
   * Conwy (Duncan) - PlanningExplorer - probably just needs adding.
-  * Great Yarmouth (Duncan) - [Ocella]
-  * Havering (Duncan) - [Ocella]
   * Isle of Man (Dan)
   * Surrey Heath (Duncan) - AcolNet - The problem here looks like it might be cookie and javascript related.
   * Westminster (Duncan) - A slighly different WAM site.
