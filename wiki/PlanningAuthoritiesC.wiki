@@ -18,7 +18,7 @@
 || Done ||  Chelmsford || Chelmsford Borough Council || PublicAccess || http://web1.chelmsfordbc.gov.uk/publicaccess/ ||
 || Done ||  Cheltenham ||   Cheltenham Borough Council  || PublicAccess || http://planning.cheltenham.gov.uk/publicaccess/ ||
 || Done ||  Cherwell ||    Cherwell District Council  || PublicAccess || http://cherweb.cherwell-dc.gov.uk/publicaccess/default.aspx ||
-||  ||  *Cheshire* ||   Cheshire County Council  || PDFs, usefullish urls || http://www.cheshire.gov.uk/Planning/Planning%20Applications.htm ||
+||  ||  *Cheshire* ||   Cheshire County Council  || Searchable by date || http://cheshire.gov.uk/PlanningApplicationOnline/SearchOnline.aspx ||
 ||  ||  *Chester* ||   Chester City Council  || UK Planning || http://www.ukplanning.com/chester/search/index.htm ||
 || Done ||  Chester-le-Street ||   Chester-le-Street District Council  || PublicAccess || http://planning.chester-le-street.gov.uk/publicaccess/ ||
 ||  ||  *Chesterfield* ||  Chesterfield Borough Council  || last week or all apps in HTML || http://www.chesterfield.gov.uk/planning/default.asp?mode=&ShowAll=true ||
