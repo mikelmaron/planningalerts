@@ -18,7 +18,7 @@
 ||  || *Hertfordshire County Council* || Hertford || waste and minerals only, not online || http://www.hertsdirect.org/yrccouncil/hcc/env/hdp/ ||
 || Done || Hertsmere Borough Council || Borehamwood || AcolNet ||  http://www2.hertsmere.gov.uk/ACOLNET/DCOnline//acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 || Done || High Peak Borough Council || Glossop || ApplicationSearchServlet || http://planning.highpeak.gov.uk/portal/servlets/ApplicationSearchServlet ||
-||  || *Highland Council* || Dingwall, Dornoch, etc || weekly lists as pdf || http://www.highland.gov.uk/yourenvironment/planning/planningapplicationsandbuildingwarrants/weekly-planning-bw-lists.htm ||
+|| Done || Highland Council || Dingwall, Dornoch, etc || weekly lists as pdf - perl scraper from Peter || http://www.highland.gov.uk/yourenvironment/planning/planningapplicationsandbuildingwarrants/weekly-planning-bw-lists.htm ||
 || Done || Hillingdon Borough Council || Uxbridge || [Ocella] *(few postcodes)* || http://w09.hillingdon.gov.uk/portal/page?_pageid=33,82093&_dad=portal&_schema=PORTAL ||
 || Done || Hinckley and Bosworth Borough Council || Hinckley || PublicAccess using https || https://cx.hinckley-bosworth.gov.uk/PublicAccess/dc/dc_home.aspx ||
 || Done || Horsham District Council || Horsham || PublicAccess || http://publicaccess.horsham.gov.uk/publicaccess/tdc/tdc_home.aspx ||
