@@ -19,15 +19,19 @@ Types of site for which we have scrapers written
 Others:
 
   * Barnsley
+  * Brentwood (from Peter)
   * Broxbourne - Tom's Scraper
-  * Enfield
+  * Enfield (Now using the SwiftLG scraper)
   * Fife
   * Flintshire
   * Forest of Dean
+  * Glasgow (from Peter)
+  * Highland (from Peter)
   * Isle of Wight
   * Kensington and Chelsea
   * Maldon (and Pendle)
   * Medway
+  * Newport (from Peter)
   * Shetland Islands
   * Shropshire (and North Yorkshire, South Northamptonshire)
   * South Oxfordshire
