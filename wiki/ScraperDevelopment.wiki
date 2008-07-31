@@ -1,7 +1,11 @@
+= Just Need Installing =
+
+  * Conwy
+  * Merton
+  * Newport
 
 = Scrapers being worked on =
 
-  * Conwy (Duncan) - PlanningExplorer - probably just needs adding.
   * Isle of Man (Dan)
   * Surrey Heath (Duncan) - AcolNet - The problem here looks like it might be cookie and javascript related.
   * Westminster (Duncan) - A slighly different WAM site.
