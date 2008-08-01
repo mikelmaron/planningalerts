@@ -1,5 +1,5 @@
 || Done || Reading || Reading || PublicAccess || http://planning.reading.gov.uk/publicaccess/default.aspx ||
-|| || *Redbridge* || Ilford || Weekly lists as pdf || http://www.redbridge.gov.uk/planning/Planappsrec.cfm ||
+|| Done || Redbridge || Ilford || Weekly lists as pdf - Perl scraper from Peter || http://www.redbridge.gov.uk/cms/environment__planning/planning_and_regeneration/planning_dc.aspx ||
 || || *Redcar & Cleveland* || Redcar || list of all current apps as html (*No postcodes* in location, only in applicant details, which may be a different address || http://www.redcar-cleveland.gov.uk/Planning.nsf/ViewWebApplicationsByDate?readform ||
 || Done || Redditch || Redditch || PublicAccess || http://access.redditchbc.gov.uk/publicaccess/default.aspx ||
 || || *Reigate & Banstead* || Reigate || Planit - searchable by date || http://www.reigate-banstead.gov.uk/planit03.asp ||

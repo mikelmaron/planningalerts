@@ -3,6 +3,8 @@
   * Conwy
   * Merton
   * Newport
+  * North Ayrshire
+  * Redbridge
 
 = Scrapers being worked on =
 
