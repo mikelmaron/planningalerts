@@ -18,6 +18,7 @@ Types of site for which we have scrapers written
 
 Others:
 
+  * Amber Valley
   * Barnsley
   * Brentwood (from Peter)
   * Broxbourne - Tom's Scraper
