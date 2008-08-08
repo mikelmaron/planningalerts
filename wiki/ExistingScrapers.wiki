@@ -17,9 +17,10 @@ Types of site for which we have scrapers written
   * [WAM]
 
 Others:
-
+  * Aberdeenshire
   * Amber Valley
   * Barnsley
+  * Brent
   * Brentwood (from Peter)
   * Broxbourne - Tom's Scraper
   * Enfield (Now using the SwiftLG scraper)
