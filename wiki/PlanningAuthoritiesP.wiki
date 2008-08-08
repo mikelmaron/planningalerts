@@ -8,6 +8,6 @@
 || || *Plymouth* || Plymouth || searchable by date || http://www.plymouth.gov.uk/planningapplications2/search.asp ||
 || Done || Poole || Poole || [WAM] || http://wam.boroughofpoole.com/WAM/search/pas/index.htm ||
 || Done || Portsmouth || Portsmouth || PublicAccess || 
-|| || *Powys* || Brecon, Llandrindod Wells, Welshpool || very little of use. || http://www.powys.gov.uk/index.php?id=75 || 
+|| || *Powys* || Brecon, Llandrindod Wells, Welshpool || Weekly lists as pdf || http://www.powys.gov.uk/index.php?id=3861&L=0&action=archive&type=pr || 
 || || *Preston* || Preston || weekly lists as pdf - hard to navigate|| http://www.preston.gov.uk/Category.asp?cat=1555 ||
 || || *Purbeck* || Wareham || Like Shropshire || http://www.purbeck.gov.uk/planning/planappsrch.asp ||
