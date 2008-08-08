@@ -1,7 +1,7 @@
 #summary Planning Authorities A.
 
 || || *Aberdeen* || Aberdeen City Council ||  weekly lists as pdf || http://www.aberdeencity.gov.uk/ACCI/web/site/Planning/SL/pla_PlanningApps.asp ||
-|| || *Aberdeenshire* || Aberdeenshire Council || search facility which includes date || http://www.aberdeenshire.gov.uk/planning/apps/index.asp#search || 
+|| Done || Aberdeenshire || Aberdeenshire Council || search facility which includes date || http://www.aberdeenshire.gov.uk/planning/apps/index.asp#search || 
 || || *Adur* ||Adur District Council || weekly listings as pdf || http://www.adur.gov.uk/planning/applications/planning-apps.htm || 
 || Done || Allerdale || Allerdale Borough Council || ApplicationSearchServlet || http://planning.allerdale.gov.uk/portal/servlets/ApplicationSearchServlet || 
 || Done || Alnwick || Alnwick District Council || ApplicationSearchServlet || http://services.castlemorpeth.gov.uk:7777/portal/servlets/ApplicationSearchServlet ||
