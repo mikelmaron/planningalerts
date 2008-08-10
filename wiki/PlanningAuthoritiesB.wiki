@@ -30,7 +30,7 @@
 || Done || Brentwood || Brentwood Borough Council || weekly lists as pdf - perl scraper from Peter || http://www.brentwood-council.gov.uk/index.php?cid=573 ||
 || Done || Bridgend || Bridgend County Borough Council || [Ocella] || http://eplan.bridgend.gov.uk:7778/portal/page?_pageid=55,31779&_dad=portal&_schema=PORTAL ||
 || Done || Bridgnorth || Bridgnorth District Council || AcolNet || http://www2.bridgnorth-dc.gov.uk/planning/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.PgeApplications ||
-|| || *Brighton* || Brighton & Hove Borough Council || searchable by date, note the extra link for tree applications || http://www.brighton-hove.gov.uk/index.cfm?request=c1133441 ||
+|| || *Brighton* || Brighton & Hove Borough Council || searchable by date. No postcode in the site address. Could make it work for most apps by taking the postcode from the applicant address when it is the same. Note the extra link for tree applications || http://www.brighton-hove.gov.uk/index.cfm?request=c1133441 ||
 || Done || Bristol || Bristol City Council || PublicAccess || http://e2eweb.bristol-city.gov.uk/publicaccess/default.aspx ||
 || Done || Broadland || Broadland District Council || PlanningExplorer *(no postcodes)* || http://www.broadland.gov.uk/mvm/Online/PL/GeneralSearch.aspx ||
 || Done || Broads || Broads Authority || PublicAccess - using https || https://planning.broads-authority.gov.uk/PublicAccess/default.aspx ||
