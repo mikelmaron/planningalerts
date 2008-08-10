@@ -9,7 +9,7 @@
 || Done || Bath || Bath & North East Somerset Council || PublicAccess || http://planning.bathnes.gov.uk/publicaccess/ ||
 || Done || Bedford || Bedford Borough Council || PublicAccess ||http://www.publicaccess.bedford.gov.uk/publicaccess/default.aspx ||
 || || *Bedfordshire* || Bedfordshire County Council || minerals and waste only. Single PDF with *no postcodes* || http://www.bedfordshire.gov.uk/Resources/PDF/EnvironmentAndPlanning/PlanningApplications/Monitoring%20progress.pdf ||
-|| || *Berwick* || Berwick-upon-Tweed Borough Council || weekly lists in html || http://www.berwick-upon-tweed.gov.uk/planning/register.htm ||
+|| Done || Berwick || Berwick-upon-Tweed Borough Council || Custom Scraper || http://www.berwick-upon-tweed.gov.uk/planning/register.htm ||
 || Done || Bexley || Bexley Borough Council || PublicAccess ||http://publicaccess.bexley.gov.uk/publicaccess/tdc/tdc_home.aspx ||
 || || *Birmingham* ||Birmingham City Council || searchable by date || http://www.birmingham.gov.uk/GenerateContent?CONTENT_ITEM_ID=67548&CONTENT_ITEM_TYPE=0&MENU_ID=12189 ||
 || Done || Blaby || Blaby District Council || PublicAccess || http://www.blaby.gov.uk/PublicAccess ||
