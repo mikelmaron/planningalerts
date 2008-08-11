@@ -9,7 +9,7 @@
 || Done || Caradon ||   Caradon District Council  || PublicAccess || http://publicaccess.caradon.gov.uk/publicaccess/ ||
 || || *Cardiff* ||   Cardiff County Council  || Weekly lists as pdf || http://www.cardiff.gov.uk/content.asp?Parent_Directory_id=2865&nav=2870,3139,3153,3943 ||
 || Done || Carlisle ||  Carlisle City Council  || AcolNet || http://planning.carlisle.gov.uk/acolnet/acolnetcgi.gov ||
-|| || *Carmarthenshire* ||   Carmarthenshire County Council  || searchable by date || http://www.carmarthenshire.gov.uk/CCC_APPS/eng/plannaps/ccc_planningapplications.asp ||
+|| Done || Carmarthenshire ||   Carmarthenshire County Council  || Custom Scraper || http://www.carmarthenshire.gov.uk/CCC_APPS/eng/plannaps/ccc_planningapplications.asp ||
 || || *Carrick* ||    Carrick District Council  || searchable by date || http://www.carrick.gov.uk/index.cfm?articleid=13904 ||
 || || *Castle Morpeth* ||    Castle Morpeth Borough Council  || searchable by date || http://www.castlemorpeth.gov.uk/addon/planningapps/search.asp ||
 || Done || Castle Point ||   Castle Point Borough Council  || [Ocella] || http://planning.castlepoint.gov.uk/portal/page?_pageid=35,38205&_dad=portal&_schema=PORTAL ||
