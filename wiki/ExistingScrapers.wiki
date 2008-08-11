@@ -21,6 +21,7 @@ Others:
   * Amber Valley
   * Barnsley
   * Berwick
+  * Birmingham
   * Brent
   * Brentwood (from Peter)
   * Broxbourne - Tom's Scraper
