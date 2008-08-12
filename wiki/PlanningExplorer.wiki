@@ -7,6 +7,7 @@ Done, and working:
   * Blackburn
   * Camden - done (has OSGB)
   * Charnwood (done, site has a problem with its info links)
+  * Conwy
   * Crewe and Nantwich
   * East Staffordshire
   * Epping Forest
@@ -14,6 +15,7 @@ Done, and working:
   * Kennet
   * Lincoln (also WAM)
   * Liverpool
+  * Merton
   * Shrewsbury
   * Swansea
   * South Shropshire
@@ -31,6 +33,4 @@ A few have no postcodes. In some cases they provide OSGB, which we should probab
 
 These ones are not yet done:
 
-  * Conwy
-  * Merton (site down)
   * Waltham Forest (currently giving an error)
