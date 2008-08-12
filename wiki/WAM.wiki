@@ -16,7 +16,3 @@ Done:
     * South Gloucestershire
     * South Norfolk (appears to have PlanningExplorer as well) (No postcodes)
     * Tower Hamlets (done)
-
-To Do
-
-    * Westminster
