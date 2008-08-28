@@ -9,7 +9,7 @@
 || Done || Watford Council || Watford || PublicAccess || http://ww3.watford.gov.uk/publicaccess/dc/DcApplication/application_searchform.aspx ||
 || Done || Waveney District Council || Beccles ,Bungay, Halesworth, Lowestoft || PublicAccess || http://publicaccess.waveney.gov.uk/PublicAccess/tdc/DcApplication/application_searchform.aspx ||
 ||  || *Waverley Borough Council* || Godalming || No date search, but html list of 100 most recent apps || http://waverweb.waverley.gov.uk/live/wbc/pwl.nsf/webdisplaypubliclist?OpenForm&Seq=2#_RefreshKW_showmeby ||
-||  || *Wealden District Council* || Crowborough || searchable by date received || http://www.planning.wealden.gov.uk/aspxpages/Search.aspx ||
+|| Done || Wealden District Council || Crowborough || PHP scraper from Matt || http://www.planning.wealden.gov.uk/aspxpages/Search.aspx ||
 || Done || Wear Valley District Council || Crook || ApplicationSearchServlet || http://planning.wearvalley.gov.uk/portal/servlets/ApplicationSearchServlet ||
 || Done || Wellingborough Borough Council || Wellingborough || ApplicationSearchServlet || http://planning.wellingborough.gov.uk/portal/ ||
 || Done || Welwyn-Hatfield District Council || Welwyn Garden City || FastWeb || https://fastweb.welhat.gov.uk/results.asp ||
