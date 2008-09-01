@@ -6,6 +6,7 @@
   * Isle of Man (Dan)
   * Surrey Heath (Duncan) - AcolNet - The problem here looks like it might be cookie and javascript related.
   * Westminster (Duncan) - A slighly different WAM site.
+  * PlanIT (Matt) - Early stages of development of a scraper for PlanIT
 
 = Scrapers done, but no (or very few) postcodes =
   * Arun
