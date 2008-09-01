@@ -1,5 +1,5 @@
+#summary A scraper for the PlanIT system
 #labels Phase-Implementation
-# A scraper for the PlanIT system
 = Introduction =
 Proposed development of a scraper for the Plan-It system.
 
