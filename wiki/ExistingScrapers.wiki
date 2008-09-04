@@ -41,12 +41,14 @@ Others:
   * Newport (from Peter)
   * North Ayrshire (from Peter)
   * Redbridge (from Peter)
+  * Richmond - PHP scraper from Matt
   * Shetland Islands
   * Shropshire (and North Yorkshire, South Northamptonshire)
   * South Oxfordshire
   * Walsall - Paul's Scraper
   * Wealden - PHP scraper from Matt
   * Westminster
+  * Wiltshire - PHP scraper from Matt
   * York
 
 Provided directly by the council:
