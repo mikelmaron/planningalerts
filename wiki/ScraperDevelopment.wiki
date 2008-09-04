@@ -1,5 +1,7 @@
 = Need Installing = 
   * Birmingham
+  * Richmond
+  * Wiltshire
 
 = Scrapers being worked on =
 
