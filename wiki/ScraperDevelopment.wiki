@@ -1,8 +1,3 @@
-= Need Installing = 
-  * Birmingham
-  * Richmond
-  * Wiltshire
-
 = Scrapers being worked on =
 
   * Isle of Man (Dan)
