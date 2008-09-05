@@ -30,6 +30,7 @@ Others:
   * Flintshire
   * Forest of Dean
   * Glasgow (from Peter)
+  * Halton (no satisfactory info url)
   * Harrow (no satisfactory info url)
   * Highland (from Peter)
   * Hounslow
@@ -41,6 +42,7 @@ Others:
   * Newport (from Peter)
   * North Ayrshire (from Peter)
   * Redbridge (from Peter)
+  * Reigate and Banstead (PHP scraper from Matt)
   * Richmond - PHP scraper from Matt
   * Shetland Islands
   * Shropshire (and North Yorkshire, South Northamptonshire)
