@@ -2,7 +2,7 @@
 || Done || Halton Borough Council || Runcorn || Custom Scraper || http://www.halton.gov.uk/planningapps/ ||
 || Done || Hambleton District Council || Northallerton || PublicAccess (works for php scraper but not the python one) || http://planning.hambleton.gov.uk/publicaccess/tdc/DcApplication/application_searchform.aspx ||
 || Done || Hammersmith & Fulham Borough Council || London || PublicAccess || http://www.apps.lbhf.gov.uk/PublicAccess/tdc/DcApplication/application_searchform.aspx ||
-||  || *Hampshire County Council* || Winchester || online in html, but no date search || http://www3.hants.gov.uk/planning/mineralsandwaste/planning-applications/applications.htm ||
+|| Done || Hampshire County Council || Winchester || Custom Scraper || http://www3.hants.gov.uk/planning/mineralsandwaste/planning-applications/applications.htm ||
 || Done || Harborough District Council || Leicester || searchable by date (also PublicAccess). The apps are not the same in each, but the PublicAccess is the most recent version (7.4) || http://www.harborough.gov.uk/planning/searchparam.asp and http://pa.harborough.gov.uk/PublicAccess/ ||
 || Done || Haringey Borough Council || Tottenham || ApplicationSearchServlet || http://www.planningservices.haringey.gov.uk/portal/servlets/ApplicationSearchServlet ||
 || Done || Harlow District Council || Harlow || AcolNet || Prehttp://planning.harlow.gov.uk/PlanningSearch/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.PgeSearch ||
