@@ -33,6 +33,7 @@ Others:
   * Halton (no satisfactory info url)
   * Hampshire
   * Harrow (no satisfactory info url)
+  * Hastings (no satisfactory info_url)
   * Highland (from Peter)
   * Hounslow
   * Isle of Wight
