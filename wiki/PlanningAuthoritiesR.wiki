@@ -2,7 +2,7 @@
 || Done || Redbridge || Ilford || Weekly lists as pdf - Perl scraper from Peter || http://www.redbridge.gov.uk/cms/environment__planning/planning_and_regeneration/planning_dc.aspx ||
 || || *Redcar & Cleveland* || Redcar || list of all current apps as html (*No postcodes* in location, only in applicant details, which may be a different address || http://www.redcar-cleveland.gov.uk/Planning.nsf/ViewWebApplicationsByDate?readform ||
 || Done || Redditch || Redditch || PublicAccess || http://access.redditchbc.gov.uk/publicaccess/default.aspx ||
-|| || *Reigate & Banstead* || Reigate || Planit - searchable by date || http://www.reigate-banstead.gov.uk/planit03.asp ||
+|| Done || Reigate and Banstead || Reigate || Planit - PHP scraper from Matt || http://www.reigate-banstead.gov.uk/planit03.asp ||
 || Done || Renfrewshire || Paisley || AcolNet || http://planning.renfrewshire.gov.uk/acolnetDCpages/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.PgeSearch ||
 || || *Restormel* || St. Austell || searchable by date || http://www.restormel.gov.uk/index.cfm?articleid=11668 ||
 || || *Rhondda Cynnon Taf County* || Pontypridd || weekly lists as pdf - a bit behind || http://www.rhondda-cynon-taff.gov.uk/stellent/groups/public/documents/hcst/content.hcst?lang=en&textonly=false&xNodeID=608 ||
