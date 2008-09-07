@@ -3,6 +3,7 @@
   * Isle of Man (Dan)
   * Surrey Heath (Duncan) - AcolNet - The problem here looks like it might be cookie and javascript related.
   * PlanIT (Matt) - Early stages of development of a scraper for PlanIT
+  * Flintshire (Duncan)
 
 = Scrapers done, but no (or very few) postcodes =
   * Arun
