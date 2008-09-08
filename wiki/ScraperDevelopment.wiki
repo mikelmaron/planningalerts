@@ -1,5 +1,5 @@
 = To install =
-  * Herefordshire *
+  * Herefordshire
 
 = Scrapers being worked on =
 
