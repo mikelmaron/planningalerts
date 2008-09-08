@@ -15,7 +15,7 @@
 || Done || Blaby || Blaby District Council || PublicAccess || http://www.blaby.gov.uk/PublicAccess ||
 || Done || Blackburn || Blackburn with Darwen Borough Council || PlanningExplorer || http://195.8.175.6/MVM/Online/PL/GeneralSearch.aspx ||
 || Done || Blackpool || Blackpool || AcolNet || http://www2.blackpool.gov.uk/PlanningApplications/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
-|| || *Blaenau Gwent* ||Blaenau Gwent County Borough Council || Apps by year in one big html page ||http://www.blaenau-gwent.gov.uk/environment/8380.asp ||
+|| || *Blaenau Gwent* ||Blaenau Gwent County Borough Council || Apps by year in one big PDF || http://www.blaenau-gwent.gov.uk/housing/5698.asp ||
 || || *Blyth Valley* || Blyth Valley Borough Council || weekly lists as pdf, rather out of date || http://www.blythvalley.gov.uk/Default.aspx?page=10932 ||
 || Done || Bolsover || Bolsover District Council || PublicAccess || http://217.158.161.181/publicaccess/tdc/DcApplication/application_searchform.aspx ||
 || Done || Bolton || Bolton Metropolitan Borough Council || AcolNet || http://www.planning.bolton.gov.uk/DCOnlineV2/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
