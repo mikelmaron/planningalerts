@@ -14,7 +14,7 @@
 || Done || East Riding of Yorkshire Council || Beverley || PublicAccess || http://www.eastriding.gov.uk/PublicAccess731c/dc/dc_home.aspx ||
 || Done || East Staffordshire Borough Council || Burton upon Trent || PlanningExplorer || http://www2.eaststaffsbc.gov.uk/MVM/Online/PL/GeneralSearch.aspx ||
 ||  || *East Sussex County Council* || Lewes || complete list of current applications as pdf or word || http://www.eastsussex.gov.uk/environment/planning/applications/applicationslong/download.htm ||
-||  || *Eastbourne Borough Council* || Eastbourne || searchable by date || http://www.eastbourne.gov.uk/planningapplications/search.asp ||
+|| Done || Eastbourne Borough Council || Eastbourne || Custom scraper. *The info and comment urls don't work because you can't get to them without a cookie.* || http://www.eastbourne.gov.uk/planningapplications/search.asp ||
 || Done || Eastleigh Borough Council || Eastleigh || FastWeb || http://www.eastleigh.gov.uk/FastWEB/search.asp ||
 || Done || Eden District Council || Penrith || FastWeb || http://eforms.eden.gov.uk/fastweb/search.asp||
 || Done || Edinburgh City Council || Edinburgh || PublicAccess || http://citydev-portal.edinburgh.gov.uk/publicaccess/dc/DcApplication/application_searchform.aspx||
