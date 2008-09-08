@@ -1,5 +1,3 @@
-= To install =
-  * Herefordshire
 
 = Scrapers being worked on =
 
