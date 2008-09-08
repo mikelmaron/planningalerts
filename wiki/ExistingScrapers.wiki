@@ -27,13 +27,14 @@ Others:
   * Broxbourne - Tom's Scraper
   * Enfield (Now using the SwiftLG scraper)
   * Fife
-  * Flintshire
+  * Flintshire (the site has now completely changed, so we're starting from scratch, I think)
   * Forest of Dean
   * Glasgow (from Peter)
   * Halton (no satisfactory info url)
   * Hampshire
   * Harrow (no satisfactory info url)
   * Hastings (no satisfactory info_url)
+  * Herefordshire
   * Highland (from Peter)
   * Hounslow
   * Isle of Wight
