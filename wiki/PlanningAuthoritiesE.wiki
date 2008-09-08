@@ -26,4 +26,4 @@
 ||  || *Erewash Borough Council* || Nottingham || weekly lists as pdf - latest apps as html || http://www.erewashbc.org.uk/planning/index.asp ||
 ||  || *Essex County Council* || Chelmsford || Minerals and waste only. Consultation site requires registration. Applications in HTML grouped by area || http://www.essexcc.gov.uk/vip8/ecc/ECCWebsite/dis/guc.jsp?channelOid=27961&guideOid=32942&guideContentOid=97837, http://www.essexcc.gov.uk/vip8/ecc/ECCWebsite/dis/gui.jsp?channelOid=27961&guideOid=76343 ||
 || Done || Exeter City Council || Exeter || AcolNet || http://pub.exeter.gov.uk/scripts/acolnet/dataonlineplanning/AcolnetCGI.gov?agreeprint=I+AGREE+ ||
-||  || *Exmoor National Park Authority* || Dulverton || weekly lists as html || http://www.exmoor-nationalpark.gov.uk/planning_application_search_week_ending.htm ||
+|| Done || Exmoor National Park Authority || Dulverton || Custom scraper || http://www.exmoor-nationalpark.gov.uk/planning_application_search_week_ending.htm ||
