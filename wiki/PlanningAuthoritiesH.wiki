@@ -24,5 +24,5 @@
 || Done || Horsham District Council || Horsham || PublicAccess || http://publicaccess.horsham.gov.uk/publicaccess/tdc/tdc_home.aspx ||
 || Done || London Borough of Hounslow || Hounslow || Custom Scraper || http://planning.hounslow.gov.uk/planningv2/planning_search.aspx, Can do a direct get to http://planning.hounslow.gov.uk/planningv2/planning_summary.aspx?strWeekListType=SRCH&strRecTo=10/07/2008&strRecFrom=01/07/2008&strWard=ALL&strAppTyp=ALL&strWardTxt=All%20Wards&strAppTypTxt=All%20Application%20Types&strArea=ALL&strAreaTxt=All%20Areas&strStreet=ALL&strStreetTxt=All%20Streets&strPC=&strLimit=50 ||
 || Done || Huntingdonshire District Council || Huntingdon || PublicAccess || http://planning.huntsdc.gov.uk/publicaccess/tdc/tdc_home.aspx ||
-||  || *Hyndburn Borough Council* || Accrington || Fortnightly PDFs || http://www.hyndburnbc.gov.uk/site/custom_scripts/planapps/appsindex.php ||
+||  || *Hyndburn Borough Council* || Accrington || Fortnightly PDFs  || http://www.hyndburnbc.gov.uk/site/custom_scripts/planapps/appsindex.php ||
  
