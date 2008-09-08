@@ -23,7 +23,7 @@
 || Done || Enfield Borough Council || Enfield || searchable by date || https://forms.enfield.gov.uk/ufs/ufsmain?esessionid=1 ||
 || Done || Epping Forest District Council || Epping || PlanningExplorer || http://plan1.eppingforestdc.gov.uk/MVM/Online/PL/GeneralSearch.aspx ||
 || Done || Epsom & Ewell Borough Council || Epsom || PublicAccess || http://eplanning.epsom-ewell.gov.uk/publicaccess/tdc/DcApplication/application_searchform.aspx ||
-||  || *Erewash Borough Council* || Nottingham || weekly lists as pdf - latest apps as html || http://www.erewashbc.org.uk/planning/index.asp ||
+||  || *Erewash Borough Council* || Nottingham || weekly lists as pdf - latest apps as html *(No postcodes in the html, postcodes available in the PDFs, but they are scanned)* || http://www.erewashbc.org.uk/planning/index.asp ||
 ||  || *Essex County Council* || Chelmsford || Minerals and waste only. Consultation site requires registration. Applications in HTML grouped by area || http://www.essexcc.gov.uk/vip8/ecc/ECCWebsite/dis/guc.jsp?channelOid=27961&guideOid=32942&guideContentOid=97837, http://www.essexcc.gov.uk/vip8/ecc/ECCWebsite/dis/gui.jsp?channelOid=27961&guideOid=76343 ||
 || Done || Exeter City Council || Exeter || AcolNet || http://pub.exeter.gov.uk/scripts/acolnet/dataonlineplanning/AcolnetCGI.gov?agreeprint=I+AGREE+ ||
 || Done || Exmoor National Park Authority || Dulverton || Custom scraper || http://www.exmoor-nationalpark.gov.uk/planning_application_search_week_ending.htm ||
