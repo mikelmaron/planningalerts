@@ -1,6 +1,6 @@
 || Done || Wakefield City Council || Wakefield || PublicAccess || http://planning.wakefield.gov.uk/publicaccess/tdc/tdc_home.aspx ||
 || Paul's Scraper || Walsall Metropolitan Borough Council || Walsall || PaulD has written a scraper for this || http://www2.walsall.gov.uk/dcaccess/planning/Planning-Registers/weeklylist/Weekly-list.asp ||
-|| Broken || London Borough of Waltham Forest || Chingford || PlanningExplorer || http://planning.walthamforest.gov.uk/PlanningExplorer/GeneralSearch.aspx ||
+|| Done || London Borough of Waltham Forest || Chingford || PlanningExplorer || http://planning.walthamforest.gov.uk/PlanningExplorer/GeneralSearch.aspx ||
 ||  || *Wandsworth Borough Council* || London || searchable by date received *(only first half of postcodes)*|| http://www.wandsworth.gov.uk/gis/search/Search.aspx ||
 || Done || Wansbeck District Council || Bedlington || Provided to us by the council :-) || ||
 || Done || Warrington Borough Council || Warrington || [SwiftLG] || http://212.248.237.123:8080/swiftlg/apas/run/wphappcriteria.display ||
