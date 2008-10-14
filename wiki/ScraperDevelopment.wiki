@@ -1,3 +1,6 @@
+# Need installing =
+
+  * West Dorset (install new scraper and update database)
 
 = Scrapers being worked on =
 
