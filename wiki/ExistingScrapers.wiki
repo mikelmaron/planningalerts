@@ -32,6 +32,7 @@ Others:
   * Flintshire (the site has now completely changed, so we're starting from scratch, I think)
   * Forest of Dean
   * Glasgow (from Peter)
+  * Gosport
   * Halton (no satisfactory info url)
   * Hampshire
   * Harrow (no satisfactory info url)
