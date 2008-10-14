@@ -3,7 +3,7 @@
 || Done || Glasgow City Council || Glasgow || weekly lists as pdf - perl scraper from Peter || http://www.glasgow.gov.uk/en/Business/Planning_Development/DevelopmentControl/Sitehistorysearches/ ||
 || Done || Gloucester City Council || Gloucester || PublicAccess || http://www.glcstrplnng11.co.uk/publicaccess/ ||
 || Done || Gloucestershire County Council || Gloucester || PublicAccess ||  http://www.glcstrplnng11.co.uk/publicaccess/tdc/ ||
-||  || *Gosport Borough Council* || Gosport || search by date || http://www.gosport.gov.uk/gbcplanning/ApplicationSearch2.aspx ||
+|| Done || Gosport Borough Council || Gosport || Custom Scraper || http://www.gosport.gov.uk/gbcplanning/ApplicationSearch2.aspx ||
 || Done || Gravesham Borough Council || Gravesend || PublicAccess || http://plan.gravesham.gov.uk/PublicAccess/ ||
 || Done || Great Yarmouth Borough Council || Great Yarmouth || [Ocella] || http://www.great-yarmouth.gov.uk/planning/development_control/planning_applications/archived_applications_2006.htm ||
 || Done || Greenwich Borough Council || London || Acolnet || http://onlineplanning.greenwich.gov.uk/acolnet/planningpages/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
