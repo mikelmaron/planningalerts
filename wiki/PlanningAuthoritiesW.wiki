@@ -15,7 +15,7 @@
 || Done || Welwyn-Hatfield District Council || Welwyn Garden City || FastWeb || https://fastweb.welhat.gov.uk/results.asp ||
 || Done || West Berkshire Council || Newbury || PublicAccess || http://ww2.westberks.gov.uk/publicaccess/tdc/ ||
 ||  || *West Devon Borough Council* || Okehampton, Tavistock || searchable by date || http://www.westdevon.gov.uk/planningapp/planningsearch.aspx ||
-|| Done || West Dorset District Council || Dorchester || Perl scraper from Tom || http://webapps.westdorset-dc.gov.uk/PlanningApplications/Pages/ApplicationSearch.aspx ||
+|| Done || West Dorset District Council || Dorchester || Custom Scraper || http://webapps.westdorset-dc.gov.uk/PlanningApplications/Pages/ApplicationSearch.aspx ||
 ||  || *West Dunbartonshire Council* || Clydebank, Dumbarton || Searchable by date. May have PublicAccess underneath || http://www.wdcweb.info/uniform/dcsearch_app.asp ||
 || Done || West Lancashire District Council || Ormskirk || PublicAccess || http://publicaccess.westlancsdc.gov.uk/PublicAccess/tdc/DcApplication/application_searchform.aspx ||
 ||  || *West Lindsey District Council* || Gainsborough || searchable by some kind of date - complete dog's breakfast in FireFox... || http://planning.west-lindsey.gov.uk/planning/ ||
