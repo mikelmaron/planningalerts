@@ -26,6 +26,7 @@ Others:
   * Brentwood (from Peter)
   * Broxbourne - Tom's Scraper
   * Cairngorms
+  * Calderdale
   * Enfield (Now using the SwiftLG scraper)
   * Eastbourne (Info and comment urls don't work because you can't get to them without a cookie)
   * Exmoor
