@@ -3,7 +3,7 @@
 || Done || Lancaster City Council || Lancaster || PublicAccess || http://planapps.lancaster.gov.uk/publicaccess/tdc/DcApplication/application_searchform.aspx ||
 || Done || Leeds City Council || Leeds || PublicAccess || http://planningapplications.leeds.gov.uk/publicaccess/tdc/tdc_home.aspx ||
 || || *Leicester City Council* || Leicester || *No Postcodes*. Searchable by date || http://rcweb.leicester.gov.uk/planning/onlinequery/mainsearch.aspx ||
-||  || *Leicestershire County Council* || Leicester || searchable by date || http://www.leics.gov.uk/index/community/community_services/environment_and_heritage/community_services_planning/planning_applications/eplanning_searchform.htm ||
+|| Done || Leicestershire County Council || Leicester || Custom Scraper || http://www.leics.gov.uk/index/community/community_services/environment_and_heritage/community_services_planning/planning_applications/eplanning_searchform.htm ||
 || Done || Lewes District Council || Lewes || PublicAccess || http://planning.lewes.gov.uk/PublicAccess/tdc/DcApplication/application_searchform.aspx ||
 || Done || Lewisham Borough Council || Catford || AcolNet || http://acolnet.lewisham.gov.uk/lewis-xslpagesdc/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.PgeSearch ||
 || Done || Lichfield District Council || Lichfield || Custom Scraper || http://www.lichfielddc.gov.uk/site/scripts/planning.php ||
