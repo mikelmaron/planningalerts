@@ -6,7 +6,7 @@
 ||  || *Leicestershire County Council* || Leicester || searchable by date || http://www.leics.gov.uk/index/community/community_services/environment_and_heritage/community_services_planning/planning_applications/eplanning_searchform.htm ||
 || Done || Lewes District Council || Lewes || PublicAccess || http://planning.lewes.gov.uk/PublicAccess/tdc/DcApplication/application_searchform.aspx ||
 || Done || Lewisham Borough Council || Catford || AcolNet || http://acolnet.lewisham.gov.uk/lewis-xslpagesdc/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.PgeSearch ||
-||  || *Lichfield District Council* || Lichfield || no useful search, html list of the last week, and previous such lists || http://www.lichfielddc.gov.uk/site/scripts/planning.php ||
+|| Done || Lichfield District Council || Lichfield || Custom Scraper || http://www.lichfielddc.gov.uk/site/scripts/planning.php ||
 || Done || Lincoln City Council || Lincoln || PlanningExplorer || http://online.lincoln.gov.uk/MVM/Online/PL/GeneralSearch.aspx ||
 || Done || Lincolnshire County Council || Lincoln || AtriumePlanning || http://eplanning.lincolnshire.gov.uk/ePlanning/loadResults.do ||
 || Done || Liverpool City Council || Liverpool || PlanningExplorer || http://www.liverpool.gov.uk/environment/planning/mvm_explorer.asp ||
