@@ -44,7 +44,7 @@
 || Done || St Helens Council || St Helens || ApplicationSearchServlet || http://212.248.225.150:8080/portal/servlets/ApplicationSearchServlet ||
 || || *St. Albans District Council* || St Albans || searchable by date || http://www.stalbans.gov.uk/living/planning/search-plans.php ||
 || Done || Stafford Borough Council || Stafford || PublicAccess || http://www3.staffordbc.gov.uk/publicaccess/default.aspx ||
-|| || *Staffordshire County Council* || Stafford || searchable by date || http://www.staffordshire.gov.uk/environment/developmentcontrol/planning/applications/ApplicationsRegister/CPLand/search.aspx ||
+|| || *Staffordshire County Council* || Stafford || *No Postcodes*. Searchable by date || http://www.staffordshire.gov.uk/environment/developmentcontrol/planning/applications/ApplicationsRegister/CPLand/search.aspx ||
 || Done || Staffordshire Moorlands District Council || Leek || PublicAccess || http://publicaccess.staffsmoorlands.gov.uk/publicaccess/ ||
 || || *States of Guernsey* || St Peter Port || pdf of latest apps || http://www.gov.gg/ccm/environment/planning-division/development-control/press-lists/planning-application-press-list---150607.en ||
 || Done || Stevenage Borough Council || Stevenage || PublicAccess || http://publicaccess.stevenage.gov.uk/publicaccess ||
