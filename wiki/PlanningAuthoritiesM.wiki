@@ -6,7 +6,7 @@
 || Done|| Mansfield District Council || Mansfield || FastWeb || http://www.mansfield.gov.uk/Fastweb/search.asp ||
 || Done || Medway Council || Chatham || Custom Scraper || http://www.medway.gov.uk/index/environment/planning/planapp/planonline.htm ||
 || Done || Melton Borough Council || Melton Mowbray || PublicAccess (from 2008, previously RutlandLike) || http://publicaccess.melton.gov.uk/publicaccess/tdc/ ||
-||  || *Mendip District Council* || Shepton Mallet || searchable by date || http://www.mendip.gov.uk/pods/ApplicationSearch.asp ||
+|| Done || Mendip District Council || Shepton Mallet || Custom Scraper || http://www.mendip.gov.uk/pods/ApplicationSearch.asp ||
 ||  || *Merthyr Tydfil County Council* || Merthyr Tydfil || weekly lists as pdf || http://www.merthyr.gov.uk/Home/Local+Services/Planning/Development+Control/Weekly+List/April+2007.htm ||
 || Done || Merton Borough Council || Morden || PlanningExplorer || http://planning.merton.gov.uk/MVM/Online/PL/GeneralSearch.aspx ||
 || Done || Mid Bedfordshire District Council || Biggleswade || AcolNet ||  http://www.midbeds.gov.uk/services/planning/planning_apps/Weekly_List_of_Planning_Applications.asp ||
