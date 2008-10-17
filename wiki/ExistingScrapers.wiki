@@ -63,6 +63,7 @@ Others:
   * Wealden - PHP scraper from Matt
   * Westminster
   * West Dorset
+  * Weymouth and Portland (no satisfactory info or comment url)
   * Wiltshire - PHP scraper from Matt
   * York
 
