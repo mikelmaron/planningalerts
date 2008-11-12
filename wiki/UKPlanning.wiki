@@ -1,4 +1,4 @@
-#A planning portal with very strict terms
+#summary A planning portal with very strict terms
 = Introduction =
 
 The UKPlanning website has a large collection of applications from a range of local authorities, however they have very strict usage terms wich are copied below:
