@@ -15,7 +15,7 @@
 || Done || Shropshire County Council || Shrewsbury || Custom Scraper. Has OSGB (minerals and waste only) || http://planning.shropshire.gov.uk/PlanAppSrch.asp ||
 || Done || Slough Borough Council || Slough || [SwiftLG] || http://www2.slough.gov.uk/swiftlg/apas/run/wphappcriteria.display ||
 || Done || Snowdonia National Park Authority || Penrhynduedraeth || [SwiftLG] || http://www.eryri-npa.co.uk/swiftlg_test/apas_test/run/wphappcriteria.display ||
-|| || *Solihull Metropolitan Borough Council* || Solihull || weekly lists in html || http://www.solihull.gov.uk/planning/dc/weeklist.asp ||
+|| Done || Solihull Metropolitan Borough Council || Solihull || Python scraper from Thomas || http://www.solihull.gov.uk/planning/dc/weeklist.asp ||
 || Done || Somerset County Council || Taunton || AtriumePlanning || http://webapp1.somerset.gov.uk/ePlanning/searchPageLoad.do ||
 || || *South Ayrshire Council* || Ayr || searchable by date || http://gis.south-ayrshire.gov.uk/viewerplanning/planningLists.asp ||
 || Done || South Bedfordshire District Council || Dunstable || AcolNet || http://planning.southbeds.gov.uk/plantech/DCWebPages/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
