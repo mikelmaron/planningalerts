@@ -2,7 +2,7 @@
 || Done || New Forest National Park Authority || Lyndhurst || AcolNet || http://web01.newforestnpa.gov.uk/planningpages/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 || Done || New Forest District Council || || AcolNet || http://web3.newforest.gov.uk/planningonline/acolnetcgi.gov ||
 || || *Newark & Sherwood District Council* || Newark || eplanning, searchable by date|| http://www.nsdc.info/eplanning/default.aspx?sid=1&sindex=1&id=5 ||
-|| Done (but getting forbidden) || *Newcastle upon Tyne City Council* || Newcastle upon Tyne || PublicAccess || Gives a connection refused ||
+|| Done || Newcastle upon Tyne City Council || Newcastle upon Tyne || PublicAccess ||  ||
 || Done || Newcastle-under-Lyme Borough Council || Newcastle-under-Lyme || PublicAccess || ||
 || Done || Newham Borough Council || East Ham || PublicAccess || ||
 || Done || Newport City Council || Newport || weekly lists as pdf - Perl scraper from Peter || http://www.newport.gov.uk/_dc/index.cfm?fuseaction=planapps.applist ||
