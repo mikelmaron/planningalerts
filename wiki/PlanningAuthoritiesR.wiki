@@ -14,7 +14,7 @@
 || || *Rossendale* || Bacup || weekly lists as pdf || http://www.rossendale.gov.uk/site/scripts/download_info.php?downloadID=179 ||
 || Done || Rother || Bexhill || [WAM] || http://www.planning.rother.gov.uk/WAM/search/pas/index.htm ||
 || || *Rotherham* || Rotherham || weekly lists as pdf || http://www.rotherham.gov.uk/graphics/YourHome/Planning/Development+Control/Weekly+Planning+Applications/ ||
-|| || *Rugby* || Rugby || searchable by date || http://www.planningportal.rugby.gov.uk/search.asp ||
+|| Done || *Rugby* || Rugby || FastWeb || http://www.planningportal.rugby.gov.uk/search.asp ||
 || || *Runnymede* || Addlestone || weekly lists as html || http://ww2.runnymede.gov.uk/home/latest/wklyplanapps/wklyplanapps.asp ||
 || || *Rushcliffe* || West Bridgford || Blueprint - searchable by date || http://www.document1.co.uk/blueprint/AdvSearch.asp ||
 || Done || Rushmoor || Farnborough || PublicAccess || http://pa-dc.rushmoor.gov.uk/publicaccess/ ||
