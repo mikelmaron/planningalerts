@@ -1,4 +1,4 @@
-|| Done  || *Neath & Port Talbot County Council* || Neath || FastWeb || https://planning.npt.gov.uk/ ||
+|| Done  || Neath & Port Talbot County Council || Neath || FastWeb || https://planning.npt.gov.uk/ ||
 || Done || New Forest National Park Authority || Lyndhurst || AcolNet || http://web01.newforestnpa.gov.uk/planningpages/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 || Done || New Forest District Council || || AcolNet || http://web3.newforest.gov.uk/planningonline/acolnetcgi.gov ||
 || || *Newark & Sherwood District Council* || Newark || eplanning, searchable by date|| http://www.nsdc.info/eplanning/default.aspx?sid=1&sindex=1&id=5 ||
