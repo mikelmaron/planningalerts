@@ -10,7 +10,7 @@
 || Done || Tewkesbury Borough Council || Tewkesbury || PlanetApplicationEnquiry *(No postcodes, but does have OSGB)*|| http://planning.tewkesbury.gov.uk/Planet/ispforms.asp?serviceKey=07WCC04163103430 ||
 ||  || *Thanet District Council* || Margate || ukplanning || http://www.ukplanning.com/ukp/custom/forwards/selectandsearch.jsp?council=Thanet%20District%20Council&fwd=search/ ||
 || Done || Three Rivers District Council || Rickmansworth || PublicAccess || http://www2.threerivers.gov.uk/publicaccess/ ||
-||  || *Thurrock Borough Council* || Grays || no date search || http://www.thurrock.gov.uk/planning/development/content.php?page=application_search ||
+|| Done || Thurrock Borough Council || Grays || PublicAccess || http://regs.thurrock.gov.uk/PublicAccess/tdc/ ||
 || Done || Tonbridge & Malling Borough Council || West Malling || PublicAccess || http://publicaccess.tmbc.gov.uk/publicaccess/tdc/tdc_home.aspx ||
 || Done || Torbay Council || Torquay || PublicAccess || http://www.torbay.gov.uk/publicaccess/ ||
 ||  || *Torfaen County Borough Council* || Cwmbran || weekly lists as PDF || http://www.torfaen.gov.uk/EnvironmentAndPlanning/Planning/DevelopmentControl/PlanningPermission/PlanningApplications.aspx ||
