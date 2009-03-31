@@ -25,7 +25,7 @@
 || Done || West Sussex County Council || Chichester || AtriumePlanning || http://eplanning.westsussex.gov.uk/ePlanningOPS/searchPageLoad.do ||
 || Done || West Wiltshire District Council || Trowbridge || PublicAccess || http://planning.westwiltshire.gov.uk/publicaccess/ ||
 || Done || Westminster City Council || LONDON || There's a [WAM], but it's broken (probably old). There's a PublicAccess, but it doesn't contain everything. Using a custom scraper. || http://www3.westminster.gov.uk/planningapplications/currentsearch-form.cfm ||
-|| Done || Weymouth & Portland Borough Council || Weymouth || Custom Scraper Info and post pages can only be accessed by a post || http://www.weymouth.gov.uk/Planning/applications/newapps.asp?svid=212 ||
+|| Changed || Weymouth & Portland Borough Council || Weymouth || Custom scraper now out of date. No date search in the current site, but can see last 28 days' apps. || (was http://www.weymouth.gov.uk/Planning/applications/newapps.asp?svid=212) http://www.weymouth.gov.uk/home.asp?sv=777 ||
 ||  || *Wigan Metropolitan Borough Council* || Wigan || searchable by date received || http://kinnear.wigan.gov.uk/planapps/PlanAppsAppSearch.asp ||
 || Done || Wiltshire County Council || Trowbridge || PHP Scraper by Matt || http://www.wiltshireplanningapplications.co.uk/planning_search.aspx ||
 || Changed || *Winchester City Council* || Winchester || Used to be PublicAccess but now seems to be bespoke. There is a date search available. || http://planningapplications.winchester.gov.uk/PlanningWeb/SearchIndex.aspx (was http://win2padmz.winchester.gov.uk/publicaccess/) ||
