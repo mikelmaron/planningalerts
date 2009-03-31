@@ -10,7 +10,7 @@
 || Done || Harrogate Borough Council || Harrogate || PublicAccess || http://publicaccess.harrogate.gov.uk/publicaccess/tdc/tdc_home.aspx ||
 || Done || Hart District Council || Fleet || PublicAccess || http://publicaccess.hart.gov.uk/publicAccess/ ||
 || Done || Hartlepool Borough Council || Hartlepool || ApplicationSearchServlet || http://eforms.hartlepool.gov.uk:7777/portal/servlets/ApplicationSearchServlet ||
-|| Done || Hastings Borough Council || St Leonards on Sea || Custom scraper - *no decent info url* || http://www.hastings.gov.uk/planning/SearchResults.aspx ||
+|| Changed || Hastings Borough Council || St Leonards on Sea || (old: Custom scraper - *no decent info url*) New site looks a complete mess in my browser, but looks scrapable. || (old: http://www.hastings.gov.uk/planning/SearchResults.aspx) ||
 || 
 || Done || Havant Borough Council || Havant || AcolNet || http://www3.havant.gov.uk/scripts/planningpages/acolnetcgi.exe?ACTION=UNWRAP&RIPNAME=Root.pgesearch&theme= ||
 || Done || Havering Borough Council || Romford || [Ocella] || http://lxop01.havering.gov.uk:7783/portal/page?_pageid=33,30979&_dad=portal&_schema=PORTAL ||
