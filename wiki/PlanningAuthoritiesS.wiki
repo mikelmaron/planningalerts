@@ -52,7 +52,7 @@
 || Done || Stockport Metropolitan Borough Council || Stockport || AcolNet || http://planning.stockport.gov.uk/PlanningData/AcolNetCGI.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch (was http://s1.stockport.gov.uk/council/eed/dc/planning/MVM/Online/PL/GeneralSearch.aspx) ||
 || Done || Stockton-on-Tees Borough Council || Stockton on Tees || PublicAccess || http://www.developmentcontrol.stockton.gov.uk/publicaccess/ ||
 || || *Stoke-on-Trent City Council* || Stoke-on-Trent || No obvious date search or weekly list || http://www.gisinternet.stoke.gov.uk/evoplanning/search_form.asp ||
-|| Broken (connection refused) || *Stratford-on-Avon District Council* || Stratford-upon-Avon || PublicAccess || http://217.33.198.119/publicaccess/default.aspx ||
+||  || *Stratford-on-Avon District Council* || Stratford-upon-Avon || Current site is unavailable midnight to 6am. (the PublicAccess site seems to have gone) || http://apps.stratford.gov.uk/eplanning (was http://217.33.198.119/publicaccess/default.aspx) ||
 || || *Stroud District Council* || Stroud || searchable by date, or weekly list || http://www.stroud.gov.uk/docs/planning/planning_application_search.asp?did=onlineplanapps ||
 || Done || Suffolk Coastal District Council || Woodbridge || AcolNet (URL changed 11/2007)|| http://apps3.suffolkcoastal.gov.uk/DCDataV2/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
 || Done || Suffolk County Council || Ipswich || AtriumePlanning - minerals and waste only *(very few postcodes)* || http://atrium.suffolkcc.gov.uk/ePlanning/searchPageLoad.do ||
