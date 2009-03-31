@@ -38,7 +38,7 @@
 || || *Bromsgrove* || Bromsgrove District Council || pdf of year to date || http://bromsgrove.whub.org.uk/home/bdcindex/bdc-planning/bdc-planning-applications/bdc-planning-recent-applications.htm ||
 || Done || Broxbourne || Broxbourne Borough Council || Tom's Scraper || http://www.broxbourne.gov.uk/Internet/Applications/Planning%20Applications ||
 || Done || Broxtowe || Broxtowe Borough Council || Custom Scraper || http://www.broxtowe.gov.uk/index.aspx?articleid=4145 ||
-|| Done || Buckinghamshire || Buckinghamshire County Council || PublicAccess || http://www.bucksplanning.gov.uk/publicaccess/ ||
+|| Done || Buckinghamshire || Buckinghamshire County Council || PublicAccess || http://bucksplanning.buckscc.gov.uk/PublicAccessLive/tdc/ ||
 || || *Burnley* || Burnley Borough Council || weekly lists in html *(no postcodes)* || http://www.burnley.gov.uk/site/scripts/planning.php ||
 || Done || Bury || Bury Metropolitan Borough Council || AcolNet || http://e-planning.bury.gov.uk/DCWebPages/acolnetcgi.gov?ACTION=UNWRAP&RIPNAME=Root.pgesearch ||
  
